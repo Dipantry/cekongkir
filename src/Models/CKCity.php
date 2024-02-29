@@ -11,7 +11,6 @@ use Illuminate\Database\Eloquent\Model;
  * @property int $province_id
  * @property-read CKProvince $province
  * @property-read Collection<int, CKDistrict> $districts
- * @property-read int|null $districts_count
  */
 class CKCity extends Model
 {

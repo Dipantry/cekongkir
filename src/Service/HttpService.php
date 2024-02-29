@@ -8,13 +8,11 @@ use Illuminate\Support\Facades\Http;
 
 class HttpService
 {
-    private string $apiKey;
     private string $baseUrl;
     private int $timeout;
 
-    public function __construct(string $apiKey, string $baseUrl, int $timeout)
+    public function __construct(string $baseUrl, int $timeout)
     {
-        $this->apiKey = $apiKey;
         $this->baseUrl = $baseUrl;
         $this->timeout = $timeout;
     }
@@ -25,9 +23,7 @@ class HttpService
     public function get(string $url, array $params, string $key)
     {
         try {
-            $response = Http::withHeaders([
-                'authorization' => $this->apiKey,
-            ])->timeout($this->timeout)->get($this->baseUrl.$url, $params);
+            $response = Http::timeout($this->timeout)->get($this->baseUrl.$url, $params);
         } catch (Exception) {
             throw new ApiResponseException('Connection Timed Out');
         }
@@ -54,9 +50,7 @@ class HttpService
     public function post(string $url, array $params, string $key)
     {
         try {
-            $response = Http::withHeaders([
-                'authorization' => $this->apiKey,
-            ])->timeout($this->timeout)->post($this->baseUrl.$url, $params);
+            $response = Http::timeout($this->timeout)->post($this->baseUrl.$url, $params);
         } catch (Exception) {
             throw new ApiResponseException('Connection Timed Out');
         }

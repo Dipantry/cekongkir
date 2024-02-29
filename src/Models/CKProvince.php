@@ -9,7 +9,6 @@ use Illuminate\Database\Eloquent\Model;
  * @property int $id
  * @property string $name
  * @property-read Collection<int, CKCity> $cities
- * @property-read int|null $cities_count
  */
 class CKProvince extends Model
 {

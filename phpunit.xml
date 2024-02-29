@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/10.5/phpunit.xsd"
+         bootstrap="vendor/autoload.php"
+         colors="true"
+         cacheDirectory=".phpunit.cache">
+
+    <testsuites>
+        <testsuite name="Config">
+            <directory>./tests/Config</directory>
+        </testsuite>
+        <testsuite name="Database">
+            <directory>./tests/Database</directory>
+        </testsuite>
+        <testsuite name="Exception">
+            <directory>./tests/Exception</directory>
+        </testsuite>
+        <!--        <testsuite name="Http">-->
+        <!--            <directory>./tests/Http</directory>-->
+        <!--        </testsuite>-->
+        <testsuite name="Model">
+            <directory>./tests/Model</directory>
+        </testsuite>
+        <!--        <testsuite name="Service">-->
+        <!--            <directory>./tests/Service</directory>-->
+        <!--        </testsuite>-->
+        <!--        <testsuite name="Vanilla">-->
+        <!--            <directory>./tests/Vanilla</directory>-->
+        <!--        </testsuite>-->
+    </testsuites>
+    <source>
+        <include>
+            <directory suffix=".php">./src</directory>
+        </include>
+    </source>
+</phpunit>

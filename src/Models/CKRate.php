@@ -23,6 +23,6 @@ class CKRate extends Model
 
     public function courier()
     {
-        $this->belongsTo(CKCourier::class, 'courier_id');
+        return $this->belongsTo(CKCourier::class, 'courier_id');
     }
 }

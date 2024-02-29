@@ -12,7 +12,6 @@ use Illuminate\Database\Eloquent\Model;
  * @property string $image_url
  * @property string $company_name
  * @property-read Collection<int, CKRate> $rates
- * @property-read int|null $rates_count
  */
 class CKCourier extends Model
 {

@@ -12,7 +12,7 @@ class SeedCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'ongkir:seed';
+    protected $signature = 'cekongkir:seed';
 
     /**
      * The console command description.
