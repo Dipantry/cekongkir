@@ -19,6 +19,12 @@ class DatabaseSeeder extends Seeder
         $this->reset();
 
         $this->call(CourierSeeder::class);
+        $this->call(RateSeeder::class);
+
+        $this->call(ProvinceSeeder::class);
+        $this->call(CitySeeder::class);
+        $this->call(DistrictSeeder::class);
+        $this->call(VillageSeeder::class);
 
         Schema::enableForeignKeyConstraints();
     }

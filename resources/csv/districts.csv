@@ -1,0 +1,7004 @@
+id|name|city_id
+1|Pekutatan|1
+2|Mendoyo|1
+3|Melaya|1
+4|Jembrana|1
+5|Negara|1
+6|Baturiti|2
+7|Marga|2
+8|Pupuan|2
+9|Selemadeg|2
+10|Salemadeg Barat|2
+11|Salamadeg Timur|2
+12|Kerambitan|2
+13|Penebel|2
+14|Kediri|2
+15|Tabanan|2
+16|Tejakula|3
+17|Kubutambahan|3
+18|Sawan|3
+19|Sukasada|3
+20|Gerokgak|3
+21|Busungbiu|3
+22|Seririt|3
+23|Banjar|3
+24|Buleleng|3
+25|Manggis|4
+26|Sidemen|4
+27|Rendang|4
+28|Selat|4
+29|Bebandem|4
+30|Kubu|4
+31|Abang|4
+32|Karang Asem|4
+33|Nusapenida|5
+34|Dawan|5
+35|Banjarangkan|5
+36|Klungkung|5
+37|Tembuku|6
+38|Susut|6
+39|Kintamani|6
+40|Bangli|6
+41|Sukawati|7
+42|Belah Batuh (Blahbatuh)|7
+43|Payangan|7
+44|Ubud|7
+45|Tegallalang|7
+46|Tampak Siring|7
+47|Gianyar|7
+48|Kuta Selatan|8
+49|Kuta|8
+50|Kuta Utara|8
+51|Petang|8
+52|Abiansemal|8
+53|Mengwi|8
+54|Denpasar Utara|9
+55|Denpasar Timur|9
+56|Denpasar Selatan|9
+57|Denpasar Barat|9
+58|Lepar Pongok|10
+59|Kepulauan Pongok|10
+60|Tukak Sadai|10
+61|Toboali|10
+62|Air Gegas|10
+63|Pulau Besar|10
+64|Payung|10
+65|Simpang Rimba|10
+66|Pangkalan Baru|11
+67|Namang|11
+68|Lubuk Besar|11
+69|Koba|11
+70|Sungai Selan|11
+71|Simpang Katis|11
+72|Kelapa Kampit|12
+73|Damar|12
+74|Simpang Renggiang|12
+75|Gantung|12
+76|Simpang Pesak|12
+77|Dendang|12
+78|Manggar|12
+79|Selat Nasik|13
+80|Membalong|13
+81|Badau|13
+82|Tanjung Pandan|13
+83|Sijuk|13
+84|Simpang Teritip|14
+85|Tempilang|14
+86|Kelapa|14
+87|Jebus|14
+88|Parittiga|14
+89|Mentok (Muntok)|14
+90|Pemali|15
+91|Riau Silip|15
+92|Belinyu|15
+93|Bakam|15
+94|Sungai Liat|15
+95|Puding Besar|15
+96|Mendo Barat|15
+97|Merawang|15
+98|Bukit Intan|16
+99|Girimaya|16
+100|Rangkui|16
+101|Taman Sari|16
+102|Gerunggang|16
+103|Gabek|16
+104|Pangkal Balam|16
+105|Pulo Ampel|17
+106|Bojonegara|17
+107|Waringin Kurung|17
+108|Ciwandan|18
+109|Citangkil|18
+110|Pulomerak|18
+111|Gerogol|18
+112|Purwakarta|18
+113|Cibeber|18
+114|Cilegon|18
+115|Jombang|18
+116|Wanasalam|19
+117|Cigemblong|19
+118|Cijaku|19
+119|Cibeber|19
+120|Bayah|19
+121|Cilograng|19
+122|Panggarangan|19
+123|Cihara|19
+124|Malingping|19
+125|Maja|19
+126|Curugbitung|19
+127|Cipanas|19
+128|Lebakgedong|19
+129|Sajira|19
+130|Muncang|19
+131|Bojongmanik|19
+132|Cirinten|19
+133|Leuwidamar|19
+134|Cimarga|19
+135|Cibadak|19
+136|Cikulur|19
+137|Banjarsari|19
+138|Gunung Kencana|19
+139|Cileles|19
+140|Warunggunung|19
+141|Rangkasbitung|19
+142|Sobang|19
+143|Kalanganyar|19
+144|Cikeusik|20
+145|Cibaliung|20
+146|Cibitung|20
+147|Cimanggu|20
+148|Sumur|20
+149|Cigeulis|20
+150|Sobang|20
+151|Panimbang|20
+152|Angsana|20
+153|Munjul|20
+154|Sindangresmi|20
+155|Picung|20
+156|Bojong|20
+157|Saketi|20
+158|Pulosari|20
+159|Cisata|20
+160|Cipeucang|20
+161|Cikeudal (Cikedal)|20
+162|Mekarjaya|20
+163|Cimanuk|20
+164|Sukaresmi|20
+165|Pagelaran|20
+166|Patia|20
+167|Carita|20
+168|Labuan|20
+169|Jiput|20
+170|Menes|20
+171|Mandalawangi|20
+172|Kaduhejo|20
+173|Banjar|20
+174|Cadasari|20
+175|Koroncong|20
+176|Karang Tanjung|20
+177|Pandeglang|20
+178|Majasari|20
+179|Binuang|17
+180|Carenang (Cerenang)|17
+181|Tanara|17
+182|Tirtayasa|17
+183|Pontang|17
+184|Kasemen|477
+185|Cikande|17
+186|Kibin|17
+187|Kragilan|17
+188|Lebak Wangi|17
+189|Walantaka|477
+190|Ciruas|17
+191|Kopo|17
+192|Jawilan|17
+193|Pamarayan|17
+194|Bandung|17
+195|Cikeusal|17
+196|Tunjung Teja|17
+197|Baros|17
+198|Petir|17
+199|Curug|477
+200|Padarincang|17
+201|Cinangka|17
+202|Anyar|17
+203|Mancak|17
+204|Ciomas|17
+205|Pabuaran|17
+206|Gunungsari|17
+207|Taktakan|477
+208|Kramatwatu|17
+209|Cipocok Jaya|477
+210|Serang|477
+211|Legok|21
+212|Curug|21
+213|Kelapa Dua|21
+214|Cisoka|21
+215|Solear|21
+216|Tigaraksa|21
+217|Jambe|21
+218|Cikupa|21
+219|Panongan|21
+220|Gunung Kaler|21
+221|Kresek|21
+222|Balaraja|21
+223|Jayanti|21
+224|Sukamulya|21
+225|Pakuhaji|21
+226|Sindang Jaya|21
+227|Pasar Kemis|21
+228|Mekar Baru|21
+229|Kronjo|21
+230|Rajeg|21
+231|Mauk|21
+232|Sukadiri|21
+233|Kemiri|21
+234|Sepatan|21
+235|Sepatan Timur|21
+236|Teluknaga|21
+237|Ciputat Timur|22
+238|Pamulang|22
+239|Ciputat|22
+240|Cisauk|21
+241|Pagedangan|21
+242|Serpong Utara|22
+243|Serpong|22
+244|Setu|22
+245|Pondok Aren|22
+246|Kosambi|21
+247|Karang Tengah|476
+248|Larangan|476
+249|Ciledug|476
+250|Cipondoh|476
+251|Pinang|476
+252|Cibodas|476
+253|Jatiuwung|476
+254|Periuk|476
+255|Neglasari|476
+256|Benda|476
+257|Batuceper|476
+258|Tangerang|476
+259|Karawaci|476
+260|Muara Kemumu|23
+261|Seberang Musi|23
+262|Bermani Ilir|23
+263|Kebawetan (Kabawetan)|23
+264|Tebat Karai|23
+265|Kepahiang|23
+266|Ujan Mas|23
+267|Merigi|23
+268|Pinang Belapis|24
+269|Uram Jaya|24
+270|Lebong Sakti|24
+271|Pelabai|24
+272|Lebong Atas|24
+273|Amen|24
+274|Lebong Utara|24
+275|Lebong Tengah|24
+276|Lebong Selatan|24
+277|Topos|24
+278|Bingin Kuning|24
+279|Rimbo Pengadang|24
+280|Kota Padang|25
+281|Sindang Beliti Ilir|25
+282|Padang Ulak Tanding|25
+283|Sindang Beliti Ulu|25
+284|Binduriang|25
+285|Sindang Kelingi|25
+286|Sindang Daratan|25
+287|Selupu Rejang|25
+288|Bermani Ulu|25
+289|Bermani Ulu Raya|25
+290|Curup Selatan|25
+291|Curup|25
+292|Curup Utara|25
+293|Curup Timur|25
+294|Curup Tengah|25
+295|Maje|26
+296|Nasal|26
+297|Tetap (Muara Tetap)|26
+298|Kaur Selatan|26
+299|Semidang Gumai (Gumay)|26
+300|Kinal|26
+301|Muara Sahung|26
+302|Luas|26
+303|Kaur Tengah|26
+304|Padang Guci Hilir|26
+305|Lungkang Kule|26
+306|Kelam Tengah|26
+307|Kaur Utara|26
+308|Padang Guci Hulu|26
+309|Tanjung Kemuning|26
+310|Talo Kecil|27
+311|Ilir Talo|27
+312|Ulu Talo|27
+313|Seluma Timur|27
+314|Seluma Utara|27
+315|Seluma Barat|27
+316|Lubuk Sandi|27
+317|Air Periukan|27
+318|Seluma Selatan|27
+319|Sukaraja|27
+320|Seluma|27
+321|Semidang Alas Maras|27
+322|Talo|27
+323|Semidang Alas|27
+324|Teras Terunjam|28
+325|Penarik|28
+326|Selagan Raya|28
+327|Lubuk Pinang|28
+328|Air Majunto|28
+329|V Koto|28
+330|Pondok Suguh|28
+331|Teramang Jaya|28
+332|Sungai Rumbai|28
+333|XIV Koto|28
+334|Kota Mukomuko (Mukomuko Utara)|28
+335|Air Dikit|28
+336|Ipuh (Muko-Muko Selatan)|28
+337|Air Rami|28
+338|Malin Deman|28
+339|Padang Jaya|29
+340|Batik Nau|29
+341|Giri Mulia|29
+342|Air Padang|29
+343|Lais|29
+344|Arga Makmur|29
+345|Arma Jaya|29
+346|Air Besi|29
+347|Tanjung Agung Palik|29
+348|Pino|30
+349|Pinoraya|30
+350|Air Nipis|30
+351|Ulu Manna|30
+352|Kedurang|30
+353|Kedurang Ilir|30
+354|Seginim|30
+355|Pasar Manna|30
+356|Kota Manna|30
+357|Manna|30
+358|Bunga Mas|30
+359|Enggano|29
+360|Merigi Kelindang|31
+361|Taba Penanjung|31
+362|Talang Empat|31
+363|Karang Tinggi|31
+364|Pagar Jati|31
+365|Merigi Sakti|31
+366|Pondok Kubang|31
+367|Hulu Palik|29
+368|Kerkap|29
+369|Air Napal|29
+370|Pematang Tiga|31
+371|Bang Haji|31
+372|Pondok Kelapa|31
+373|Napal Putih|29
+374|Ulok Kupai|29
+375|Ketahun|29
+376|Putri Hijau|29
+377|Gading Cempaka|32
+378|Ratu Agung|32
+379|Singaran Pati|32
+380|Ratu Samban|32
+381|Selebar|32
+382|Kampung Melayu|32
+383|Muara Bangka Hulu|32
+384|Sungai Serut|32
+385|Teluk Segara|32
+386|Semanu|33
+387|Ponjong|33
+388|Karangmojo|33
+389|Girisubo|33
+390|Rongkop|33
+391|Tepus|33
+392|Tanjungsari|33
+393|Panggang|33
+394|Purwosari|33
+395|Paliyan|33
+396|Sapto Sari|33
+397|Gedang Sari|33
+398|Patuk|33
+399|Playen|33
+400|Semin|33
+401|Ngawen|33
+402|Nglipar|33
+403|Wonosari|33
+404|Piyungan|34
+405|Pleret|34
+406|Dlingo|34
+407|Imogiri|34
+408|Jetis|34
+409|Kretek|34
+410|Pundong|34
+411|Bambang Lipuro|34
+412|Sanden|34
+413|Srandakan|34
+414|Pandak|34
+415|Sedayu|34
+416|Pajangan|34
+417|Bantul|34
+418|Girimulyo|35
+419|Samigaluh|35
+420|Kalibawang|35
+421|Nanggulan|35
+422|Sentolo|35
+423|Lendah|35
+424|Galur|35
+425|Panjatan|35
+426|Temon|35
+427|Kokap|35
+428|Pengasih|35
+429|Wates|35
+430|Gamping|36
+431|Ngemplak|36
+432|Cangkringan|36
+433|Pakem|36
+434|Ngaglik|36
+435|Berbah|36
+436|Prambanan|36
+437|Kalasan|36
+438|Moyudan|36
+439|Minggir|36
+440|Seyegan|36
+441|Tempel|36
+442|Turi|36
+443|Sleman|36
+444|Mlati|36
+445|Depok|36
+446|Gedong Tengen|37
+447|Godean|36
+448|Ngampilan|37
+449|Wirobrajan|37
+450|Tegalrejo|37
+451|Jetis|37
+452|Gondokusuman|37
+453|Danurejan|37
+454|Banguntapan|34
+455|Sewon|34
+456|Kasihan|34
+457|Kotagede|37
+458|Umbulharjo|37
+459|Mergangsan|37
+460|Mantrijeron|37
+461|Kraton|37
+462|Gondomanan|37
+463|Pakualaman|37
+464|Kepulauan Seribu Utara|38
+465|Kepulauan Seribu Selatan|38
+466|Penjaringan|39
+467|Pademangan|39
+468|Tanjung Priok|39
+469|Koja|39
+470|Kelapa Gading|39
+471|Cilincing|39
+472|Cakung|40
+473|Cipayung|40
+474|Ciracas|40
+475|Pasar Rebo|40
+476|Makasar|40
+477|Kramat Jati|40
+478|Duren Sawit|40
+479|Jatinegara|40
+480|Pulo Gadung|40
+481|Matraman|40
+482|Setia Budi|41
+483|Tebet|41
+484|Mampang Prapatan|41
+485|Pancoran|41
+486|Jagakarsa|41
+487|Pasar Minggu|41
+488|Cilandak|41
+489|Pesanggrahan|41
+490|Kebayoran Lama|41
+491|Kebayoran Baru|41
+492|Kalideres|42
+493|Cengkareng|42
+494|Kembangan|42
+495|Kebon Jeruk|42
+496|Palmerah|42
+497|Grogol Petamburan|42
+498|Tambora|42
+499|Taman Sari|42
+500|Sawah Besar|43
+501|Kemayoran|43
+502|Cempaka Putih|43
+503|Johar Baru|43
+504|Senen|43
+505|Menteng|43
+506|Tanah Abang|43
+507|Gambir|43
+508|Bone|44
+509|Bonepantai|44
+510|Bone Raya|44
+511|Kabila Bone|44
+512|Bulawa|44
+513|Suwawa|44
+514|Suwawa Timur|44
+515|Suwawa Tengah|44
+516|Pinogu|44
+517|Suwawa Selatan|44
+518|Tilongkabila|44
+519|Kabila|44
+520|Botu Pingge|44
+521|Bulango Utara|44
+522|Bulango Timur|44
+523|Bulango Selatan|44
+524|Tapa|44
+525|Bulango Ulu|44
+526|Monano|45
+527|Anggrek|45
+528|Biau|45
+529|Tolinggula|45
+530|Randangan|46
+531|Taluditi (Taluduti)|46
+532|Lemito|46
+533|Wanggarasi|46
+534|Popayato Barat|46
+535|Popayato|46
+536|Popayato Timur|46
+537|Marisa|46
+538|Batudaa Pantai|47
+539|Biluhu|47
+540|Bongomeme|47
+541|Tabongo|47
+542|Dungaliyo|47
+543|Batudaa|47
+544|Buntulia|46
+545|Patilanggio|46
+546|Duhiadaa|46
+547|Mananggu|48
+548|Paguat|46
+549|Dengilo|46
+550|Botumoita (Botumoito)|48
+551|Bilato|47
+552|Boliohuto (Boliyohuto)|47
+553|Tilamuta|48
+554|Dulupi|48
+555|Wonosari|48
+556|Paguyaman|48
+557|Paguyaman Pantai|48
+558|Sumalata Timur|45
+559|Sumalata|45
+560|Atinggola|45
+561|Gentuma Raya|45
+562|Kwandang|45
+563|Tomolito|45
+564|Ponelo Kepulauan|45
+565|Tibawa|47
+566|Limboto|47
+567|Limboto Barat|47
+568|Tolangohula|47
+569|Asparaga|47
+570|Telaga Jaya|47
+571|Telaga Biru|47
+572|Tilango|47
+573|Telaga|47
+574|Dungingi|498
+575|Kota Barat|498
+576|Kota Tengah|498
+577|Pulubala|47
+578|Mootilango|47
+579|Sipatana|498
+580|Kota Utara|498
+581|Dumbo Raya|498
+582|Kota Timur|498
+583|Hulonthalangi|498
+584|Kota Selatan|498
+585|Sumay|49
+586|Tebo Ilir|49
+587|Muara Tabir|49
+588|Tengah Ilir|49
+589|Tebo Tengah|49
+590|Tebo Ulu|49
+591|Serai Serumpun|49
+592|Rimbo Bujang|49
+593|Rimbo Ulu|49
+594|Rimbo Ilir|49
+595|Mandiangin|50
+596|Pauh|50
+597|Air Hitam|50
+598|Batang Asai|50
+599|Pelawan|50
+600|Singkut|50
+601|Sarolangun|50
+602|Bathin VIII (Batin VIII)|50
+603|Cermin Nan Gadang|50
+604|Limun|50
+605|Lembah Masurai|51
+606|Sungai Tenang|51
+607|Jangkat|51
+608|Muara Siau|51
+609|Tiang Pumpung|51
+610|Pangkalan Jambu|51
+611|Sungai Manau|51
+612|Renah Pembarap|51
+613|Tabir Barat|51
+614|Tabir Ulu|51
+615|Tabir Selatan|51
+616|Tabir Ilir|51
+617|Margo Tabir|51
+618|Tabir|51
+619|Tabir Lintas|51
+620|Tabir Timur|51
+621|Pamenang Barat|51
+622|Pamenang Selatan|51
+623|Pamenang|51
+624|Renah Pemenang|51
+625|Bangko|51
+626|Batang Masumai|51
+627|Nalo Tantan|51
+628|Bangko Barat|51
+629|Tanah Sepenggal|52
+630|Tanah Sepenggal Lintas|52
+631|Pelepat|52
+632|Bathin III Ulu|52
+633|Rantau Pandan|52
+634|VII Koto|49
+635|VII Koto Ilir|49
+636|Jujuhan|52
+637|Jujuhan Ilir|52
+638|Tanah Tumbuh|52
+639|Bathin II Pelayang|52
+640|Pelepat Ilir|52
+641|Muko-Muko Batin VII|52
+642|Limbur Lubuk Mengkuang|52
+643|Bathin II Babeko|52
+644|Bathin III|52
+645|Pasar Muara Bungo|52
+646|Rimbo Tengah|52
+647|Bungo Dani|52
+648|Batang Merangin|53
+649|Bukitkerman|53
+650|Gunung Raya|53
+651|Keliling Danau|53
+652|Danau Kerinci|53
+653|Tanah Kampung|54
+654|Sitinjau Laut|53
+655|Gunung Tujuh|53
+656|Kayu Aro|53
+657|Kayu Aro Barat|53
+658|Siulak|53
+659|Gunung Kerinci|53
+660|Siulak Mukai|53
+661|Depati Tujuh|53
+662|Air Hangat Timur|53
+663|Air Hangat|53
+664|Air Hangat Barat|53
+665|Hamparan Rawang|54
+666|Pesisir Bukit|54
+667|Koto Baru|54
+668|Pondok Tinggi|54
+669|Sungai Bungkal|54
+670|Sungai Penuh|54
+671|Kumun Debai|54
+672|Sadu|55
+673|Rantau Rasau|55
+674|Nipah Panjang|55
+675|Mendahara Ulu|55
+676|Mendahara|55
+677|Geragai|55
+678|Dendang|55
+679|Kuala Jambi|55
+680|Muara Sabak Barat|55
+681|Muara Sabak Timur|55
+682|Pemayung|56
+683|Batin XXIV|56
+684|Maro Sebo Ilir|56
+685|Maro Sebo Ulu|56
+686|Mersam|56
+687|Muara Tembesi|56
+688|Muara Bulian|56
+689|Bajubang|56
+690|Berbak|55
+691|Tungkal Ilir|57
+692|Betara|57
+693|Kuala Betara|57
+694|Merlung|57
+695|Renah Mendaluh|57
+696|Muara Papalik|57
+697|Pengabuan|57
+698|Senyerang|57
+699|Tebing Tinggi|57
+700|Batang Asam|57
+701|Tungkal Ulu|57
+702|Seberang Kota|57
+703|Bram Itam|57
+704|Taman Rajo / Rejo|58
+705|Maro Sebo|58
+706|Jambi Luar Kota|58
+707|Sekernan|58
+708|Sungai Gelam|58
+709|Kumpeh Ulu|58
+710|Bahar Utara|58
+711|Kumpeh|58
+712|Bahar Selatan|58
+713|Sungai Bahar|58
+714|Mestong|58
+715|Danau Teluk|59
+716|Pelayangan|59
+717|Jambi Timur|59
+718|Jambi Selatan|59
+719|Jelutung|59
+720|Pasar Jambi|59
+721|Telanaipura|59
+722|Kota Baru|59
+723|Bojonggambir|60
+724|Bojongasih|60
+725|Taraju|60
+726|Sodonghilir|60
+727|Salawu|60
+728|Puspahiang|60
+729|Padakembang|60
+730|Sariwangi|60
+731|Leuwisari|60
+732|Cigalontang|60
+733|Mangunreja|60
+734|Sukarame|60
+735|Gunung Tanjung|60
+736|Sukaresik|60
+737|Singaparna|60
+738|Cibeureum|483
+739|Sukaratu|60
+740|Pagerageung|60
+741|Kalipucang|61
+742|Indihiang|483
+743|Pangandaran|61
+744|Cimerak|61
+745|Cijulang|61
+746|Parigi|61
+747|Cigugur|61
+748|Langkaplancar|61
+749|Tambaksari|62
+750|Rancah|62
+751|Cisaga|62
+752|Lakbok|62
+753|Purwadadi|62
+754|Padaherang|61
+755|Banjarsari|62
+756|Pamarican|62
+757|Cimaragas|62
+758|Mangunjaya|61
+759|Sidamulih|61
+760|Cidolog|62
+761|Langensari|63
+762|Purwaharja|63
+763|Pataruman|63
+764|Banjar|63
+765|Baregbeg|62
+766|Jatinagara|62
+767|Sukadana|62
+768|Cijeungjing|62
+769|Sindangkasih|62
+770|Sukamantri|62
+771|Panjalu|62
+772|Panumbangan|62
+773|Cihaurbeuti|62
+774|Cikoneng|62
+775|Lumbung|62
+776|Sadananya|62
+777|Panawangan|62
+778|Rajadesa|62
+779|Kawali|62
+780|Cipaku|62
+781|Ciamis|62
+782|Karang Jaya|60
+783|Cineam|60
+784|Manonjaya|60
+785|Tamansari|483
+786|Purbaratu|483
+787|Cikalong|60
+788|Pancatengah|60
+789|Cikatomas|60
+790|Salopa|60
+791|Cipatujah|60
+792|Bantarkalong|60
+793|Culamega|60
+794|Karangnunggal|60
+795|Jatiwaras|60
+796|Cibalong|60
+797|Parungponteng|60
+798|Tanjungjaya|60
+799|Sukaraja|60
+800|Rajapolah|60
+801|Kawalu|483
+802|Mangkubumi|483
+803|Jamanis|60
+804|Kadipaten|60
+805|Ciawi|60
+806|Sukahening|60
+807|Cisayong|60
+808|Bungursari|483
+809|Cipedes|483
+810|Cihideung|483
+811|Tawang|483
+812|Dukupuntang|64
+813|Weru|64
+814|Sumber|64
+815|Cidahu|65
+816|Kalimanggis|65
+817|Cipicung|65
+818|Ciawigebang|65
+819|Cibeureum|65
+820|Cibingbin|65
+821|Subang|65
+822|Cilebak|65
+823|Karangkancana|65
+824|Ciwaru|65
+825|Cimahi|65
+826|Luragung|65
+827|Maleber|65
+828|Lebakwangi|65
+829|Sindangagung|65
+830|Garawangi|65
+831|Selajambe|65
+832|Ciniru|65
+833|Hantara|65
+834|Nusaherang|65
+835|Darma|65
+836|Kadugede|65
+837|Pasawahan|65
+838|Mandirancan|65
+839|Pancalang|65
+840|Cigandamekar|65
+841|Cilimus|65
+842|Japara|65
+843|Jalaksana|65
+844|Kramat Mulya|65
+845|Cigugur|65
+846|Kuningan|65
+847|Cigasong|66
+848|Palasah|66
+849|Sindangwangi|66
+850|Leuwimunding|66
+851|Rajagaluh|66
+852|Sukahaji|66
+853|Sindang|66
+854|Banjaran|66
+855|Sumberjaya|66
+856|Cingambul|66
+857|Cikijing|66
+858|Lemahsugih|66
+859|Bantarujeg|66
+860|Malausma|66
+861|Talaga|66
+862|Argapura|66
+863|Maja|66
+864|Panyingkiran|66
+865|Jatitujuh|66
+866|Kertajati|66
+867|Ligung|66
+868|Jatiwangi|66
+869|Dawuan|66
+870|Kasokandel|66
+871|Kadipaten|66
+872|Majalengka|66
+873|Surian|67
+874|Buahdua|67
+875|Conggeang|67
+876|Ujungjaya|67
+877|Tomo|67
+878|Paseh|67
+879|Jatigede|67
+880|Jatinunggal|67
+881|Cibugel|67
+882|Wado|67
+883|Darmaraja|67
+884|Situraja|67
+885|Sukasari|67
+886|Arahan|68
+887|Pamulihan|67
+888|Cimanggung|67
+889|Cisitu|67
+890|Jatinangor|67
+891|Tanjungsari|67
+892|Rancakalong|67
+893|Ganeas|67
+894|Cisarua|67
+895|Tanjungmedar|67
+896|Tanjungkerta|67
+897|Cimalaka|67
+898|Sumedang Utara|67
+899|Sumedang Selatan|67
+900|Balongan|68
+901|Krangkeng|68
+902|Karangampel|68
+903|Kedokan Bunder|68
+904|Juntinyuat|68
+905|Sliyeg|68
+906|Kertasemaya|68
+907|Sukagumiwang|68
+908|Jatibarang|68
+909|Bangodua|68
+910|Tukdana|68
+911|Widasari|68
+912|Kroya|68
+913|Haurgeulis|68
+914|Gantar|68
+915|Gabuswetan|68
+916|Trisi/Terisi|68
+917|Cikedung|68
+918|Lelea|68
+919|Cantigi|68
+920|Sukra|68
+921|Patrol|68
+922|Anjatan|68
+923|Bongas|68
+924|Kandanghaur|68
+925|Losarang|68
+926|Lohbener|68
+927|Pasekan|68
+928|Sindang|68
+929|Indramayu|68
+930|Pabedilan|64
+931|Losari|64
+932|Babakan|64
+933|Gebang|64
+934|Sedong|64
+935|Ciledug|64
+936|Pabuaran|64
+937|Waled|64
+938|Pasaleman|64
+939|Karangwareng|64
+940|Karangsembung|64
+941|Susukan Lebak|64
+942|Lemahabang|64
+943|Pangenan|64
+944|Astanajapura|64
+945|Greged (Greget)|64
+946|Mundu|64
+947|Beber|64
+948|Talun (Cirebon Selatan)|64
+949|Ciwaringin|64
+950|Susukan|64
+951|Kaliwedi|64
+952|Gegesik|64
+953|Panguragan|64
+954|Arjawinangun|64
+955|Gempol|64
+956|Palimanan|64
+957|Klangenan|64
+958|Jamblang|64
+959|Depok|64
+960|Plumbon|64
+961|Plered|64
+962|Kedawung|64
+963|Tengah Tani|64
+964|Suranenggala|64
+965|Kapetakan|64
+966|Gunung Jati (Cirebon Utara)|64
+967|Harjamukti|482
+968|Kesambi|482
+969|Kejaksan|482
+970|Pekalipan|482
+971|Lemahwungkuk|482
+972|Cibiuk|69
+973|Leuwigoong|69
+974|Banyuresmi|69
+975|Malangbong|69
+976|Selaawi|69
+977|Blubur Limbangan|69
+978|Cibatu|69
+979|Kersamanah|69
+980|Sukawening|69
+981|Karangtengah|69
+982|Wanaraja|69
+983|Pangatikan|69
+984|Karangpawitan|69
+985|Cilawu|69
+986|Peundeuy|69
+987|Cikelet|69
+988|Cibalong|69
+989|Pameungpeuk|69
+990|Cisompet|69
+991|Singajaya|69
+992|Cihurip|69
+993|Banjarwangi|69
+994|Cikajang|69
+995|Pamulihan|69
+996|Talegong|69
+997|Caringin|69
+998|Cisewu|69
+999|Bungbulang|69
+1000|Mekarmukti|69
+1001|Pakenjeng|69
+1002|Cisurupan|69
+1003|Sukaresmi|69
+1004|Bayongbong|69
+1005|Samarang|69
+1006|Pasirwangi|69
+1007|Kadungora|69
+1008|Leles|69
+1009|Tarogong Kidul|69
+1010|Tarogong Kaler|69
+1011|Garut Kota|69
+1012|Cigedug|69
+1013|Sucinaraja|69
+1014|Kabandungan|70
+1015|Cikidang|70
+1016|Cisolok|70
+1017|Cikakak|70
+1018|Pelabuhan/Palabuhan Ratu|70
+1019|Bantargadung|70
+1020|Warung Kiara|70
+1021|Simpenan|70
+1022|Cicurug|70
+1023|Cidahu|70
+1024|Parung Kuda|70
+1025|Nagrak|70
+1026|Ciambar|70
+1027|Parakan Salak|70
+1028|Kalapa Nunggal|70
+1029|Bojong Genteng|70
+1030|Cibadak|70
+1031|Mande|71
+1032|Cikalongkulon|71
+1033|Cilaku|71
+1034|Sukaluyu|71
+1035|Cikadu|71
+1036|Cijati|71
+1037|Haurwangi|71
+1038|Bojongpicung|71
+1039|Ciranjang|71
+1040|Karangtengah|71
+1041|Pacet|71
+1042|Cidaun|71
+1043|Naringgul|71
+1044|Agrabinta|71
+1045|Leles|71
+1046|Sindangbarang|71
+1047|Cibinong|71
+1048|Campaka Mulya|71
+1049|Kadupandak|71
+1050|Tanggeung|71
+1051|Pasirkuda|71
+1052|Pagelaran|71
+1053|Takokak|71
+1054|Sukanagara|71
+1055|Campaka|71
+1056|Cibeber|71
+1057|Warungkondang|71
+1058|Gekbrong|71
+1059|Sukaresmi|71
+1060|Cipanas|71
+1061|Cugenang|71
+1062|Cianjur|71
+1063|Geger Bitung|70
+1064|Nyalindung|70
+1065|Kebonpedes|479
+1066|Cireunghas|479
+1067|Sukaraja|479
+1068|Sukalarang|479
+1069|Purabaya|70
+1070|Tegal Buleud|70
+1071|Kali Bunder|70
+1072|Cidolog|70
+1073|Cidadap|70
+1074|Curugkembar|70
+1075|Sagaranten|70
+1076|Surade|70
+1077|Jampang Kulon|70
+1078|Cimanggu|70
+1079|Ciemas|70
+1080|Ciracap|70
+1081|Waluran|70
+1082|Lengkong|70
+1083|Pabuaran|70
+1084|Cibitung|70
+1085|Jampang Tengah|70
+1086|Lembursitu|479
+1087|Baros|479
+1088|Cibeureum|479
+1089|Cikembar|70
+1090|Gunung Guruh|479
+1091|Cicantayan|70
+1092|Caringin|70
+1093|Kadudampit|479
+1094|Cisaat|479
+1095|Sukabumi|479
+1096|Citamiang|479
+1097|Warudoyong|479
+1098|Gunung Puyuh|479
+1099|Cikole|479
+1100|Tempuran|72
+1101|Cilebar|72
+1102|Cilamaya Wetan|72
+1103|Cilamaya Kulon|72
+1104|Lemahabang|72
+1105|Rawamerta|72
+1106|Talagasari|72
+1107|Jatisari|72
+1108|Kotabaru|72
+1109|Banyusari|72
+1110|Purwasari|72
+1111|Cikampek|72
+1112|Tirtamulya|72
+1113|Karawang Timur|72
+1114|Klari|72
+1115|Majalaya|72
+1116|Ciampel|72
+1117|Pangkalan|72
+1118|Tegalwaru|72
+1119|Telukjambe Barat|72
+1120|Telukjambe Timur|72
+1121|Kutawaluya|72
+1122|Tirtajaya|72
+1123|Cibuaya|72
+1124|Pakisjaya|72
+1125|Batujaya|72
+1126|Pedes|72
+1127|Rengasdengklok|72
+1128|Jayakerta|72
+1129|Karawang Barat|72
+1130|Cijambe|73
+1131|Cibogo|73
+1132|Tanjungsiang|73
+1133|Kasomalang|73
+1134|Cisalak|73
+1135|Serangpanjang|73
+1136|Sagalaherang|73
+1137|Jalancagak|73
+1138|Ciater|73
+1139|Cipeundeuy|73
+1140|Kalijati|73
+1141|Dawuan|73
+1142|Patokbeusi|73
+1143|Pabuaran|73
+1144|Purwadadi|73
+1145|Blanakan|73
+1146|Compreng|73
+1147|Cipunagara|73
+1148|Ciasem|73
+1149|Sukasari|73
+1150|Pusakajaya|73
+1151|Pusakanagara|73
+1152|Legonkulon|73
+1153|Pamanukan|73
+1154|Tambakdahan|73
+1155|Cikaum|73
+1156|Binong|73
+1157|Pagaden Barat|73
+1158|Pagaden|73
+1159|Subang|73
+1160|Cibatu|74
+1161|Campaka|74
+1162|Bungursari|74
+1163|Kiarapedes|74
+1164|Wanayasa|74
+1165|Pasawahan|74
+1166|Sukatani|74
+1167|Maniis|74
+1168|Tegal Waru|74
+1169|Bojong|74
+1170|Darangdan|74
+1171|Plered|74
+1172|Jatiluhur|74
+1173|Babakancikao|74
+1174|Purwakarta|74
+1175|Sukasari|74
+1176|Pondoksalam|74
+1177|Ciwidey|75
+1178|Ranca Bali|75
+1179|Pasirjambu|75
+1180|Katapang|75
+1181|Soreang|75
+1182|Kutawaringin|75
+1183|Cileunyi|75
+1184|Ujung Berung|478
+1185|Cilengkrang|75
+1186|Cibiru|478
+1187|Panyileukan|478
+1188|Rongga|76
+1189|Gununghalu|76
+1190|Cipongkor|76
+1191|Sindangkerta|76
+1192|Cihampelas|76
+1193|Cililin|76
+1194|Batujajar|76
+1195|Saguling|76
+1196|Parongpong|76
+1197|Cipeundeuy|76
+1198|Cikalong Wetan|76
+1199|Cipatat|76
+1200|Padalarang|76
+1201|Ngamprah|76
+1202|Cisarua|76
+1203|Cimahi Selatan|77
+1204|Cimahi Tengah|77
+1205|Cimahi Utara|77
+1206|Cikancung|75
+1207|Cicalengka|75
+1208|Rancaekek|75
+1209|Lembang|76
+1210|Kertasari|75
+1211|Pacet|75
+1212|Ibun|75
+1213|Paseh|75
+1214|Majalaya|75
+1215|Ciparay|75
+1216|Arjasari|75
+1217|Pangalengan|75
+1218|Banjaran|75
+1219|Solokan Jeruk|75
+1220|Pameungpeuk|75
+1221|Baleendah|75
+1222|Cimaung|75
+1223|Cinambo|478
+1224|Rancasari|478
+1225|Gedebage|478
+1226|Arcamanik|478
+1227|Antapani|478
+1228|Bojongsoang|75
+1229|Bandung Kidul|478
+1230|Buahbatu (Margacinta)|478
+1231|Kiaracondong|478
+1232|Batununggal|478
+1233|Dayeuhkolot|75
+1234|Lengkong|478
+1235|Regol|478
+1236|Astana Anyar|478
+1237|Bojongloa Kidul|478
+1238|Cangkuang|75
+1239|Bojongloa Kaler|478
+1240|Margahayu|75
+1241|Babakan Ciparay|478
+1242|Margaasih|75
+1243|Nagreg|75
+1244|Bandung Kulon|478
+1245|Cimeunyan|75
+1246|Mandalajati|478
+1247|Cibeunying Kidul|478
+1248|Cibeunying Kaler|478
+1249|Andir|478
+1250|Cicendo|478
+1251|Sukajadi|478
+1252|Sukasari|478
+1253|Cidadap|478
+1254|Coblong|478
+1255|Sumur Bandung|478
+1256|Bandung Wetan|478
+1257|Muara Gembong|78
+1258|Cabangbungin|78
+1259|Pebayuran|78
+1260|Sukatani|78
+1261|Sukakarya|78
+1262|Tambelang|78
+1263|Sukawangi|78
+1264|Babelan|78
+1265|Kedung Waringin|78
+1266|Cikarang Utara|78
+1267|Cikarang Barat|78
+1268|Cikarang Timur|78
+1269|Cikarang Selatan|78
+1270|Karangbahagia|78
+1271|Cikarang Pusat|78
+1272|Cibitung|78
+1273|Tambun Selatan|78
+1274|Tambun Utara|78
+1275|Jati Sampurna|480
+1276|Pondok Melati|480
+1277|Jatiasih|480
+1278|Pondok Gede|480
+1279|Bojongmangu|78
+1280|Cibarusah|78
+1281|Serang Baru|78
+1282|Setu|78
+1283|Tarumajaya|78
+1284|Mustika Jaya|480
+1285|Bantar Gebang|480
+1286|Bekasi Selatan|480
+1287|Bekasi Barat|480
+1288|Medan Satria|480
+1289|Bekasi Utara|480
+1290|Rawalumbu|480
+1291|Bekasi Timur|480
+1292|Gunung Putri|79
+1293|Bojonggede|79
+1294|Cibinong|79
+1295|Cariu|79
+1296|Tanjungsari|79
+1297|Jonggol|79
+1298|Sukamakmur|79
+1299|Cileungsi|79
+1300|Citeureup|79
+1301|Babakan Madang|79
+1302|Pamijahan|79
+1303|Megamendung|79
+1304|Cisarua|79
+1305|Cijeruk|79
+1306|Caringin|79
+1307|Ciawi|79
+1308|Sukaraja|79
+1309|Klapa Nunggal (Kelapa Nunggal)|79
+1310|Dramaga|79
+1311|Jasinga|79
+1312|Cigudeg|79
+1313|Sukajaya|79
+1314|Nanggung|79
+1315|Leuwisadeng|79
+1316|Leuwiliang|79
+1317|Cibungbulang|79
+1318|Ciampea|79
+1319|Tamansari|79
+1320|Ciomas|79
+1321|Sawangan|80
+1322|Bojongsari|80
+1323|Limo|80
+1324|Cinere|80
+1325|Tapos|80
+1326|Cimanggis|80
+1327|Cipayung|80
+1328|Pancoran Mas|80
+1329|Beji|80
+1330|Sukmajaya|80
+1331|Cilodong|80
+1332|Tenjo|79
+1333|Tenjolaya|79
+1334|Parung Panjang|79
+1335|Rumpin|79
+1336|Gunung Sindur|79
+1337|Parung|79
+1338|Tajurhalang|79
+1339|Kemang|79
+1340|Ranca Bungur|79
+1341|Tanah Sereal|481
+1342|Bogor Utara - Kota|481
+1343|Bogor Timur - Kota|481
+1344|Bogor Selatan - Kota|481
+1345|Bogor Tengah - Kota|481
+1346|Ciseeng|79
+1347|Cigombong|79
+1348|Bogor Barat - Kota|481
+1349|Kebonagung|81
+1350|Mijen|81
+1351|Karanganyar|81
+1352|Gajah|81
+1353|Dempet|81
+1354|Wonosalam|81
+1355|Mranggen|81
+1356|Karangawen|81
+1357|Guntur|81
+1358|Sayung|81
+1359|Karang Tengah|81
+1360|Wedung|81
+1361|Bonang|81
+1362|Demak|81
+1363|Nalumsari|82
+1364|Mayong|82
+1365|Welahan|82
+1366|Kedung|82
+1367|Pecangaan|82
+1368|Kalinyamatan|82
+1369|Batealit|82
+1370|Karimunjawa|82
+1371|Keling|82
+1372|Donorojo|82
+1373|Bangsri|82
+1374|Kembang|82
+1375|Pakis Aji|82
+1376|Mlonggo|82
+1377|Tahunan|82
+1378|Jepara|82
+1379|Jekulo|83
+1380|Mejobo|83
+1381|Undaan|83
+1382|Dawe|83
+1383|Jati|83
+1384|Gebog|83
+1385|Kaliwungu|83
+1386|Bae|83
+1387|Kudus Kota|83
+1388|Sarang|84
+1389|Kragan|84
+1390|Sluke|84
+1391|Lasem|84
+1392|Sale|84
+1393|Sedan|84
+1394|Gunem|84
+1395|Pancur|84
+1396|Pamotan|84
+1397|Bulu|84
+1398|Sulang|84
+1399|Sumber|84
+1400|Kaliori|84
+1401|Rembang|84
+1402|Batangan|85
+1403|Juwana|85
+1404|Jaken|85
+1405|Pucakwangi|85
+1406|Jakenan|85
+1407|Winong|85
+1408|Tambakromo|85
+1409|Gabus|85
+1410|Sukolilo|85
+1411|Kayen|85
+1412|Margorejo|85
+1413|Gembong|85
+1414|Tlogowungu|85
+1415|Dukuhseti|85
+1416|Cluwak|85
+1417|Gunungwungkal|85
+1418|Tayu|85
+1419|Margoyoso|85
+1420|Trangkil|85
+1421|Wedarijaksa|85
+1422|Pati|85
+1423|Jati|86
+1424|Kradenan|86
+1425|Randublatung|86
+1426|Kedungtuban|86
+1427|Jiken|86
+1428|Sambong|86
+1429|Cepu|86
+1430|Bogorejo|86
+1431|Jepon|86
+1432|Japah|86
+1433|Todanan|86
+1434|Kunduran|86
+1435|Ngawen|86
+1436|Banjarejo|86
+1437|Tunjungan|86
+1438|Blora Kota|86
+1439|Ngaringan|87
+1440|Wirosari|87
+1441|Tawangharjo|87
+1442|Gabus|87
+1443|Kradenan|87
+1444|Pulokulon|87
+1445|Geyer|87
+1446|Toroh|87
+1447|Kedungjati|87
+1448|Tanggungharjo|87
+1449|Tegowanu|87
+1450|Gubug|87
+1451|Karangrayung|87
+1452|Godong|87
+1453|Penawangan|87
+1454|Klambu|87
+1455|Brati|87
+1456|Grobogan|87
+1457|Purwodadi|87
+1458|Jenawi|88
+1459|Ngargoyoso|88
+1460|Tawangmangu|88
+1461|Karangpandan|88
+1462|Jatiyoso|88
+1463|Jatipuro|88
+1464|Jumapolo|88
+1465|Jumantono|88
+1466|Matesih|88
+1467|Kebakkramat|88
+1468|Kerjo|88
+1469|Mojogedang|88
+1470|Jaten|88
+1471|Tasikmadu|88
+1472|Karanganyar|88
+1473|Puhpelem|89
+1474|Bulukerto|89
+1475|Kismantoro|89
+1476|Purwantoro|89
+1477|Slogohimo|89
+1478|Jatipurno|89
+1479|Jatiroto|89
+1480|Jatisrono|89
+1481|Girimarto|89
+1482|Sidoharjo|89
+1483|Ngadirojo|89
+1484|Giritontro|89
+1485|Paranggupito|89
+1486|Karangtengah|89
+1487|Giriwoyo|89
+1488|Batuwarno|89
+1489|Baturetno|89
+1490|Tirtomoyo|89
+1491|Nguntoronadi|89
+1492|Pracimantoro|89
+1493|Eromoko|89
+1494|Manyaran|89
+1495|Wuryantoro|89
+1496|Selogiri|89
+1497|Wonogiri|89
+1498|Nguter|90
+1499|Bulu|90
+1500|Weru|90
+1501|Tawangsari|90
+1502|Gatak|90
+1503|Baki|90
+1504|Polokarto|90
+1505|Mojolaban|90
+1506|Grogol|90
+1507|Sukoharjo|90
+1508|Bendosari|90
+1509|Kebonarum|91
+1510|Manisrenggo|91
+1511|Kemalang|91
+1512|Karangnongko|91
+1513|Tulung|91
+1514|Jatinom|91
+1515|Karanganom|91
+1516|Polanharjo|91
+1517|Trucuk|91
+1518|Wonosari|91
+1519|Juwiring|91
+1520|Delanggu|91
+1521|Pedan|91
+1522|Ngawen|91
+1523|Ceper|91
+1524|Karangdowo|91
+1525|Cawas|91
+1526|Bayat|91
+1527|Wedi|91
+1528|Gantiwarno|91
+1529|Prambanan|91
+1530|Jogonalan|91
+1531|Kalikotes|91
+1532|Klaten Utara|91
+1533|Klaten Selatan|91
+1534|Klaten Tengah|91
+1535|Juwangi|92
+1536|Klego|92
+1537|Andong|92
+1538|Kemusu|92
+1539|Wonosegoro|92
+1540|Karanggede|92
+1541|Nogosari|92
+1542|Simo|92
+1543|Sambi|92
+1544|Ngemplak|92
+1545|Sawit|92
+1546|Banyudono|92
+1547|Teras|92
+1548|Selo|92
+1549|Cepogo|92
+1550|Ampel|92
+1551|Musuk|92
+1552|Mojosongo|92
+1553|Boyolali|92
+1554|Sambirejo|93
+1555|Kedawung|93
+1556|Plupuh|93
+1557|Masaran|93
+1558|Sidoharjo|93
+1559|Tanon|93
+1560|Miri|93
+1561|Kalijambe|93
+1562|Gemolong|93
+1563|Sumberlawang|93
+1564|Mondokan|93
+1565|Sukodono|93
+1566|Gesi|93
+1567|Tangen|93
+1568|Jenar|93
+1569|Gondang|93
+1570|Sambung Macan|93
+1571|Ngrampal|93
+1572|Karangmalang|93
+1573|Sragen|93
+1574|Pasar Kliwon|94
+1575|Gondangrejo|88
+1576|Colomadu|88
+1577|Kartasura|90
+1578|Jebres|94
+1579|Serengan|94
+1580|Laweyan|94
+1581|Banjarsari|94
+1582|Borobudur|95
+1583|Mungkid|95
+1584|Ngluwar|95
+1585|Salam|95
+1586|Srumbung|95
+1587|Dukun|95
+1588|Sawangan|95
+1589|Muntilan|95
+1590|Kajoran|95
+1591|Kaliangkrik|95
+1592|Kepil|96
+1593|Sapuran|96
+1594|Kalibawang|96
+1595|Kalikajar|96
+1596|Kertek|96
+1597|Wadaslintang|96
+1598|Kaliwiro|96
+1599|Leksono|96
+1600|Sukoharjo|96
+1601|Selomerto|96
+1602|Kejajar|96
+1603|Garung|96
+1604|Watumalang|96
+1605|Mojotengah|96
+1606|Wonosobo|96
+1607|Gemawang|97
+1608|Kaloran|97
+1609|Kandangan|97
+1610|Pringsurat|97
+1611|Kranggan|97
+1612|Wonoboyo|97
+1613|Bansari|97
+1614|Kledung|97
+1615|Tlogomulyo|97
+1616|Selopampang|97
+1617|Tembarak|97
+1618|Tretep|97
+1619|Bejen|97
+1620|Candiroto|97
+1621|Jumo|97
+1622|Ngadirejo|97
+1623|Parakan|97
+1624|Bulu|97
+1625|Kedu|97
+1626|Temanggung|97
+1627|Grabag|95
+1628|Secang|95
+1629|Ngablak|95
+1630|Pakis|95
+1631|Tegalrejo|95
+1632|Candimulyo|95
+1633|Mertoyudan|95
+1634|Salaman|95
+1635|Tempuran|95
+1636|Windusari|95
+1637|Bandongan|95
+1638|Magelang Tengah|484
+1639|Magelang Selatan|484
+1640|Magelang Utara|484
+1641|Buayan|98
+1642|Ayah|98
+1643|Rowokele|98
+1644|Sempor|98
+1645|Gombong|98
+1646|Mirit|98
+1647|Bonorowo|98
+1648|Prembun|98
+1649|Padureso|98
+1650|Kutowinangun|98
+1651|Poncowarno|98
+1652|Ambal|98
+1653|Buluspesantren|98
+1654|Puring|98
+1655|Petanahan|98
+1656|Klirong|98
+1657|Kuwarasan|98
+1658|Karanggayam|98
+1659|Karanganyar|98
+1660|Adimulyo|98
+1661|Sruweng|98
+1662|Pejagoan|98
+1663|Sadang|98
+1664|Karangsambung|98
+1665|Alian/Aliyan|98
+1666|Kebumen|98
+1667|Grabag|99
+1668|Butuh|99
+1669|Pituruh|99
+1670|Kemiri|99
+1671|Gebang|99
+1672|Bruno|99
+1673|Bayan|99
+1674|Kutoarjo|99
+1675|Bener|99
+1676|Loano|99
+1677|Kaligesing|99
+1678|Bagelen|99
+1679|Purwodadi|99
+1680|Ngombol|99
+1681|Banyuurip|99
+1682|Purworejo|99
+1683|Madukara|100
+1684|Sigaluh|100
+1685|Susukan|100
+1686|Purworejo Klampok|100
+1687|Mandiraja|100
+1688|Purwonegoro|100
+1689|Bawang|100
+1690|Rakit|100
+1691|Punggelan|100
+1692|Wanadadi (Wonodadi)|100
+1693|Pandanarum|100
+1694|Kalibening|100
+1695|Wanayasa|100
+1696|Batur|100
+1697|Pagentan|100
+1698|Pejawaran|100
+1699|Karangkobar|100
+1700|Banjarmangu|100
+1701|Pagedongan|100
+1702|Banjarnegara|100
+1703|Pengadegan|101
+1704|Kejobong|101
+1705|Kaligondang|101
+1706|Bukateja|101
+1707|Kemangkon|101
+1708|Padamara|101
+1709|Kalimanah|101
+1710|Bojongsari|101
+1711|Kutasari|101
+1712|Karangreja|101
+1713|Karangjambu|101
+1714|Rembang|101
+1715|Karangmoncol|101
+1716|Karanganyar|101
+1717|Kertanegara|101
+1718|Bobotsari|101
+1719|Mrebet|101
+1720|Purbalingga|101
+1721|Nusawungu|102
+1722|Kroya|102
+1723|Binangun|102
+1724|Bantarsari|102
+1725|Kesugihan|102
+1726|Sampang|102
+1727|Maos|102
+1728|Adipala|102
+1729|Dayeuhluhur|102
+1730|Wanareja|102
+1731|Patimuan|102
+1732|Kedungreja|102
+1733|Cipari|102
+1734|Sidareja|102
+1735|Majenang|102
+1736|Cimanggu|102
+1737|Karangpucung|102
+1738|Gandrungmangu|102
+1739|Kawunganten|102
+1740|Kampung Laut|102
+1741|Jeruklegi|102
+1742|Cilacap Utara|102
+1743|Cilacap Tengah|102
+1744|Cilacap Selatan|102
+1745|Tambak|103
+1746|Sumpiuh|103
+1747|Kemranjen|103
+1748|Somagede|103
+1749|Banyumas|103
+1750|Kalibagor|103
+1751|Sumbang|103
+1752|Kembaran|103
+1753|Sokaraja|103
+1754|Lumbir|103
+1755|Wangon|103
+1756|Purwojati|103
+1757|Jatilawang|103
+1758|Rawalo|103
+1759|Kebasen|103
+1760|Patikraja|103
+1761|Gumelar|103
+1762|Pekuncen|103
+1763|Ajibarang|103
+1764|Cilongok|103
+1765|Karanglewas|103
+1766|Kedung Banteng|103
+1767|Baturaden|103
+1768|Purwokerto Selatan|103
+1769|Purwokerto Barat|103
+1770|Purwokerto Utara|103
+1771|Purwokerto Timur|103
+1772|Jatinegara|104
+1773|Kedung Banteng|104
+1774|Pangkah|104
+1775|Bumijawa|104
+1776|Bojong|104
+1777|Balapulang|104
+1778|Margasari|104
+1779|Pagerbarang|104
+1780|Lebaksiu|104
+1781|Dukuhwaru|104
+1782|Slawi|104
+1783|Ulujami|105
+1784|Bodeh|105
+1785|Ampelgading|105
+1786|Comal|105
+1787|Petarukan|105
+1788|Taman|105
+1789|Watukumpul|105
+1790|Belik|105
+1791|Pulosari|105
+1792|Moga|105
+1793|Warungpring|105
+1794|Randudongkal|105
+1795|Bantarbolang|105
+1796|Pemalang|105
+1797|Paguyangan|106
+1798|Salem|106
+1799|Bantarkawung|106
+1800|Bumiayu|106
+1801|Sirampog|106
+1802|Tonjong|106
+1803|Songgom|106
+1804|Banjarharjo|106
+1805|Kersana|106
+1806|Ketanggungan|106
+1807|Larangan|106
+1808|Jatibarang|106
+1809|Losari|106
+1810|Tanjung|106
+1811|Bulakamba|106
+1812|Wanasari|106
+1813|Brebes|106
+1814|Adiwerna|104
+1815|Talang|104
+1816|Dukuhturi|104
+1817|Tarub|104
+1818|Warurejo|104
+1819|Surodadi|104
+1820|Kramat|104
+1821|Margadana|487
+1822|Tegal Selatan|487
+1823|Tegal Timur|487
+1824|Tegal Barat|487
+1825|Limbangan|107
+1826|Singorojo|107
+1827|Kaliwungu Selatan|107
+1828|Boja|107
+1829|Kaliwungu|107
+1830|Brangsong|107
+1831|Patean|107
+1832|Sukorejo|107
+1833|Plantungan|107
+1834|Pagerruyung|107
+1835|Ngampel|107
+1836|Pegandon|107
+1837|Ringinarum|107
+1838|Gemuh|107
+1839|Weleri|107
+1840|Rowosari|107
+1841|Kangkung|107
+1842|Cepiring|107
+1843|Patebon|107
+1844|Kendal|107
+1845|Gringsing|108
+1846|Banyuputih|108
+1847|Bawang|108
+1848|Reban|108
+1849|Tersono|108
+1850|Limpung|108
+1851|Subah|108
+1852|Pecalungan|108
+1853|Tulis|108
+1854|Kandeman|108
+1855|Blado|108
+1856|Bandar|108
+1857|Wonotunggal|108
+1858|Warungasem|108
+1859|Batang|108
+1860|Petungkriono/Petungkriyono|109
+1861|Talun|109
+1862|Doro|109
+1863|Lebakbarang|109
+1864|Karanganyar|109
+1865|Tirto|109
+1866|Wonopringgo|109
+1867|Karangdadap|109
+1868|Kedungwuni|109
+1869|Buaran|109
+1870|Pekalongan Selatan|485
+1871|Paninggaran|109
+1872|Siwalan|109
+1873|Pekalongan Timur|485
+1874|Kandangserang|109
+1875|Wiradesa|109
+1876|Kesesi|109
+1877|Pekalongan Barat|485
+1878|Bandungan|110
+1879|Bawen|110
+1880|Susukan|110
+1881|Candisari|486
+1882|Ambarawa|110
+1883|Kajen|109
+1884|Suruh|110
+1885|Semarang Tengah|486
+1886|Sumowono|110
+1887|Bergas|110
+1888|Pringapus|110
+1889|Tengaran|110
+1890|Bojong|109
+1891|Ungaran Barat|110
+1892|Ungaran Timur|110
+1893|Mijen|486
+1894|Getasan|110
+1895|Sragi|109
+1896|Tuntang|110
+1897|Tembalang|486
+1898|Wonokerto|109
+1899|Bringin|110
+1900|Jambu|110
+1901|Banyumanik|486
+1902|Pabelan|110
+1903|Gayamsari|486
+1904|Semarang Selatan|486
+1905|Pedurungan|486
+1906|Tingkir|111
+1907|Ngaliyan|486
+1908|Pekalongan Utara|485
+1909|Argomulyo|111
+1910|Gajah Mungkur|486
+1911|Semarang Timur|486
+1912|Sidomukti|111
+1913|Genuk|486
+1914|Sidorejo|111
+1915|Kaliwungu|110
+1916|Gunungpati|486
+1917|Banyubiru|110
+1918|Tugu|486
+1919|Semarang Barat|486
+1920|Bancak|110
+1921|Semarang Utara|486
+1922|Sapeken|112
+1923|Masalembu|112
+1924|Kangayan|112
+1925|Arjasa|112
+1926|Raas|112
+1927|Nonggunong|112
+1928|Gayam|112
+1929|Gili Ginting (Giligenteng)|112
+1930|Talango|112
+1931|Dungkek|112
+1932|Batang Batang|112
+1933|Gapura|112
+1934|Kalianget|112
+1935|Saronggi|112
+1936|Bluto|112
+1937|Pragaan|112
+1938|Guluk Guluk|112
+1939|Ganding|112
+1940|Lenteng|112
+1941|Pasongsongan|112
+1942|Rubaru|112
+1943|Ambunten|112
+1944|Dasuk|112
+1945|Batuputih|112
+1946|Manding|112
+1947|Batuan|112
+1948|Kota Sumenep|112
+1949|Larangan|113
+1950|Galis|113
+1951|Tlanakan|113
+1952|Proppo|113
+1953|Palengaan|113
+1954|Pegantenan|113
+1955|Pasean|113
+1956|Kadur|113
+1957|Batumarmar|113
+1958|Waru|113
+1959|Pakong|113
+1960|Pademawu|113
+1961|Pamekasan|113
+1962|Omben|114
+1963|Camplong|114
+1964|Sreseh|114
+1965|Jrengik|114
+1966|Torjun|114
+1967|Pangarengan|114
+1968|Banyuates|114
+1969|Sokobanah|114
+1970|Ketapang|114
+1971|Robatal|114
+1972|Karang Penang|114
+1973|Tambelangan|114
+1974|Kedungdung|114
+1975|Sampang|114
+1976|Konang|115
+1977|Blega|115
+1978|Galis|115
+1979|Tanah Merah|115
+1980|Modung|115
+1981|Tragah|115
+1982|Kwanyar|115
+1983|Labang|115
+1984|Kamal|115
+1985|Socah|115
+1986|Tanjungbumi|115
+1987|Kokop|115
+1988|Sepulu|115
+1989|Klampis|115
+1990|Geger|115
+1991|Arosbaya|115
+1992|Burneh|115
+1993|Bangkalan|115
+1994|Pesanggaran|116
+1995|Siliragung|116
+1996|Bangorejo|116
+1997|Gambiran|116
+1998|Tegalsari|116
+1999|Tegaldlimo|116
+2000|Purwoharjo|116
+2001|Cluring|116
+2002|Muncar|116
+2003|Srono|116
+2004|Sempu|116
+2005|Kalibaru|116
+2006|Glenmore|116
+2007|Genteng|116
+2008|Singojuruh|116
+2009|Songgon|116
+2010|Rogojampi|116
+2011|Kabat|116
+2012|Kalipuro|116
+2013|Licin|116
+2014|Wongsorejo|116
+2015|Glagah|116
+2016|Giri|116
+2017|Banyuwangi|116
+2018|Banyuputih|117
+2019|Asembagus|117
+2020|Jangkar|117
+2021|Arjasa|117
+2022|Mangaran|117
+2023|Kapongan|117
+2024|Banyuglugur|117
+2025|Bungatan|117
+2026|Jatibanteng|117
+2027|Besuki|117
+2028|Sumbermalang|117
+2029|Suboh|117
+2030|Mlandingan|117
+2031|Kendit|117
+2032|Panarukan|117
+2033|Panji|117
+2034|Situbondo|117
+2035|Taman Krocok|118
+2036|Tegalampel|118
+2037|Sempol|118
+2038|Sumber Wringin|118
+2039|Sukosari|118
+2040|Cermee|118
+2041|Prajekan|118
+2042|Botolinggo|118
+2043|Klabang|118
+2044|Tapen|118
+2045|Wonosari|118
+2046|Tenggarang|118
+2047|Tlogosari|118
+2048|Pujer|118
+2049|Jambe Sari Darus Sholah|118
+2050|Tamanan|118
+2051|Maesan|118
+2052|Grujugan|118
+2053|Pakem|118
+2054|Wringin|118
+2055|Binakal|118
+2056|Curahdami|118
+2057|Bondowoso|118
+2058|Ledokombo|119
+2059|Sumber Jambe|119
+2060|Sukowono|119
+2061|Kalisat|119
+2062|Jelbuk|119
+2063|Arjasa|119
+2064|Silo|119
+2065|Mayang|119
+2066|Pakusari|119
+2067|Ajung|119
+2068|Mumbulsari|119
+2069|Tempurejo|119
+2070|Ambulu|119
+2071|Jenggawah|119
+2072|Jombang|119
+2073|Kencong|119
+2074|Umbulsari|119
+2075|Gumuk Mas|119
+2076|Puger|119
+2077|Wuluhan|119
+2078|Balung|119
+2079|Semboro|119
+2080|Sumber Baru|119
+2081|Tanggul|119
+2082|Bangsalsari|119
+2083|Panti|119
+2084|Rambipuji|119
+2085|Sukorambi|119
+2086|Kaliwates|119
+2087|Sumber Sari|119
+2088|Patrang|119
+2089|Kunir|120
+2090|Yosowilangun|120
+2091|Tekung|120
+2092|Tempursari|120
+2093|Pronojiwo|120
+2094|Candipuro|120
+2095|Pasirian|120
+2096|Tempeh|120
+2097|Senduro|120
+2098|Pasrujambe/Pasujambe|120
+2099|Rowokangkung|120
+2100|Kedungjajang|120
+2101|Ranuyoso|120
+2102|Klakah|120
+2103|Jatiroto|120
+2104|Randuagung|120
+2105|Gucialit|120
+2106|Sukodono|120
+2107|Padang|120
+2108|Sumbersuko|120
+2109|Lumajang|120
+2110|Kota Anyar|121
+2111|Gading|121
+2112|Pakuniran|121
+2113|Paiton|121
+2114|Krucil|121
+2115|Tiris|121
+2116|Krejengan|121
+2117|Besuk|121
+2118|Bantaran|121
+2119|Kraksaan|121
+2120|Pajarakan|121
+2121|Maron|121
+2122|Banyu Anyar|121
+2123|Tegal Siwalan|121
+2124|Leces|121
+2125|Gending|121
+2126|Dringu|121
+2127|Sumber|121
+2128|Kuripan|121
+2129|Lumbang|121
+2130|Sukapura|121
+2131|Wonomerto|121
+2132|Tongas|121
+2133|Sumberasih|121
+2134|Wonoasih|494
+2135|Kedopok (Kedopak)|494
+2136|Kademangan|494
+2137|Mayangan|494
+2138|Kanigaran|494
+2139|Lekok|122
+2140|Nguling|122
+2141|Grati|122
+2142|Lumbang|122
+2143|Winongan|122
+2144|Rejoso|122
+2145|Tosari|122
+2146|Puspo|122
+2147|Pasrepan|122
+2148|Gondang Wetan|122
+2149|Wonorejo|122
+2150|Kejayan|122
+2151|Pohjentrek|122
+2152|Purworejo|493
+2153|Tutur|122
+2154|Purwodadi|122
+2155|Purwosari|122
+2156|Sukorejo|122
+2157|Prigen|122
+2158|Pandaan|122
+2159|Gempol|122
+2160|Beji|122
+2161|Bangil|122
+2162|Rembang|122
+2163|Kraton|122
+2164|Gadingrejo|493
+2165|Panggungrejo|493
+2166|Bugul Kidul|493
+2167|Watulimo|123
+2168|Durenan|123
+2169|Kampak|123
+2170|Gandusari|123
+2171|Pogalan|123
+2172|Munjungan|123
+2173|Panggul|123
+2174|Dongko|123
+2175|Suruh|123
+2176|Pule|123
+2177|Karangan|123
+2178|Tugu|123
+2179|Bendungan|123
+2180|Trenggalek|123
+2181|Rejotangan|124
+2182|Ngunut|124
+2183|Sumbergempol|124
+2184|Pucanglaban|124
+2185|Tanggung Gunung|124
+2186|Kalidawir|124
+2187|Besuki|124
+2188|Bandung|124
+2189|Pakel|124
+2190|Campur Darat|124
+2191|Gondang|124
+2192|Pagerwojo|124
+2193|Kauman|124
+2194|Sendang|124
+2195|Karang Rejo|124
+2196|Ngantru|124
+2197|Boyolangu|124
+2198|Kedungwaru|124
+2199|Tulungagung|124
+2200|Wates|125
+2201|Binangun|125
+2202|Selorejo|125
+2203|Kesamben|125
+2204|Gandusari|125
+2205|Doko|125
+2206|Wlingi|125
+2207|Selopuro|125
+2208|Talun|125
+2209|Garum|125
+2210|Nglegok|125
+2211|Panggungrejo|125
+2212|Wonotirto|125
+2213|Sutojayan|125
+2214|Kanigoro|125
+2215|Bakung|125
+2216|Kademangan|125
+2217|Wonodadi|125
+2218|Udanawu|125
+2219|Ponggok|125
+2220|Srengat|125
+2221|Sanan Kulon|125
+2222|Sanan Wetan|488
+2223|Sukorejo|488
+2224|Kepanjen Kidul|488
+2225|Kasembon|126
+2226|Ngantang|126
+2227|Pujon|126
+2228|Bumiaji|127
+2229|Junrejo|127
+2230|Batu|127
+2231|Lawang|126
+2232|Ampelgading|126
+2233|Tirtoyudo|126
+2234|Dampit|126
+2235|Bantur|126
+2236|Gedangan|126
+2237|Sumbermanjing Wetan|126
+2238|Turen|126
+2239|Gondanglegi|126
+2240|Pagelaran|126
+2241|Wajak|126
+2242|Tajinan|126
+2243|Bululawang|126
+2244|Pagak|126
+2245|Donomulyo|126
+2246|Kalipare|126
+2247|Sumberpucung|126
+2248|Kromengan|126
+2249|Wonosari|126
+2250|Ngajung (Ngajum)|126
+2251|Kepanjen|126
+2252|Pakisaji|126
+2253|Wagir|126
+2254|Poncokusumo|126
+2255|Tumpang|126
+2256|Jabung|126
+2257|Pakis|126
+2258|Singosari|126
+2259|Karangploso|126
+2260|Dau|126
+2261|Sukun|491
+2262|Lowokwaru|491
+2263|Kedungkandang|491
+2264|Blimbing|491
+2265|Klojen|491
+2266|Prambon|128
+2267|Tanjunganom|128
+2268|Sukomoro|128
+2269|Sawahan|128
+2270|Ngetos|128
+2271|Berbek|128
+2272|Pace|128
+2273|Loceret|128
+2274|Wilangan|128
+2275|Bagor|128
+2276|Rejoso|128
+2277|Ngluyu|128
+2278|Gondang|128
+2279|Nganjuk|128
+2280|Ngronggot|128
+2281|Baron|128
+2282|Lengkong|128
+2283|Jatikalen|128
+2284|Patianrowo|128
+2285|Kertosono|128
+2286|Kandangan|129
+2287|Kepung|129
+2288|Puncu|129
+2289|Ngancar|129
+2290|Pare|129
+2291|Badas|129
+2292|Pagu|129
+2293|Kayen Kidul|129
+2294|Gampengrejo|129
+2295|Ngasem|129
+2296|Gurah|129
+2297|Ringinrejo|129
+2298|Plosoklaten|129
+2299|Wates|129
+2300|Kandat|129
+2301|Kras|129
+2302|Ngadiluwih|129
+2303|Mojo|129
+2304|Semen|129
+2305|Banyakan|129
+2306|Kunjang|129
+2307|Plemahan|129
+2308|Purwoasri|129
+2309|Papar|129
+2310|Tarokan|129
+2311|Grogol|129
+2312|Pesantren|489
+2313|Kediri|489
+2314|Mojoroto|489
+2315|Nawangan|130
+2316|Bandar|130
+2317|Tegalombo|130
+2318|Arjosari|130
+2319|Sudimoro|130
+2320|Ngadirojo|130
+2321|Tulakan|130
+2322|Kebon Agung|130
+2323|Donorojo|130
+2324|Punung|130
+2325|Pringkuku|130
+2326|Pacitan|130
+2327|Ngebel|131
+2328|Jenangan|131
+2329|Babadan|131
+2330|Sooko|131
+2331|Pulung|131
+2332|Sawoo|131
+2333|Sambit|131
+2334|Jetis|131
+2335|Mlarak|131
+2336|Siman|131
+2337|Ngrayun|131
+2338|Slahung|131
+2339|Bungkal|131
+2340|Balong|131
+2341|Jambon|131
+2342|Badegan|131
+2343|Sampung|131
+2344|Sukorejo|131
+2345|Kauman|131
+2346|Ponorogo|131
+2347|Pudak|131
+2348|Karas|132
+2349|Barat|132
+2350|Kartoharjo (Kertoharjo)|132
+2351|Karangrejo|132
+2352|Maospati|132
+2353|Sukomoro|132
+2354|Bendo|132
+2355|Takeran|132
+2356|Nguntoronadi|132
+2357|Kawedanan|132
+2358|Lembeyan|132
+2359|Parang|132
+2360|Poncol|132
+2361|Sidorejo|132
+2362|Plaosan|132
+2363|Ngariboyo|132
+2364|Panekan|132
+2365|Magetan|132
+2366|Bringin|133
+2367|Karangjati|133
+2368|Kwadungan|133
+2369|Pangkur|133
+2370|Padas|133
+2371|Kasreman|133
+2372|Gerih|133
+2373|Geneng|133
+2374|Sine|133
+2375|Ngrambe|133
+2376|Jogorogo|133
+2377|Kendal|133
+2378|Mantingan|133
+2379|Karanganyar|133
+2380|Widodaren|133
+2381|Kedunggalar|133
+2382|Paron|133
+2383|Pitu|133
+2384|Ngawi|133
+2385|Kare|134
+2386|Wungu|134
+2387|Dolopo|134
+2388|Kebonsari|134
+2389|Dagangan|134
+2390|Geger|134
+2391|Sawahan|134
+2392|Jiwan|134
+2393|Wonoasri|134
+2394|Gemarang|134
+2395|Saradan|134
+2396|Pilangkenceng|134
+2397|Mejayan|134
+2398|Balerejo|134
+2399|Madiun|134
+2400|Taman|490
+2401|Manguharjo|490
+2402|Kartoharjo|490
+2403|Palang|135
+2404|Widang|135
+2405|Plumpang|135
+2406|Semanding|135
+2407|Soko|135
+2408|Rengel|135
+2409|Grabagan|135
+2410|Parengan|135
+2411|Senori|135
+2412|Merakurak|135
+2413|Bangilan|135
+2414|Kenduruan|135
+2415|Jatirogo|135
+2416|Singgahan|135
+2417|Montong|135
+2418|Kerek|135
+2419|Bancar|135
+2420|Tambakboyo|135
+2421|Jenu|135
+2422|Tuban|135
+2423|Karangbinangun|136
+2424|Glagah|136
+2425|Deket|136
+2426|Sambeng|136
+2427|Mantup|136
+2428|Kembangbahu|136
+2429|Tikung|136
+2430|Sarirejo|136
+2431|Sukorame|136
+2432|Modo|136
+2433|Bluluk|136
+2434|Ngimbang|136
+2435|Kedungpring|136
+2436|Babat|136
+2437|Solokuro|136
+2438|Paciran|136
+2439|Brondong|136
+2440|Laren|136
+2441|Sekaran|136
+2442|Maduran|136
+2443|Pucuk|136
+2444|Sugio|136
+2445|Kalitengah|136
+2446|Karang Geneng|136
+2447|Sukodadi|136
+2448|Turi|136
+2449|Lamongan|136
+2450|Kedungadem|137
+2451|Kepoh Baru|137
+2452|Kanor|137
+2453|Baureno|137
+2454|Sumberrejo|137
+2455|Trucuk|137
+2456|Temayang|137
+2457|Sugihwaras|137
+2458|Sukosewu|137
+2459|Balen|137
+2460|Kapas|137
+2461|Bubulan|137
+2462|Gondang|137
+2463|Dander|137
+2464|Margomulyo|137
+2465|Ngambon|137
+2466|Sekar|137
+2467|Tambakrejo|137
+2468|Ngraho|137
+2469|Kedewan|137
+2470|Kasiman|137
+2471|Padangan|137
+2472|Purwosari|137
+2473|Ngasem|137
+2474|Gayam|137
+2475|Malo|137
+2476|Kalitidu|137
+2477|Bojonegoro|137
+2478|Jogoroto|138
+2479|Kesamben|138
+2480|Sumobito|138
+2481|Mojoagung|138
+2482|Peterongan|138
+2483|Wonosalam|138
+2484|Mojowarno|138
+2485|Bareng|138
+2486|Ngoro|138
+2487|Diwek|138
+2488|Gudo|138
+2489|Bandar Kedung Mulyo|138
+2490|Perak|138
+2491|Megaluh|138
+2492|Plandaan|138
+2493|Kabuh|138
+2494|Kudu|138
+2495|Ngusikan|138
+2496|Ploso|138
+2497|Tembelang|138
+2498|Jombang|138
+2499|Ngoro|139
+2500|Pungging|139
+2501|Kutorejo|139
+2502|Mojosari|139
+2503|Bangsal|139
+2504|Trawas|139
+2505|Pacet|139
+2506|Jatirejo|139
+2507|Gondang|139
+2508|Dlanggu|139
+2509|Mojoanyar|139
+2510|Puri|139
+2511|Trowulan|139
+2512|Sooko|139
+2513|Dawar Blandong|139
+2514|Kemlagi|139
+2515|Jetis|139
+2516|Gedeg|139
+2517|Prajurit Kulon|492
+2518|Magersari|492
+2519|Jabon|140
+2520|Krembung|140
+2521|Porong|140
+2522|Tulangan|140
+2523|Tanggulangin|140
+2524|Candi|140
+2525|Tarik|140
+2526|Prambon|140
+2527|Balongbendo|140
+2528|Krian|140
+2529|Wonoayu|140
+2530|Sukodono|140
+2531|Taman|140
+2532|Waru|140
+2533|Gedangan|140
+2534|Sedati|140
+2535|Buduran|140
+2536|Sidoarjo|140
+2537|Tambak|141
+2538|Sangkapura|141
+2539|Driyorejo|141
+2540|Wringin Anom|141
+2541|Kedamean|141
+2542|Menganti|141
+2543|Balong Panggang|141
+2544|Benjeng|141
+2545|Cerme|141
+2546|Duduk Sampeyan|141
+2547|Panceng|141
+2548|Dukun|141
+2549|Ujung Pangkah|141
+2550|Sidayu|141
+2551|Bungah|141
+2552|Manyar|141
+2553|Kebomas|141
+2554|Gresik|141
+2555|Tenggilis Mejoyo|142
+2556|Rungkut|142
+2557|Gununganyar|142
+2558|Gubeng|142
+2559|Sukomanunggal|142
+2560|Genteng|142
+2561|Tegalsari|142
+2562|Sawahan|142
+2563|Wonokromo|142
+2564|Wonocolo|142
+2565|Gayungan|142
+2566|Jambangan|142
+2567|Wiyung|142
+2568|Dukuh Pakis|142
+2569|Karangpilang|142
+2570|Sambikerep|142
+2571|Lakar Santri|142
+2572|Benowo|142
+2573|Pakal|142
+2574|Tandes|142
+2575|Asemrowo|142
+2576|Krembangan|142
+2577|Bubutan|142
+2578|Pabean Cantikan|142
+2579|Semampir|142
+2580|Simokerto|142
+2581|Tambaksari|142
+2582|Kenjeran|142
+2583|Bulak|142
+2584|Sukolilo|142
+2585|Mulyorejo|142
+2586|Menukung|143
+2587|Ella Hilir|143
+2588|Sokan|143
+2589|Tanah Pinoh Barat|143
+2590|Tanah Pinoh|143
+2591|Sayan|143
+2592|Pinoh Utara|143
+2593|Nanga Pinoh|143
+2594|Pinoh Selatan|143
+2595|Belimbing|143
+2596|Belimbing Hulu|143
+2597|Belitang|144
+2598|Belitang Hulu|144
+2599|Belitang Hilir|144
+2600|Nanga Mahap|144
+2601|Nanga Taman|144
+2602|Sekadau Hulu|144
+2603|Sekadau Hilir|144
+2604|Sajingan Besar|145
+2605|Paloh|145
+2606|Teluk Keramat|145
+2607|Tekarang|145
+2608|Tangaran|145
+2609|Sejangkung|145
+2610|Sambas|145
+2611|Sebawi|145
+2612|Sajad|145
+2613|Tebas|145
+2614|Jawai|145
+2615|Galing|145
+2616|Semparuk|145
+2617|Salatiga|145
+2618|Pemangkat|145
+2619|Selakau|145
+2620|Selakau Timur|145
+2621|Subah|145
+2622|Kuala Behe|146
+2623|Meranti|146
+2624|Air Besar|146
+2625|Banyuke Hulu|146
+2626|Menyuke|146
+2627|Mempawah Hulu|146
+2628|Sompak|146
+2629|Menjalin|146
+2630|Sebangki|146
+2631|Jelimpo|146
+2632|Ngabang|146
+2633|Sengah Temila|146
+2634|Mandor|146
+2635|Siding|147
+2636|Jagoi Babang|147
+2637|Seluas|147
+2638|Sanggau Ledo|147
+2639|Lumar|147
+2640|Ledo|147
+2641|Suti Semarang|147
+2642|Lembah Bawang|147
+2643|Samalantan|147
+2644|Sungai Raya Kepulauan|147
+2645|Sungai Raya|147
+2646|Capkala|147
+2647|Tujuh Belas|147
+2648|Singkawang Timur|148
+2649|Teriak|147
+2650|Bengkayang|147
+2651|Sungai Betung|147
+2652|Monterado|147
+2653|Singkawang Selatan|148
+2654|Jawai Selatan|145
+2655|Singkawang Utara|148
+2656|Singkawang Barat|148
+2657|Singkawang Tengah|148
+2658|Mempawah Hilir|149
+2659|Mempawah Timur|149
+2660|Jelai Hulu|150
+2661|Pemahan|150
+2662|Tumbang Titi|150
+2663|Sungai Melayu Rayak|150
+2664|Nanga Tayap|150
+2665|Sungai Laur|150
+2666|Hulu Sungai|150
+2667|Sandai|150
+2668|Manis Mata|150
+2669|Singkup|150
+2670|Air Upas|150
+2671|Marau|150
+2672|Kendawangan|150
+2673|Seponti|151
+2674|Teluk Batang|151
+2675|Pulau Maya (Pulau Maya Karimata)|151
+2676|Kepulauan Karimata|151
+2677|Simpang Hulu|150
+2678|Simpang Dua|150
+2679|Simpang Hilir|151
+2680|Sukadana|151
+2681|Matan Hilir Selatan|150
+2682|Benua Kayong|150
+2683|Muara Pawan|150
+2684|Matan Hilir Utara|150
+2685|Delta Pawan|150
+2686|Suhaid|152
+2687|Silat Hulu|152
+2688|Silat Hilir|152
+2689|Seberuang|152
+2690|Semitau|152
+2691|Puring Kencana|152
+2692|Empanang|152
+2693|Badau|152
+2694|Batang Lupar|152
+2695|Selimbau|152
+2696|Hulu Gurung|152
+2697|Jongkong (Jengkong)|152
+2698|Bunut Hulu|152
+2699|Bunut Hilir|152
+2700|Pengkadan (Batu Datu)|152
+2701|Boyan Tanjung|152
+2702|Mentebah|152
+2703|Kalis|152
+2704|Embaloh Hulu|152
+2705|Embaloh Hilir|152
+2706|Bika|152
+2707|Putussibau Selatan|152
+2708|Putussibau Utara|152
+2709|Kayan Hulu|153
+2710|Kayan Hilir|153
+2711|Dedai|153
+2712|Ambalau|153
+2713|Serawai (Nanga Serawai)|153
+2714|Binjai Hulu|153
+2715|Sepauk|153
+2716|Tempunak|153
+2717|Kelam Permai|153
+2718|Sungai Tebelian|153
+2719|Ketungau Hulu|153
+2720|Ketungau Tengah|153
+2721|Ketungau Hilir|153
+2722|Sintang|153
+2723|Jangkang|154
+2724|Mukok|154
+2725|Toba|154
+2726|Meliau|154
+2727|Tayan Hilir|154
+2728|Balai|154
+2729|Tayan Hulu|154
+2730|Parindu|154
+2731|Entikong|154
+2732|Sekayam|154
+2733|Beduai (Beduwai)|154
+2734|Noyan|154
+2735|Kembayan|154
+2736|Bonti|154
+2737|Kapuas (Sanggau Kapuas)|154
+2738|Sei/Sungai Ambawang|155
+2739|Terentang|155
+2740|Sei/Sungai Raya|155
+2741|Batu Ampar|155
+2742|Kubu|155
+2743|Teluk/Telok Pakedai|155
+2744|Rasau Jaya|155
+2745|Sei/Sungai Kakap|155
+2746|Sei/Sungai Kunyit|149
+2747|Toho|149
+2748|Sadaniang|149
+2749|Kuala Mandor-B|155
+2750|Sei/Sungai Pinyuh|149
+2751|Anjongan|149
+2752|Siantan|149
+2753|Segedong|149
+2754|Pontianak Utara|501
+2755|Pontianak Timur|501
+2756|Pontianak Tenggara|501
+2757|Pontianak Selatan|501
+2758|Pontianak Kota|501
+2759|Pontianak Barat|501
+2760|Satui|156
+2761|Angsana|156
+2762|Sungai Loban|156
+2763|Kuranji|156
+2764|Kusan Hilir|156
+2765|Batulicin|156
+2766|Kusan Hulu|156
+2767|Simpang Empat|156
+2768|Mantewe|156
+2769|Karang Bintang|156
+2770|Pulau Sembilan|157
+2771|Pamukan Utara|157
+2772|Pamukan Barat|157
+2773|Pamukan Selatan|157
+2774|Sungai Durian|157
+2775|Banua Lawas|158
+2776|Kelumpang Barat|157
+2777|Sampanahan|157
+2778|Kelumpang Utara|157
+2779|Kelumpang Tengah|157
+2780|Hampang|157
+2781|Kelumpang Hulu|157
+2782|Kelumpang Hilir|157
+2783|Kelumpang Selatan|157
+2784|Pulau Laut Tengah|157
+2785|Pulau Sebuku|157
+2786|Pulau Laut Selatan|157
+2787|Pulau Laut Kepulauan|157
+2788|Pulau Laut Barat|157
+2789|Pulau Laut Tanjung Selayar|157
+2790|Pulau Laut Timur|157
+2791|Pulau Laut Utara|157
+2792|Halong|159
+2793|Juai|159
+2794|Awayan|159
+2795|Tebing Tinggi|159
+2796|Batu Mandi|159
+2797|Paringin Selatan|159
+2798|Paringin|159
+2799|Lampihong|159
+2800|Upau|158
+2801|Jaro|158
+2802|Muara Uya|158
+2803|Bintang Ara|158
+2804|Haruai|158
+2805|Murung Pudak|158
+2806|Tanta|158
+2807|Muara Harus|158
+2808|Pugaan|158
+2809|Kelua (Klua)|158
+2810|Tanjung|158
+2811|Haur Gading|160
+2812|Amuntai Utara|160
+2813|Sungai Pandan|160
+2814|Sungai Tabukan|160
+2815|Babirik|160
+2816|Danau Panggang|160
+2817|Paminggir|160
+2818|Amuntai Selatan|160
+2819|Amuntai Tengah|160
+2820|Banjang|160
+2821|Batang Alai Utara|161
+2822|Limpasu|161
+2823|Batang Alai Timur|161
+2824|Batang Alai Selatan|161
+2825|Hantakan|161
+2826|Batu Benawa|161
+2827|Haruyan|161
+2828|Labuan Amas Utara|161
+2829|Labuan Amas Selatan|161
+2830|Pandawan|161
+2831|Barabai|161
+2832|Telaga Langsat|162
+2833|Angkinang|162
+2834|Loksado|162
+2835|Padang Batung|162
+2836|Sungai Raya|162
+2837|Kalumpang (Kelumpang)|162
+2838|Simpur|162
+2839|Daha Utara|162
+2840|Daha Selatan|162
+2841|Daha Barat|162
+2842|Kandangan|162
+2843|Martapura Kota|163
+2844|Piani|164
+2845|Salam Babaris|164
+2846|Hatungun|164
+2847|Binuang|164
+2848|Tapin Selatan|164
+2849|Candi Laras Utara|164
+2850|Candi Laras Selatan|164
+2851|Tapin Tengah|164
+2852|Lokpaikat|164
+2853|Bungur|164
+2854|Bakarangan|164
+2855|Tapin Utara|164
+2856|Kintap|165
+2857|Batu Ampar|165
+2858|Jorong|165
+2859|Panyipatan|165
+2860|Takisung|165
+2861|Tambang Ulang|165
+2862|Kurau|165
+2863|Bumi Makmur|165
+2864|Bati-Bati|165
+2865|Pelaihari|165
+2866|Bajuin|165
+2867|Cempaka|166
+2868|Landasan Ulin|166
+2869|Liang Anggang|166
+2870|Banjar Baru Utara|166
+2871|Banjar Baru Selatan|166
+2872|Sei/Sungai Pinang|163
+2873|Peramasan|163
+2874|Sambung Makmur|163
+2875|Pengaron|163
+2876|Simpang Empat|163
+2877|Telaga Bauntung|163
+2878|Mataraman|163
+2879|Aranio|163
+2880|Astambul|163
+2881|Karang Intan|163
+2882|Aluh-Aluh|163
+2883|Beruntung Baru|163
+2884|Tatah Makmur|163
+2885|Kertak Hanyar|163
+2886|Sei/Sungai Tabuk|163
+2887|Gambut|163
+2888|Martapura Barat|163
+2889|Martapura Timur|163
+2890|Alalak|167
+2891|Mandastana|167
+2892|Jejangkit|167
+2893|Cerbon|167
+2894|Mekar Sari|167
+2895|Tabunganen|167
+2896|Tamban|167
+2897|Anjir Pasar|167
+2898|Anjir Muara|167
+2899|Belawang|167
+2900|Wanaraya|167
+2901|Barambai|167
+2902|Rantau Badauh|167
+2903|Tabukan|167
+2904|Kuripan|167
+2905|Bakumpai|167
+2906|Marabahan|167
+2907|Banjarmasin Selatan|168
+2908|Banjarmasin Barat|168
+2909|Banjarmasin Tengah|168
+2910|Banjarmasin Timur|168
+2911|Banjarmasin Utara|168
+2912|Sebangau Kuala|169
+2913|Maliku|169
+2914|Kahayan Kuala|169
+2915|Pandih Batu|169
+2916|Banama Tingang|169
+2917|Kahayan Tengah|169
+2918|Kahayan Hilir|169
+2919|Jabiren Raya|169
+2920|Delang|170
+2921|Batangkawa|170
+2922|Lamandau|170
+2923|Belantikan Raya|170
+2924|Bulik|170
+2925|Mandau Talawang|171
+2926|Kapuas Hulu|171
+2927|Mihing Raya|172
+2928|Sepang (Sepang Simin)|172
+2929|Manuhing|172
+2930|Manuhing Raya|172
+2931|Rungan Barat|172
+2932|Rungan Hulu|172
+2933|Rungan|172
+2934|Kahayan Hulu Utara|172
+2935|Miri Manasa|172
+2936|Damang Batu|172
+2937|Tewah|172
+2938|Kurun|172
+2939|Mendawai|173
+2940|Katingan Kuala|173
+2941|Kamipang|173
+2942|Tasik Payawan|173
+2943|Katingan Hulu|173
+2944|Bukit Raya|173
+2945|Marikit|173
+2946|Sanaman Mantikei (Senamang Mantikei)|173
+2947|Petak Malai|173
+2948|Katingan Tengah|173
+2949|Pulau Malan|173
+2950|Tewang Sanggalang Garing (Sangalang)|173
+2951|Katingan Hilir|173
+2952|Teluk Sampit|174
+2953|Mentaya Hilir Selatan|174
+2954|Pulau Hanaut|174
+2955|Mentaya Hilir Utara|174
+2956|Bukit Santuei|174
+2957|Mentaya Hulu|174
+2958|Telaga Antang|174
+2959|Tualan Hulu|174
+2960|Parenggean|174
+2961|Cempaga Hulu|174
+2962|Cempaga|174
+2963|Telawang|174
+2964|Kota Besi|174
+2965|Antang Kalang|174
+2966|Mentawa Baru (Ketapang)|174
+2967|Seranau|174
+2968|Baamang|174
+2969|Seruyan Hulu|175
+2970|Suling Tambun|175
+2971|Batu Ampar|175
+2972|Seruyan Tengah|175
+2973|Danau Seluluk|175
+2974|Hanau|175
+2975|Danau Sembuluh|175
+2976|Seruyan Raya|175
+2977|Seruyan Hilir|175
+2978|Seruyan Hilir Timur|175
+2979|Pangkalan Lada|176
+2980|Pangkalan Banteng|176
+2981|Kumai|176
+2982|Permata Kecubung|177
+2983|Balai Riam|177
+2984|Sukamara|177
+2985|Pantai Lunci|177
+2986|Jelai|177
+2987|Sematu Jaya|170
+2988|Menthobi Raya|170
+2989|Bulik Timur|170
+2990|Kotawaringin Lama|176
+2991|Arut Utara|176
+2992|Arut Selatan|176
+2993|Laung Tuhup|178
+2994|Barito Tuhup Raya|178
+2995|Uut Murung|178
+2996|Seribu Riam|178
+2997|Sumber Barito|178
+2998|Sungai Babuat|178
+2999|Permata Intan|178
+3000|Tanah Siang|178
+3001|Tanah Siang Selatan|178
+3002|Murung|178
+3003|Teweh Timur|179
+3004|Teweh Baru|179
+3005|Gunung Purei|179
+3006|Gunung Timang|179
+3007|Montallat (Montalat)|179
+3008|Lahei Barat|179
+3009|Lahei|179
+3010|Teweh Selatan|179
+3011|Teweh Tengah|179
+3012|Jenamas|180
+3013|Dusun Hilir|180
+3014|Karau Kuala|180
+3015|Gunung Bintang Awai|180
+3016|Dusun Utara|180
+3017|Dusun Selatan|180
+3018|Awang|181
+3019|Patangkep Tutui|181
+3020|Benua Lima|181
+3021|Pematang Karau|181
+3022|Karusen Janang|181
+3023|Raren Batuah|181
+3024|Paku|181
+3025|Dusun Tengah|181
+3026|Dusun Timur|181
+3027|Paju Epat|181
+3028|Dadahup|171
+3029|Kapuas Murung|171
+3030|Pulau Petak|171
+3031|Tamban Catur|171
+3032|Kapuas Kuala|171
+3033|Kapuas Timur|171
+3034|Basarang|171
+3035|Pasak Talawang|171
+3036|Kapuas Tengah|171
+3037|Timpah|171
+3038|Mantangai|171
+3039|Kapuas Barat|171
+3040|Kapuas Hilir|171
+3041|Bataguh|171
+3042|Selat|171
+3043|Rakumpit|182
+3044|Bukit Batu|182
+3045|Jekan Raya|182
+3046|Sebangau|182
+3047|Pahandut|182
+3048|Derawan (Pulau Derawan)|183
+3049|Maratua|183
+3050|Biduk-Biduk|183
+3051|Batu Putih|183
+3052|Talisayan|183
+3053|Tabalar|183
+3054|Biatan|183
+3055|Sambaliung|183
+3056|Kelay|183
+3057|Segah|183
+3058|Gunung Tabur|183
+3059|Teluk Bayur|183
+3060|Tanjung Redeb|183
+3061|Samarinda Ulu|184
+3062|Babulu|185
+3063|Waru|185
+3064|Long Kali|186
+3065|Long Ikis|186
+3066|Kuaro|186
+3067|Pasir Belengkong|186
+3068|Tanjung Harapan|186
+3069|Batu Engau|186
+3070|Muara Komam|186
+3071|Muara Samu|186
+3072|Batu Sopang|186
+3073|Tanah Grogot|186
+3074|Sepaku|185
+3075|Penajam|185
+3076|Balikpapan Utara|187
+3077|Balikpapan Barat|187
+3078|Anggana|188
+3079|Balikpapan Tengah|187
+3080|Balikpapan Timur|187
+3081|Balikpapan Selatan|187
+3082|Balikpapan Kota|187
+3083|Long Hubung|502
+3084|Laham|502
+3085|Bentian Besar|189
+3086|Damai|189
+3087|Nyuatan|189
+3088|Barong Tongkok|189
+3089|Muara Lawa|189
+3090|Muara Pahu|189
+3091|Siluq Ngurai|189
+3092|Manor Bulatin (Mook Manaar Bulatn)|189
+3093|Jempang|189
+3094|Bongan|189
+3095|Long Apari|502
+3096|Long Pahangai|502
+3097|Long Bagun|502
+3098|Tering|189
+3099|Long Iram|189
+3100|Sekolaq Darat|189
+3101|Melak|189
+3102|Penyinggahan|189
+3103|Sandaran|190
+3104|Sangkulirang|190
+3105|Karangan|190
+3106|Sangatta Selatan|190
+3107|Rantau Pulung|190
+3108|Teluk Pandan|190
+3109|Sangatta Utara|190
+3110|Long Mesangat (Mesengat)|190
+3111|Muara Ancalong|190
+3112|Muara Wahau|190
+3113|Batu Ampar|190
+3114|Muara Bengkal|190
+3115|Kaubun|190
+3116|Bengalon|190
+3117|Kaliorang|190
+3118|Linggang Bigung|189
+3119|Tenggarong Seberang|188
+3120|Loa Kulu|188
+3121|Kenohan|188
+3122|Muara Muntai|188
+3123|Kota Bangun|188
+3124|Muara Wis|188
+3125|Tabang|188
+3126|Kembang Janggut|188
+3127|Busang|190
+3128|Kongbeng|190
+3129|Telen|190
+3130|Muara Kaman|188
+3131|Sebulu|188
+3132|Tenggarong|188
+3133|Loa Janan|188
+3134|Marang Kayu|188
+3135|Bontang Barat|191
+3136|Muara Badak|188
+3137|Bontang Selatan|191
+3138|Bontang Utara|191
+3139|Samboja (Semboja)|188
+3140|Muara Jawa|188
+3141|Sanga-Sanga|188
+3142|Palaran|184
+3143|Samarinda Seberang|184
+3144|Loa Janan Ilir|184
+3145|Sungai Kunjang|184
+3146|Samarinda Kota|184
+3147|Sungai Pinang|184
+3148|Samarinda Utara|184
+3149|Samarinda Ilir|184
+3150|Sambutan|184
+3151|Kayan Selatan|192
+3152|Sungai Boh|192
+3153|Kayan Hulu|192
+3154|Kayan Hilir|192
+3155|Bahau Hulu|192
+3156|Pujungan|192
+3157|Mentarang|192
+3158|Sungai Tubu|192
+3159|Malinau Barat|192
+3160|Malinau Selatan Hulu|192
+3161|Malinau Kota|192
+3162|Malinau Selatan Hilir|192
+3163|Malinau Utara|192
+3164|Malinau Selatan|192
+3165|Sebatik|193
+3166|Sebatik Timur|193
+3167|Sebatik Barat|193
+3168|Sebatik Utara|193
+3169|Sebatik Tengah|193
+3170|Tulin Onsoi|193
+3171|Sebuku|193
+3172|Nunukan Selatan|193
+3173|Sei Menggaris|193
+3174|Nunukan|193
+3175|Lumbis Ogong|193
+3176|Lumbis|193
+3177|Krayan|193
+3178|Krayan Selatan|193
+3179|Sembakung|193
+3180|Tana Lia (Tanah Lia)|194
+3181|Pulau Bunyu|195
+3182|Sekatak|195
+3183|Peso Hilir/Ilir|195
+3184|Peso|195
+3185|Tanjung Palas Barat|195
+3186|Tanjung Palas Tengah|195
+3187|Tanjung Palas|195
+3188|Tanjung Palas Timur|195
+3189|Tanjung Palas Utara|195
+3190|Tanjung Selor|195
+3191|Mentarang Hulu|192
+3192|Sesayap|194
+3193|Sesayap Hilir|194
+3194|Betayau|194
+3195|Tarakan Timur|196
+3196|Tarakan Utara|196
+3197|Tarakan Tengah|196
+3198|Tarakan Barat|196
+3199|Singkep Barat|197
+3200|Lingga Utara|197
+3201|Senayang|197
+3202|Selayar|197
+3203|Lingga Timur|197
+3204|Lingga|197
+3205|Singkep|197
+3206|Singkep Pesisir|197
+3207|Jemaja Timur|198
+3208|Jemaja|198
+3209|Siantan Selatan|198
+3210|Siantan|198
+3211|Siantan Timur|198
+3212|Midai|199
+3213|Siantan Tengah|198
+3214|Bunguran Utara|199
+3215|Pulau Tiga|199
+3216|Palmatak|198
+3217|Bunguran Tengah|199
+3218|Pulau Laut|199
+3219|Bunguran Timur Laut|199
+3220|Bunguran Timur|199
+3221|Bunguran Selatan|199
+3222|Bunguran Barat|199
+3223|Serasan|199
+3224|Subi|199
+3225|Serasan Timur|199
+3226|Durai|200
+3227|Buru|200
+3228|Meral|200
+3229|Meral Barat|200
+3230|Tebing|200
+3231|Moro|200
+3232|Kundur Utara|200
+3233|Belat|200
+3234|Kundur|200
+3235|Ungar|200
+3236|Kundur Barat|200
+3237|Karimun|200
+3238|Galang|201
+3239|Bulang|201
+3240|Nongsa|201
+3241|Batam Kota|201
+3242|Bengkong|201
+3243|Batu Ampar|201
+3244|Lubuk Baja|201
+3245|Sagulung|201
+3246|Batu Aji|201
+3247|Sei/Sungai Beduk|201
+3248|Sekupang|201
+3249|Belakang Padang|201
+3250|Tambelan|202
+3251|Seri/Sri Kuala Lobam|202
+3252|Bintan Utara|202
+3253|Teluk Sebong|202
+3254|Toapaya|202
+3255|Gunung Kijang|202
+3256|Bintan Timur|202
+3257|Bintan Pesisir|202
+3258|Mantang|202
+3259|Teluk Bintan|202
+3260|Bukit Bestari|203
+3261|Tanjung Pinang Timur|203
+3262|Tanjung Pinang Kota|203
+3263|Tanjung Pinang Barat|203
+3264|Wonosobo|204
+3265|Bandar Negeri Semuong|204
+3266|Kota Agung (Kota Agung Pusat)|204
+3267|Cukuh Balak|204
+3268|Pardasuka|205
+3269|Bulok|204
+3270|Air Naningan|204
+3271|Pulau Panggung|204
+3272|Pugung|204
+3273|Adi Luwih|205
+3274|Sukoharjo|205
+3275|Limau|204
+3276|Sragi|206
+3277|Ketapang|206
+3278|Palas|206
+3279|Penengahan|206
+3280|Bakauheni|206
+3281|Rajabasa|206
+3282|Kalianda|206
+3283|Anak Ratu Aji|207
+3284|Marga Punduh|208
+3285|Punduh Pidada (Pedada)|208
+3286|Katibung|206
+3287|Way Sulan|206
+3288|Padang Cermin|208
+3289|Ulubelu|204
+3290|Semaka|204
+3291|Kota Agung Barat|204
+3292|Kota Agung Timur|204
+3293|Pematang Sawa|204
+3294|Gunung Alip|204
+3295|Kelumbayan|204
+3296|Kelumbayan Barat|204
+3297|Gisting|204
+3298|Talang Padang|204
+3299|Pagelaran|205
+3300|Pagelaran Utara|205
+3301|Ambarawa|205
+3302|Sumberejo|204
+3303|Banyumas|205
+3304|Pringsewu|205
+3305|Gading Rejo|205
+3306|Kedondong|208
+3307|Way Khilau|208
+3308|Way Lima|208
+3309|Gedong Tataan (Gedung Tataan)|208
+3310|Jati Agung|206
+3311|Tegineneng|208
+3312|Natar|206
+3313|Tanjung Sari|206
+3314|Tanjung Bintang|206
+3315|Merbau Mataram|206
+3316|Candipuro|206
+3317|Negeri Katon|208
+3318|Sidomulyo|206
+3319|Way Panji|206
+3320|Panjang|209
+3321|Sukabumi|209
+3322|Telukbetung Barat|209
+3323|Telukbetung Timur|209
+3324|Telukbetung Selatan|209
+3325|Bumi Waras|209
+3326|Telukbetung Utara|209
+3327|Way Pangubuan (Pengubuan)|207
+3328|Enggal|209
+3329|Kemiling|209
+3330|Tanjung Karang Barat|209
+3331|Langkapura|209
+3332|Labuhan Ratu|209
+3333|Kedaton|209
+3334|Rajabasa|209
+3335|Tanjung Senang|209
+3336|Way Halim|209
+3337|Kedamaian|209
+3338|Sukarame|209
+3339|Tanjung Karang Timur|209
+3340|Tanjung Karang Pusat|209
+3341|Sekincau|210
+3342|Pagar Dewa|210
+3343|Way Tenong|210
+3344|Bengkunat Belimbing|211
+3345|Ngambur|211
+3346|Bengkunat|211
+3347|Lemong|211
+3348|Suoh|210
+3349|Bandar Negeri Suoh|210
+3350|Batu Brak|210
+3351|Lumbok Seminung|210
+3352|Sukau|210
+3353|Karya Penggawa|211
+3354|Pesisir Utara|211
+3355|Air Hitam|210
+3356|Pulau Pisang|211
+3357|Pesisir Selatan|211
+3358|Krui Selatan|211
+3359|Pesisir Tengah|211
+3360|Way Krui|211
+3361|Batu Ketulis|210
+3362|Belalau|210
+3363|Sumber Jaya|210
+3364|Gedung Surian|210
+3365|Kebun Tebu|210
+3366|Balik Bukit|210
+3367|Negeri Besar|212
+3368|Negeri Agung|212
+3369|Negara Batin|212
+3370|Gunung Labuhan|212
+3371|Way Tuba|212
+3372|Buay Bahuga|212
+3373|Rebang Tangkas|212
+3374|Bumi Agung|212
+3375|Banjit|212
+3376|Kasui|212
+3377|Blambangan Umpu|212
+3378|Bahuga|212
+3379|Pakuan Ratu|212
+3380|Baradatu|212
+3381|Simpang Pematang|213
+3382|Panca Jaya|213
+3383|Mesuji Timur|213
+3384|Mesuji|213
+3385|Rawa Jitu Utara|213
+3386|Tulang Bawang Tengah|214
+3387|Pagar Dewa|214
+3388|Tulang Bawang Udik|214
+3389|Way Serdang|213
+3390|Gunung Agung|214
+3391|Gunung Terang|214
+3392|Banjar Agung|215
+3393|Banjar Margo|215
+3394|Banjar Baru|215
+3395|Meraksa Aji|215
+3396|Gedung Aji|215
+3397|Menggala Timur|215
+3398|Menggala|215
+3399|Tanjung Raya|213
+3400|Rawajitu Selatan|215
+3401|Dente Teladas|215
+3402|Gedung Meneng|215
+3403|Rawajitu Timur|215
+3404|Rawa Pitu|215
+3405|Penawar Tama|215
+3406|Penawar Aji|215
+3407|Gedung Aji Baru|215
+3408|Tumijajar|214
+3409|Abung Timur|216
+3410|Abung Pekurun|216
+3411|Abung Tengah|216
+3412|Abung Selatan|216
+3413|Blambangan Pagar|216
+3414|Abung Surakarta|216
+3415|Abung Semuli|216
+3416|Muara Sungkai|216
+3417|Abung Barat|216
+3418|Abung Kunang|216
+3419|Sungkai Barat|216
+3420|Tanjung Raja|216
+3421|Bukit Kemuning|216
+3422|Abung Tinggi|216
+3423|Hulu Sungkai|216
+3424|Bunga Mayang|216
+3425|Sungkai Tengah|216
+3426|Sungkai Utara|216
+3427|Sungkai Jaya|216
+3428|Sungkai Selatan|216
+3429|Kotabumi|216
+3430|Kotabumi Selatan|216
+3431|Kotabumi Utara|216
+3432|Way Jepara|217
+3433|Pekalongan|217
+3434|Bandar Sribawono|217
+3435|Lambu Kibang|214
+3436|Gunung Pelindung|217
+3437|Way Kenanga|214
+3438|Pasir Sakti|217
+3439|Margatiga|217
+3440|Sekampung Udik|217
+3441|Jabung|217
+3442|Marga Sekampung|217
+3443|Sekampung|217
+3444|Batanghari|217
+3445|Melinting|217
+3446|Waway Karya|217
+3447|Labuhan Ratu|217
+3448|Way Bungur (Purbolinggo Utara)|217
+3449|Batanghari Nuban|217
+3450|Raman Utara|217
+3451|Metro Kibang|217
+3452|Mataram Baru|217
+3453|Labuhan Maringgai|217
+3454|Braja Slebah|217
+3455|Sukadana|217
+3456|Purbolinggo|217
+3457|Bumi Agung|217
+3458|Way Seputih|207
+3459|Pubian|207
+3460|Selagai Lingga|207
+3461|Padang Ratu|207
+3462|Kalirejo|207
+3463|Sendang Agung|207
+3464|Bangunrejo|207
+3465|Trimurjo|207
+3466|Bandar Mataram|207
+3467|Bumi Nabung|207
+3468|Terusan Nunyai|207
+3469|Seputih Agung|207
+3470|Seputih Mataram|207
+3471|Terbanggi Besar|207
+3472|Bekri|207
+3473|Gunung Sugih|207
+3474|Bumi Ratu Nuban|207
+3475|Anak Tuha|207
+3476|Bandar Surabaya|207
+3477|Seputih Surabaya|207
+3478|Rumbia|207
+3479|Putra Rumbia|207
+3480|Seputih Banyak|207
+3481|Seputih Raman|207
+3482|Kota Gajah|207
+3483|Punggur|207
+3484|Metro Barat|218
+3485|Metro Timur|218
+3486|Metro Selatan|218
+3487|Metro Utara|218
+3488|Metro Pusat|218
+3489|Wasile Selatan|219
+3490|Wasile Timur|219
+3491|Wasile|219
+3492|Wasile Utara|219
+3493|Wasile Tengah|219
+3494|Maba Tengah|219
+3495|Maba Utara|219
+3496|Maba|219
+3497|Kota Maba|219
+3498|Maba Selatan|219
+3499|Patani|220
+3500|Pulau Gebe|220
+3501|Patani Utara|220
+3502|Patani Barat|220
+3503|Weda Tengah|220
+3504|Weda Utara|220
+3505|Weda|220
+3506|Weda Selatan|220
+3507|Oba|221
+3508|Oba Selatan|221
+3509|Oba Tengah|221
+3510|Oba Utara|221
+3511|Tidore Selatan|221
+3512|Tidore Timur (Pulau Tidore)|221
+3513|Tidore (Pulau Tidore)|221
+3514|Tidore Utara|221
+3515|Sanana Utara|222
+3516|Sulabesi Timur|222
+3517|Sulabesi Tengah|222
+3518|Sulabesi Selatan|222
+3519|Sanana|222
+3520|Sulabesi Barat|222
+3521|Taliabu Utara|506
+3522|Taliabu Barat|506
+3523|Taliabu Selatan|506
+3524|Taliabu Barat Laut|506
+3525|Mangoli Tengah|222
+3526|Mangoli Timur|222
+3527|Mangoli Utara Timur|222
+3528|Mangoli Selatan|222
+3529|Taliabu Timur Selatan|506
+3530|Taliabu Timur|506
+3531|Lede|506
+3532|Mangoli Utara|222
+3533|Obi Timur|223
+3534|Obi Selatan|223
+3535|Obi Utara|223
+3536|Obi Barat|223
+3537|Obi|223
+3538|Mangoli Barat|222
+3539|Mandioli Utara|223
+3540|Mandioli Selatan|223
+3541|Bacan Barat Utara|223
+3542|Bacan Timur Selatan|223
+3543|Bacan Barat|223
+3544|Bacan Timur Tengah|223
+3545|Bacan Timur|223
+3546|Bacan Selatan|223
+3547|Kasiruta Timur|223
+3548|Bacan|223
+3549|Kepulauan Botanglomang|223
+3550|Kasiruta Barat|223
+3551|Gane Timur|223
+3552|Gane Timur Tengah|223
+3553|Gane Timur Selatan|223
+3554|Kepulauan Joronga|223
+3555|Gane Barat Selatan|223
+3556|Gane Barat Utara|223
+3557|Gane Barat|223
+3558|Kayoa Utara|223
+3559|Kayoa|223
+3560|Kayoa Selatan|223
+3561|Kayoa Barat|223
+3562|Morotai Timur|224
+3563|Morotai Utara|224
+3564|Morotai Jaya|224
+3565|Morotai Selatan|224
+3566|Morotai Selatan Barat|224
+3567|Kao Barat|225
+3568|Kao Utara|225
+3569|Kao|225
+3570|Malifut|225
+3571|Kao Teluk|225
+3572|Tobelo Timur|225
+3573|Tobelo Tengah|225
+3574|Tobelo|225
+3575|Tobelo Barat|225
+3576|Tobelo Selatan|225
+3577|Tobelo Utara|225
+3578|Galela Utara|225
+3579|Galela|225
+3580|Galela Selatan|225
+3581|Galela Barat|225
+3582|Makian (Pulau Makian)|223
+3583|Makian Barat (Pulau Makian)|223
+3584|Loloda Utara|225
+3585|Loloda|226
+3586|Loloda Kepulauan|225
+3587|Ibu Utara|226
+3588|Ibu Selatan|226
+3589|Ibu|226
+3590|Sahu|226
+3591|Sahu Timur|226
+3592|Jailolo Selatan|226
+3593|Jailolo|226
+3594|Pulau Hiri|227
+3595|Ternate Utara (Kota)|227
+3596|Pulau Ternate|227
+3597|Pulau Batang Dua|227
+3598|Moti (Pulau Moti)|227
+3599|Ternate Tengah (Kota)|227
+3600|Ternate Selatan (Kota)|227
+3601|Aru Selatan Utara|228
+3602|Aru Selatan|228
+3603|Aru Selatan Timur|228
+3604|Aru Tengah Timur|228
+3605|Aru Tengah Selatan|228
+3606|Aru Tengah|228
+3607|Sir-Sir|228
+3608|Aru Utara Timur Batuley|228
+3609|Pulau-Pulau Aru|228
+3610|Aru Utara|228
+3611|Kei Besar|229
+3612|Kei Besar Utara Timur|229
+3613|Kei Besar Utara Barat|229
+3614|Kei Besar Selatan|229
+3615|Kei Besar Selatan Barat|229
+3616|Kur Selatan|230
+3617|Damer|231
+3618|Pulau-Pulau Babar Timur|231
+3619|Dawelor Dawera|231
+3620|Pulau-Pulau Kur|230
+3621|Mdona Hyera/Hiera|231
+3622|Pulau Masela|231
+3623|Kei Kecil Barat|229
+3624|Kei Kecil Timur|229
+3625|Kei Kecil Timur Selatan|229
+3626|Hoat Sorbay|229
+3627|Kei Kecil|229
+3628|Pulau Dullah Selatan|230
+3629|Pulau Tayando Tam|230
+3630|Pulau Dullah Utara|230
+3631|Manyeuw|229
+3632|Pulau Panjang|232
+3633|Siritaun Wida Timur|232
+3634|Teor|232
+3635|Gorom Timur|232
+3636|Wakate|232
+3637|Pulau Gorong (Gorom)|232
+3638|Kian Darat|232
+3639|Tutuk Tolu|232
+3640|Seram Timur|232
+3641|Kilmury|232
+3642|Banda|233
+3643|Saparua|233
+3644|Saparua Timur|233
+3645|Pulau Haruku|233
+3646|Salahutu|233
+3647|Leihitu Barat|233
+3648|Leihitu|233
+3649|Waelata|234
+3650|Lolong Guba|234
+3651|Waeapo|234
+3652|Waesama|235
+3653|Batabual|234
+3654|Teluk Kaiely|234
+3655|Leksula|235
+3656|Namrole|235
+3657|Fena Fafan|235
+3658|Fena Leisela|234
+3659|Airbuaya|234
+3660|Kepala Madan|235
+3661|Waplau|234
+3662|Lilialy|234
+3663|Namlea|234
+3664|Huamual Belakang (Waisala)|236
+3665|Kepulauan Manipa|236
+3666|Elpaputih|236
+3667|Kairatu Barat|236
+3668|Kairatu|236
+3669|Amalatu|236
+3670|Inamosol|236
+3671|Seram Barat|236
+3672|Huamual|236
+3673|Taniwel Timur|236
+3674|Taniwel|236
+3675|Teon Nila Serua|233
+3676|Seram Utara Timur Kobi|233
+3677|Seram Utara Barat|233
+3678|Seram Utara Timur Seti|233
+3679|Seram Utara|233
+3680|Bula|232
+3681|Werinama|232
+3682|Teluk Waru|232
+3683|Bula Barat|232
+3684|Siwalalat|232
+3685|Telutih|233
+3686|Tehoru|233
+3687|Amahai|233
+3688|Teluk Elpaputih|233
+3689|Masohi Kota|233
+3690|Ambalau|235
+3691|Nusalaut|233
+3692|Wermakatian (Wer Maktian)|237
+3693|Tanimbar Selatan|237
+3694|Wertamrian|237
+3695|Molu Maru|237
+3696|Wuarlabobar|237
+3697|Nirunmas|237
+3698|Tanimbar Utara|237
+3699|Yaru|237
+3700|Kormomolin|237
+3701|Pulau Lakor|231
+3702|Pulau Pulau Terselatan|231
+3703|Moa Lakor|231
+3704|Wetar Barat|231
+3705|Pulau Letti (Leti Moa Lakor)|231
+3706|Wetar Utara|231
+3707|Wetar Timur|231
+3708|Kepulauan Romang|231
+3709|Kisar Utara|231
+3710|Wetar|231
+3711|Selaru|237
+3712|Pulau Pulau Babar|231
+3713|Pulau Wetang|231
+3714|Teluk Ambon|238
+3715|Leitimur Selatan|238
+3716|Baguala|238
+3717|Sirimau|238
+3718|Nusaniwe (Nusanive)|238
+3719|Pulau Banyak Barat|239
+3720|Pulau Banyak|239
+3721|Rundeng|240
+3722|Singkil|239
+3723|Singkil Utara|239
+3724|Gunung Meriah (Mariah)|239
+3725|Suro Makmur|239
+3726|Kota Baharu|239
+3727|Kuala Baru|239
+3728|Singkohor|239
+3729|Danau Paris|239
+3730|Simpang Kanan|239
+3731|Simpang Kiri|240
+3732|Sultan Daulat|240
+3733|Penanggalan|240
+3734|Longkib|240
+3735|Semadam|241
+3736|Babul Rahmah|241
+3737|Leuser|241
+3738|Tanah Alas|241
+3739|Babul Makmur|241
+3740|Lawe Sigala-Gala|241
+3741|Bambel|241
+3742|Bukit Tusam|241
+3743|Lawe Sumur|241
+3744|Babussalam|241
+3745|Lawe Alas|241
+3746|Teripe/Tripe Jaya|242
+3747|Terangun (Terangon)|242
+3748|Pining (Pinding)|242
+3749|Putri Betung|242
+3750|Blang Jerango|242
+3751|Kuta Panjang|242
+3752|Blang Kejeren|242
+3753|Rikit Gaib|242
+3754|Pantan Cuaca|242
+3755|Dabun Gelang (Debun Gelang)|242
+3756|Blang Pegayon|242
+3757|Darul Hasanah|241
+3758|Badar|241
+3759|Ketambe|241
+3760|Deleng Pokhisen|241
+3761|Lawe Bulan|241
+3762|Bandar|243
+3763|Syiah Utama|243
+3764|Permata|243
+3765|Mesidah|243
+3766|Bener Kelipah|243
+3767|Wih Pesam|243
+3768|Bukit|243
+3769|Bintang|244
+3770|Kute Panang|244
+3771|Linge|244
+3772|Atu Lintang|244
+3773|Jagong Jeget|244
+3774|Silih Nara|244
+3775|Celala|244
+3776|Rusip Antara|244
+3777|Ketol|244
+3778|Pegasing|244
+3779|Bies|244
+3780|Pintu Rime Gayo|243
+3781|Gajah Putih|243
+3782|Timang Gajah|243
+3783|Bebesen|244
+3784|Kebayakan|244
+3785|Lut Tawar|244
+3786|Bandar Pusaka|245
+3787|Tamiang Hulu|245
+3788|Tenggulun|245
+3789|Kejuruan Muda|245
+3790|Sekerak|245
+3791|Karang Baru|245
+3792|Kota Kuala Simpang|245
+3793|Rantau|245
+3794|Seruway|245
+3795|Bendahara|245
+3796|Banda Mulia|245
+3797|Manyak Payed|245
+3798|Serba Jadi|246
+3799|Peunaron|246
+3800|Banda Alam|246
+3801|Madat|246
+3802|Simpang Ulim|246
+3803|Simpang Jernih|246
+3804|Sungai Raya|246
+3805|Pante Bidari (Beudari)|246
+3806|Julok|246
+3807|Indra Makmur|246
+3808|Idi Timur|246
+3809|Nurussalam|246
+3810|Darul Aman|246
+3811|Darul Iksan (Ihsan)|246
+3812|Idi Rayeuk|246
+3813|Darul Falah|246
+3814|Idi Tunong|246
+3815|Peudawa|246
+3816|Peureulak Timur|246
+3817|Peureulak|246
+3818|Peureulak Barat|246
+3819|Ranto Peureulak|246
+3820|Rantau Selamat|246
+3821|Birem Bayeun|246
+3822|Langsa Lama|247
+3823|Langsa Barat|247
+3824|Langsa Kota|247
+3825|Langsa Baro|247
+3826|Langsa Timur|247
+3827|Tanah Jambo Aye|248
+3828|Langkahan|248
+3829|Seunuddon (Seunudon)|248
+3830|Baktiya|248
+3831|Baktiya Barat|248
+3832|Lapang|248
+3833|Tanah Pasir|248
+3834|Pirak Timur|248
+3835|Matangkuli|248
+3836|Paya Bakong|248
+3837|Tanah Luas|248
+3838|Nibong|248
+3839|Lhoksukon|248
+3840|Syamtalira Aron|248
+3841|Sawang|248
+3842|Banda Baro|248
+3843|Nisam|248
+3844|Nisam Antara|248
+3845|Blang Mangat|249
+3846|Samudera|248
+3847|Geuredong Pase|248
+3848|Syamtalira Bayu|248
+3849|Meurah Mulia|248
+3850|Kuta Makmur|248
+3851|Makmur|250
+3852|Kuta Blang|250
+3853|Ganda Pura|250
+3854|Muara Batu|248
+3855|Dewantara|248
+3856|Muara Dua|249
+3857|Muara Satu|249
+3858|Cot Girek|248
+3859|Banda Sakti|249
+3860|Simpang Kramat (Keramat)|248
+3861|Samalanga|250
+3862|Peulimbang (Plimbang)|250
+3863|Jeunieb|250
+3864|Pandrah|250
+3865|Peudada|250
+3866|Kuala|250
+3867|Peusangan Selatan|250
+3868|Jangka|250
+3869|Peusangan|250
+3870|Peusangan Siblah Krueng|250
+3871|Simpang Mamplam|250
+3872|Jeumpa|250
+3873|Kota Juang|250
+3874|Juli|250
+3875|Bandar Dua|251
+3876|Ulim|251
+3877|Mane|252
+3878|Meureudu|251
+3879|Meurah Dua|251
+3880|Jangka Buya|251
+3881|Panteraja|251
+3882|Trienggadeng|251
+3883|Bandar Baru|251
+3884|Glumpang Tiga (Geulumpang Tiga)|252
+3885|Glumpang Baro|252
+3886|Kembang Tanjong (Tanjung)|252
+3887|Simpang Tiga|252
+3888|Tiro/Truseb|252
+3889|Mutiara Timur|252
+3890|Mutiara|252
+3891|Peukan Baro|252
+3892|Indrajaya|252
+3893|Padang Tiji|252
+3894|Geumpang|252
+3895|Tangse|252
+3896|Titeue|252
+3897|Keumala|252
+3898|Sakti|252
+3899|Mila|252
+3900|Delima|252
+3901|Muara Tiga|252
+3902|Batee|252
+3903|Grong Grong|252
+3904|Pidie|252
+3905|Kota Sigli|252
+3906|Lembah Seulawah|253
+3907|Seulimeum|253
+3908|Kota Jantho|253
+3909|Simeuleu Tengah|254
+3910|Simeulue Cut|254
+3911|Salang|254
+3912|Alapan (Alafan)|254
+3913|Simeuleu Barat|254
+3914|Teupah Barat|254
+3915|Teupah Selatan|254
+3916|Simeuleu Timur|254
+3917|Teluk Dalam|254
+3918|Teupah Tengah|254
+3919|Trumon|255
+3920|Trumon Timur|255
+3921|Trumon Tengah|255
+3922|Bakongan Timur|255
+3923|Kota Bahagia|255
+3924|Bakongan|255
+3925|Kluet Selatan|255
+3926|Kluet Tengah|255
+3927|Kluet Timur|255
+3928|Kluet Utara|255
+3929|Babah Rot|256
+3930|Kuala Batee|256
+3931|Susoh|256
+3932|Blang Pidie|256
+3933|Jeumpa|256
+3934|Setia|256
+3935|Tangan-Tangan|256
+3936|Manggeng|256
+3937|Lembah Sabil|256
+3938|Labuhan Haji|255
+3939|Labuhan Haji Timur|255
+3940|Labuhan Haji Barat|255
+3941|Pasie Raja|255
+3942|Meukek|255
+3943|Sawang|255
+3944|Sama Dua|255
+3945|Tapak Tuan|255
+3946|Sungai Mas|257
+3947|Woyla Timur|257
+3948|Woyla Barat|257
+3949|Panton Reu|257
+3950|Kaway XVI|257
+3951|Pante Ceureumen (Pantai Ceuremen)|257
+3952|Beutong|258
+3953|Beutong Ateuh Banggalang|258
+3954|Seunagan Timur|258
+3955|Suka Makmue|258
+3956|Seunagan|258
+3957|Darul Makmur|258
+3958|Tripa Makmur|258
+3959|Kuala|258
+3960|Tadu Raya|258
+3961|Kuala Pesisir|258
+3962|Jaya|259
+3963|Indra Jaya|259
+3964|Sampoiniet|259
+3965|Darul Hikmah|259
+3966|Setia Bakti|259
+3967|Woyla|257
+3968|Krueng Sabee|259
+3969|Pasie Raya|259
+3970|Teunom|259
+3971|Keude Panga|259
+3972|Bubon|257
+3973|Arongan Lambalek|257
+3974|Samatiga|257
+3975|Johan Pahlawan|257
+3976|Meureubo|257
+3977|Sukajaya|260
+3978|Sukakarya|260
+3979|Pulo Aceh|253
+3980|Mesjid Raya|253
+3981|Darussalam|253
+3982|Baitussalam|253
+3983|Kuta Baro|253
+3984|Blank Bintang|253
+3985|Kota Cot Glie (Kuta Cot Glie)|253
+3986|Ingin Jaya|253
+3987|Simpang Tiga|253
+3988|Krueng Barona Jaya|253
+3989|Indrapuri|253
+3990|Kota Malaka (Kuta Malaka)|253
+3991|Mantasiek (Montasik)|253
+3992|Suka Makmur|253
+3993|Lhoong|253
+3994|Lhonga|253
+3995|Leupung|253
+3996|Darul Imarah|253
+3997|Darul Kamal|253
+3998|Peukan Bada|253
+3999|Lueng Bata|261
+4000|Baiturrahman|261
+4001|Kuta Raja|261
+4002|Jaya Baru|261
+4003|Banda Raya|261
+4004|Meuraxa|261
+4005|Kuta Alam|261
+4006|Ulee Kareng|261
+4007|Syiah Kuala|261
+4008|Brang Rea|262
+4009|Sekongkang|262
+4010|Maluk|262
+4011|Jereweh|262
+4012|Brang Ene|262
+4013|Taliwang|262
+4014|Poto Tano|262
+4015|Sateluk (Seteluk)|262
+4016|Empang|263
+4017|Tarano|263
+4018|Plampang|263
+4019|Labangka|263
+4020|Maronge|263
+4021|Lopok|263
+4022|Lape (Lape Lopok)|263
+4023|Moyo Utara|263
+4024|Moyo Hilir|263
+4025|Lunyuk|263
+4026|Orong Telu|263
+4027|Lenangguar|263
+4028|Lantung|263
+4029|Ropang|263
+4030|Moyo Hulu|263
+4031|Batulanteh|263
+4032|Buer|263
+4033|Alas Barat|263
+4034|Alas|263
+4035|Utan|263
+4036|Rhee|263
+4037|Sumbawa|263
+4038|Labuhan Badas|263
+4039|Unter Iwes (Unterwiris)|263
+4040|Pajo|264
+4041|Huu|264
+4042|Kempo|264
+4043|Pekat|264
+4044|Menggelewa (Manggelewa)|264
+4045|Kilo|264
+4046|Woja|264
+4047|Dompu|264
+4048|Sanggar|265
+4049|Tambora|265
+4050|Sape|265
+4051|Lambu|265
+4052|Lambitu|265
+4053|Langgudu|265
+4054|Wawo|265
+4055|Palibelo|265
+4056|Belo|265
+4057|Monta|265
+4058|Parado|265
+4059|Woha|265
+4060|Soromandi|265
+4061|Donggo|265
+4062|Bolo|265
+4063|Ambalawi|265
+4064|Wera|265
+4065|Mpunda|495
+4066|Raba|495
+4067|Rasanae Barat|495
+4068|Rasanae Timur|495
+4069|Asakota|495
+4070|Madapangga|265
+4071|Jerowaru|266
+4072|Keruak|266
+4073|Sakra Barat|266
+4074|Sakra|266
+4075|Sakra Timur|266
+4076|Terara|266
+4077|Montong Gading|266
+4078|Sikur|266
+4079|Pringgasela|266
+4080|Masbagik|266
+4081|Sambalia (Sambelia)|266
+4082|Sembalun|266
+4083|Pringgabaya|266
+4084|Suela (Suwela)|266
+4085|Wanasaba|266
+4086|Aikmel|266
+4087|Suralaga|266
+4088|Sukamulia|266
+4089|Selong|266
+4090|Labuhan Haji|266
+4091|Praya Tengah|267
+4092|Praya Timur|267
+4093|Pujut|267
+4094|Praya Barat|267
+4095|Praya Barat Daya|267
+4096|Pringgarata|267
+4097|Jonggat|267
+4098|Janapria|267
+4099|Kopang|267
+4100|Batukliang Utara|267
+4101|Batukliang|267
+4102|Praya|267
+4103|Ampenan|268
+4104|Narmada|269
+4105|Lingsar|269
+4106|Sekotong|269
+4107|Lembar|269
+4108|Gerung|269
+4109|Kediri|269
+4110|Kuripan|269
+4111|Labuapi|269
+4112|Batu Layar|269
+4113|Bayan|270
+4114|Kayangan|270
+4115|Gangga|270
+4116|Tanjung|270
+4117|Pemenang|270
+4118|Gunungsari|269
+4119|Cakranegara|268
+4120|Sandubaya (Sandujaya)|268
+4121|Mataram|268
+4122|Selaparang (Selaprang)|268
+4123|Sekarbela|268
+4124|Loli|271
+4125|Umbu Ratu Nggay|272
+4126|Umbu Ratu Nggay Barat|272
+4127|Katikutana Selatan|272
+4128|Katikutana|272
+4129|Wanokaka|271
+4130|Lamboya Barat|271
+4131|Lamboya|271
+4132|Wewewa Selatan|273
+4133|Kodi Bangedo|273
+4134|Kodi Balaghar|273
+4135|Kodi|273
+4136|Kodi Utara|273
+4137|Mamboro|272
+4138|Tana Righu|271
+4139|Kota Tambolaka|273
+4140|Loura (Laura)|273
+4141|Wewewa Barat|273
+4142|Wewewa Tengah (Wewera Tengah)|273
+4143|Wewewa Utara|273
+4144|Wewewa Timur|273
+4145|Kota Waikabubak|271
+4146|Wula Waijelu|274
+4147|Pahunga Lodu|274
+4148|Umalulu|274
+4149|Rindi|274
+4150|Karera|274
+4151|Ngadu Ngala|274
+4152|Pandawai|274
+4153|Paberiwai|274
+4154|Matawai Lappau (La Pawu)|274
+4155|Kambata Mapambuhang|274
+4156|Mahu|274
+4157|Kahaunguweti (Kahaungu Eti)|274
+4158|Tabundung|274
+4159|Pinupahar (Pirapahar)|274
+4160|Kanatang|274
+4161|Haharu|274
+4162|Lewa Tidahu|274
+4163|Nggaha Oriangu|274
+4164|Lewa|274
+4165|Katala Hamu Lingu|274
+4166|Kambera|274
+4167|Kota Waingapu|274
+4168|Mbeliling|275
+4169|Sano Nggoang|275
+4170|Macang Pacar|275
+4171|Komodo|275
+4172|Boleng|275
+4173|Lembor Selatan|275
+4174|Lembor|275
+4175|Welak|275
+4176|Ndoso|275
+4177|Kuwus|275
+4178|Buyasuri (Buyasari)|276
+4179|Omesuri|276
+4180|Wulandoni (Wulandioni)|276
+4181|Atadei|276
+4182|Nagawutung|276
+4183|Ile Ape|276
+4184|Ile Ape Timur|276
+4185|Nubatukan|276
+4186|Lebatukan|276
+4187|Reok|277
+4188|Reok Barat|277
+4189|Cibal|277
+4190|Wae Rii|277
+4191|Cibal Barat|277
+4192|Sambi Rampas|278
+4193|Poco Ranaka Timur|278
+4194|Poco Ranaka|278
+4195|Lamba Leda|278
+4196|Elar Selatan|278
+4197|Elar|278
+4198|Kota Komba|278
+4199|Rana Mese|278
+4200|Borong|278
+4201|Satar Mese|277
+4202|Satar Mese Barat|277
+4203|Langke Rembong|277
+4204|Rahong Utara|277
+4205|Lelak|277
+4206|Ruteng|277
+4207|Aesesa Selatan|279
+4208|Aesesa|279
+4209|Wolowae|279
+4210|Nangaroro|279
+4211|Keo Tengah|279
+4212|Mauponggo|279
+4213|Boawae|279
+4214|Golewa|280
+4215|Golewa Selatan|280
+4216|Golewa Barat|280
+4217|Jerebuu|280
+4218|Inerie|280
+4219|Aimere|280
+4220|Riung Barat|280
+4221|Wolomeze (Riung Selatan)|280
+4222|Riung|280
+4223|Soa|280
+4224|Bajawa|280
+4225|Bajawa Utara|280
+4226|Wolojita|281
+4227|Maurole|281
+4228|Lepembusu Kelisoke|281
+4229|Ndori|281
+4230|Wolowaru|281
+4231|Detukeli|281
+4232|Detusoko|281
+4233|Pulau Ende|281
+4234|Ndona|281
+4235|Lio Timur|281
+4236|Ende Timur|281
+4237|Ndona Timur|281
+4238|Wewaria|281
+4239|Nangapanda|281
+4240|Maukaro|281
+4241|Ende|281
+4242|Ende Utara|281
+4243|Ende Tengah|281
+4244|Kelimutu|281
+4245|Ende Selatan|281
+4246|Solor Barat|282
+4247|Solor Selatan|282
+4248|Solor Timur|282
+4249|Adonara Barat|282
+4250|Adonara Tengah|282
+4251|Witihama (Watihama)|282
+4252|Adonara|282
+4253|Kelubagolit (Klubagolit)|282
+4254|Wotan Ulumado|282
+4255|Adonara Timur|282
+4256|Titehena|282
+4257|Wulanggitang|282
+4258|Ile Boleng|282
+4259|Ile Bura|282
+4260|Lewolema|282
+4261|Tanjung Bunga|282
+4262|Larantuka|282
+4263|Demon Pagong|282
+4264|Alok Timur|283
+4265|Ile Mandiri|282
+4266|Waigete|283
+4267|Waiblama|283
+4268|Talibura|283
+4269|Kangae|283
+4270|Hewokloang|283
+4271|Kewapante|283
+4272|Bola|283
+4273|Doreng|283
+4274|Mapitara|283
+4275|Lela|283
+4276|Paga|283
+4277|Tana Wawo|283
+4278|Nita|283
+4279|Magepanda|283
+4280|Alok|283
+4281|Koting|283
+4282|Nelle (Maumerei)|283
+4283|Alok Barat|283
+4284|Mego|283
+4285|Kotabaru|281
+4286|Palue|283
+4287|Ndao Nuse|284
+4288|Rote Barat Daya|284
+4289|Rote Barat|284
+4290|Rote Barat Laut|284
+4291|Landu Leko|284
+4292|Rote Timur|284
+4293|Pantai Baru|284
+4294|Rote Selatan|284
+4295|Rote Tengah|284
+4296|Lobalain|284
+4297|Pantar|285
+4298|Pantar Tengah|285
+4299|Pantar Timur|285
+4300|Pantar Barat|285
+4301|Pantar Barat Laut|285
+4302|Alor Timur Laut|285
+4303|Alor Timur|285
+4304|Pureman|285
+4305|Alor Tengah Utara|285
+4306|Lembur|285
+4307|Alor Selatan|285
+4308|Alor Barat Daya|285
+4309|Mataru|285
+4310|Alor Barat Laut|285
+4311|Pulau Pura|285
+4312|Kabola|285
+4313|Teluk Mutiara|285
+4314|Raihat|286
+4315|Lamaknen Selatan|286
+4316|Lamaknen|286
+4317|Tasifeto Timur|286
+4318|Lasiolat|286
+4319|Kobalima|504
+4320|Kobalima Timur|504
+4321|Sasitamean|504
+4322|Io Kufeu|504
+4323|Botin Leo Bele|504
+4324|Rinhat|504
+4325|Weliman|504
+4326|Wewiku|504
+4327|Malaka Barat|504
+4328|Malaka Tengah|504
+4329|Malaka Timur|504
+4330|Raimanuk|286
+4331|Tasifeto Barat|286
+4332|Nanaet Duabesi|286
+4333|Kakuluk Mesak|286
+4334|Laen Manen|504
+4335|Atambua Selatan|286
+4336|Atambua Kota|286
+4337|Atambua Barat|286
+4338|Biboki Utara|287
+4339|Biboki Feotleu|287
+4340|Biboki Selatan|287
+4341|Biboki Moenleu|287
+4342|Biboki Tan Pah|287
+4343|Insana Barat|287
+4344|Insana|287
+4345|Insana Tengah|287
+4346|Insana Utara|287
+4347|Insana Fafinesu|287
+4348|Miomaffo Tengah|287
+4349|Mutis|287
+4350|Miomaffo Barat|287
+4351|Noemuti|287
+4352|Musi|287
+4353|Noemuti Timur|287
+4354|Miomaffo Timur|287
+4355|Bikomi Utara|287
+4356|Bikomi Nilulat|287
+4357|Naibenu|287
+4358|Bikomi Selatan|287
+4359|Bikomi Tengah|287
+4360|Kota Kefamenanu|287
+4361|Biboki Anleu|287
+4362|Kie|288
+4363|Kot Olin|288
+4364|Amanatun Utara|288
+4365|Toianas|288
+4366|Kok Baun|288
+4367|Amanatun Selatan|288
+4368|Noebana|288
+4369|Nunkolo|288
+4370|Santian|288
+4371|Boking|288
+4372|Fautmolo|288
+4373|Amanuban Timur|288
+4374|Fatukopa|288
+4375|Oenino|288
+4376|Amanuban Tengah|288
+4377|Kuanfatu|288
+4378|Kolbano|288
+4379|Batu Putih|288
+4380|Kualin|288
+4381|Noebeba|288
+4382|Amanuban Selatan|288
+4383|Polen|288
+4384|Mollo Selatan|288
+4385|Nunbena|288
+4386|Tobu|288
+4387|Mollo Barat|288
+4388|Mollo Tengah|288
+4389|Fatumnasi|288
+4390|Mollo Utara|288
+4391|Amanuban Barat|288
+4392|Kuatnana|288
+4393|Kota Soe|288
+4394|Raijua|289
+4395|Sabu Tengah|289
+4396|Sabu Timur|289
+4397|Sabu Liae|289
+4398|Hawu Mehara|289
+4399|Nekamese|290
+4400|Sabu Barat|289
+4401|Takari|290
+4402|Sulamu|290
+4403|Amarasi Barat|290
+4404|Amarasi|290
+4405|Amarasi Selatan|290
+4406|Amarasi Timur|290
+4407|Amfoang Utara|290
+4408|Amfoang Barat Laut|290
+4409|Amfoang Selatan|290
+4410|Amfoang Timur|290
+4411|Amfoang Barat Daya|290
+4412|Amfoang Tengah|290
+4413|Fatuleu|290
+4414|Amabi Oefeto Timur|290
+4415|Amabi Oefeto|290
+4416|Kupang Timur|290
+4417|Kupang Tengah|290
+4418|Taebenu|290
+4419|Semau Selatan|290
+4420|Semau|290
+4421|Kupang Barat|290
+4422|Alak|496
+4423|Kota Lama|496
+4424|Kelapa Lima|496
+4425|Fatuleu Barat|290
+4426|Fatuleu Tengah|290
+4427|Maulafa|496
+4428|Kota Raja|496
+4429|Oebobo|496
+4430|Fakfak Timur|291
+4431|Bombarai (Bomberay)|291
+4432|Karas|291
+4433|Fakfak Barat|291
+4434|Teluk Patipi|291
+4435|Buruway|292
+4436|Yamor|292
+4437|Teluk Etna|292
+4438|Kambraw (Kamberau)|292
+4439|Kaimana|292
+4440|Teluk Arguni Bawah (Yerusi)|292
+4441|Teluk Arguni Atas|292
+4442|Kokas|291
+4443|Kramongmongga (Kramamongga)|291
+4444|Aifat|293
+4445|Fakfak|291
+4446|Fakfak Tengah|291
+4447|Batanta Utara|294
+4448|Salawati Utara (Samate)|294
+4449|Batanta Selatan|294
+4450|Salawati Tengah|294
+4451|Salawati Barat|294
+4452|Misool Selatan|294
+4453|Kepulauan Sembilan|294
+4454|Misool Timur|294
+4455|Misool (Misool Utara)|294
+4456|Kofiau|294
+4457|Misool Barat|294
+4458|Meos Mansar|294
+4459|Waigeo Timur|294
+4460|Waigeo Selatan|294
+4461|Kota Waisai|294
+4462|Teluk Mayalibit|294
+4463|Tiplol Mayalibit|294
+4464|Kepulauan Ayau|294
+4465|Warwabomi|294
+4466|Waigeo Barat|294
+4467|Supnin|294
+4468|Waigeo Barat Kepulauan|294
+4469|Ayau|294
+4470|Waigeo Utara|294
+4471|Yembun|295
+4472|Miyah (Meyah)|295
+4473|Abun|295
+4474|Sausapor|295
+4475|Fef (Peef)|295
+4476|Kwoor|295
+4477|Syujak|295
+4478|Moraid|295
+4479|Maudus|296
+4480|Klaso|296
+4481|Makbon|296
+4482|Sayosa|296
+4483|Klayili|296
+4484|Aifat Selatan|293
+4485|Aifat Utara|293
+4486|Aifat Timur Selatan|293
+4487|Aifat Timur|293
+4488|Aifat Timur Tengah|293
+4489|Aifat Timur Jauh|293
+4490|Aitinyo Raya|293
+4491|Aitinyo Tengah|293
+4492|Aitinyo|293
+4493|Aitinyo Barat|293
+4494|Aitinyo Utara|293
+4495|Ayamaru Jaya|293
+4496|Ayamaru Tengah|293
+4497|Mare Selatan|293
+4498|Mare|293
+4499|Ayamaru|293
+4500|Ayamaru Utara Timur|293
+4501|Ayamaru Utara|293
+4502|Ayamaru Barat|293
+4503|Ayamaru Selatan Jaya|293
+4504|Ayamaru Timur Selatan|293
+4505|Ayamaru Selatan|293
+4506|Ayamaru Timur|293
+4507|Aimas|296
+4508|Mariat|296
+4509|Sawiat|297
+4510|Klamono|296
+4511|Fokour|297
+4512|Kais (Matemani Kais)|297
+4513|Kokoda Utara|297
+4514|Inanwatan (Inawatan)|297
+4515|Kokoda|297
+4516|Matemani|297
+4517|Teminabuan|297
+4518|Seremuk|297
+4519|Wayer|297
+4520|Konda|297
+4521|Moswaren|297
+4522|Saifi|297
+4523|Beraur|296
+4524|Klawak|296
+4525|Klabot|296
+4526|Seget|296
+4527|Salawati Selatan|296
+4528|Segun|296
+4529|Moisegen|296
+4530|Mayamuk|296
+4531|Salawati|296
+4532|Sorong Utara|500
+4533|Sorong Timur|500
+4534|Sorong|500
+4535|Sorong Manoi|500
+4536|Sorong Kepulauan|500
+4537|Sorong Barat|500
+4538|Moskona Timur|298
+4539|Biscoop|298
+4540|Moskona Utara|298
+4541|Merdey|298
+4542|Masyeta|298
+4543|Senopi|295
+4544|Kebar|295
+4545|Mubrani|295
+4546|Amberbaken|295
+4547|Weriagar|298
+4548|Mayado|298
+4549|Tomu|298
+4550|Moskona Selatan|298
+4551|Moskona Barat|298
+4552|Aranday|298
+4553|Kamundan|298
+4554|Wamesa (Idoor)|298
+4555|Bintuni|298
+4556|Manimeri|298
+4557|Dataran Beimes|298
+4558|Tuhiba|298
+4559|Tembuni|298
+4560|Aroba|298
+4561|Kaitaro|298
+4562|Kuri|298
+4563|Sumuri (Simuri)|298
+4564|Fafurwar (Irorutu)|298
+4565|Babo|298
+4566|Teluk Duairi (Wasior Utara)|299
+4567|Kuri Wamesa|299
+4568|Roon|299
+4569|Naikere (Wasior Barat)|299
+4570|Wondiboy (Wasior Selatan)|299
+4571|Wasior|299
+4572|Rasiei|299
+4573|Roswar|299
+4574|Windesi|299
+4575|Rumberpon|299
+4576|Soug Jaya|299
+4577|Wamesa|299
+4578|Nikiwar|299
+4579|Dataran Isim|300
+4580|Sururey|301
+4581|Didohu|301
+4582|Menyambouw (Minyambouw)|301
+4583|Catubouw|301
+4584|Masni|302
+4585|Sidey|302
+4586|Hingk|301
+4587|Testega|301
+4588|Prafi|302
+4589|Momi Waren|300
+4590|Tahota (Tohota)|300
+4591|Ransiki|300
+4592|Neney (Nenei)|300
+4593|Membey|301
+4594|Anggi|301
+4595|Tanah Rubuh|302
+4596|Taige|301
+4597|Anggi Gida|301
+4598|Oransbari|300
+4599|Warmare|302
+4600|Manokwari Utara|302
+4601|Manokwari Selatan|302
+4602|Manokwari Barat|302
+4603|Manokwari Timur|302
+4604|Mimika Barat Jauh|303
+4605|Mimika Barat (Mibar)|303
+4606|Mimika Barat Tengah|303
+4607|Mimika Timur Tengah|303
+4608|Mimika Timur Jauh|303
+4609|Kuala Kencana|303
+4610|Tembagapura|303
+4612|Jita|303
+4613|Agimuga|303
+4614|Mimika Timur|303
+4615|Mimika Baru|303
+4616|Haju|304
+4617|Kaibar|304
+4618|Passue Bawah|304
+4619|Citakmitak|304
+4620|Ti Zain|304
+4621|Assue|304
+4622|Nambioman Bapai (Mambioman)|304
+4623|Minyamur|304
+4624|Obaa|304
+4625|Passue|304
+4626|Venaha|304
+4627|Edera|304
+4628|Yakomi|304
+4629|Bamgi|304
+4630|Syahcame|304
+4631|Fayit|305
+4632|Jetsy|305
+4633|Akat|305
+4634|Suru-suru|305
+4635|Joerat|305
+4636|Pulau Tiga|305
+4637|Unir Sirau|305
+4638|Sawa Erma|305
+4639|Agats|305
+4640|Ayip|305
+4641|Sirets|305
+4642|Betcbamu|305
+4643|Atsy / Atsj|305
+4644|Der Koumur|305
+4645|Safan|305
+4646|Pantai Kasuari|305
+4647|Kopay|305
+4648|Suator|305
+4649|Kolf Braza|305
+4650|Kawagit|306
+4651|Firiwage|306
+4652|Manggelum|306
+4653|Kouh|306
+4654|Yaniruma|306
+4655|Waropko|306
+4656|Kombay|306
+4657|Ninati|306
+4658|Ambatkwi (Ambatkui)|306
+4659|Bomakia|306
+4660|Mandobo|306
+4661|Arimop|306
+4662|Fofi|306
+4663|Sesnuk|306
+4664|Iniyandit|306
+4665|Mindiptana|306
+4666|Kombut|306
+4667|Ki|306
+4668|Subur|306
+4669|Jair|306
+4670|Jagebob|307
+4671|Sota|307
+4672|Animha|307
+4673|Kurik|307
+4674|Malind|307
+4675|Tabonji|307
+4676|Ilyawab|307
+4677|Kimaam|307
+4678|Waan|307
+4679|Tubang|307
+4680|Ngguti (Nggunti)|307
+4681|Okaba|307
+4682|Kaptel|307
+4683|Muting|307
+4684|Eligobel|307
+4685|Ulilin|307
+4686|Tanah Miring|307
+4687|Semangga|307
+4688|Naukenjerai|307
+4689|Merauke|307
+4690|Abenaho|308
+4691|Apalapsili|308
+4692|Welarek|308
+4693|Elelim|308
+4694|Benawa|308
+4695|Walma|309
+4696|Nipsan|309
+4697|Duram|309
+4698|Panggema|309
+4699|Talambo|309
+4700|Anggruk|309
+4701|Ubalihi|309
+4702|Kosarek|309
+4703|Ubahak|309
+4704|Endomen|309
+4705|Pronggoli (Proggoli)|309
+4706|Dirwemna (Diruwena)|309
+4707|Puldama|309
+4708|Hereapini (Hereanini)|309
+4709|Nalca|309
+4710|Kona|309
+4711|Suntamon|309
+4712|Hilipuk|309
+4713|Langda|309
+4714|Koropun (Korupun)|309
+4715|Bomela|309
+4716|Sobaham|309
+4717|Kwelemdua (Kwelamdua)|309
+4718|Holuon|309
+4719|Lolat|309
+4720|Soloikma|309
+4721|Ninia|309
+4722|Kwikma|309
+4723|Yahuliambut|309
+4724|Sela|309
+4725|Kabianggama (Kabianggema)|309
+4726|Pamek|310
+4727|Bime|310
+4728|Eipumek|310
+4729|Borme|310
+4730|Mofinop|310
+4731|Nongme|310
+4732|Weime|310
+4733|Murkim|310
+4734|Batani|310
+4735|Batom|310
+4736|Awinbon|310
+4737|Kawor|310
+4738|Iwur (Okiwur)|310
+4739|Tarup|310
+4740|Kiwirok Timur|310
+4741|Oksamol|310
+4742|Okhika|310
+4743|Oksebang|310
+4744|Kiwirok|310
+4745|Oklip|310
+4746|Okbemtau|310
+4747|Pepera|310
+4748|Ok Aom|310
+4749|Serambakon|310
+4750|Alemsom|310
+4751|Kalomdol|310
+4752|Okbape|310
+4753|Oksibil|310
+4754|Oksop|310
+4755|Teiraplu|310
+4756|Okbab|310
+4757|Aboy|310
+4758|Jetfa|310
+4759|Okbibab|310
+4760|Mugi|309
+4761|Yogosem|309
+4762|Suru Suru|309
+4763|Yal|311
+4764|Musaik|309
+4765|Mam|311
+4766|Wusuma|309
+4767|Ukha|309
+4768|Tangma|309
+4769|Seredela (Seredala)|309
+4770|Obio|309
+4771|Kurima|309
+4772|Pasema|309
+4773|Silimo|309
+4774|Amuma|309
+4775|Sumo|309
+4776|Werima|309
+4777|Kayo|309
+4778|Soba|309
+4779|Dekai|309
+4780|Hogio (Hugio)|309
+4781|Samenage|309
+4782|Wina|312
+4783|Egiam|312
+4784|Kembu|312
+4785|Gika|312
+4786|Wari (Taiyeve)|312
+4787|Panaga|312
+4788|Dundu (Ndundu)|312
+4789|Umagi|312
+4790|Telenggeme|312
+4791|Gundagi (Gudage)|312
+4792|Dow|312
+4793|Timori|312
+4794|Poganeri|312
+4795|Yuko|312
+4796|Kanggime (Kanggima )|312
+4797|Wonoki (Woniki)|312
+4798|Aweku|312
+4799|Gilubandu (Gilumbandu/Gilimbandu)|312
+4800|Bogonuk|312
+4801|Nunggawi (Munggawi)|312
+4802|Wakuwo|312
+4803|Nabunage|312
+4804|Dimba|313
+4805|Pirime|313
+4806|Balingga|313
+4807|Ibele|314
+4808|Taelarek|314
+4809|Pelebaga|314
+4810|Hubikosi (Hobikosi)|314
+4811|Hubikiak|314
+4812|Kenyam|311
+4813|Embetpen|311
+4814|Moba|311
+4815|Mbua Tengah|311
+4816|Kora|311
+4817|Wusi|311
+4818|Gearek|311
+4819|Pasir Putih|311
+4820|Pija|311
+4821|Wosak|311
+4822|Krepkuri|311
+4823|Kilmid|311
+4824|Mebarok|311
+4825|Mapenduma|311
+4826|Mugi|311
+4827|Yigi|311
+4828|Yenggelo|311
+4829|Wutpaga|311
+4830|Inikgal|311
+4831|Nenggeagin|311
+4832|Kegayem|311
+4833|Nirkuri|311
+4834|Mbulmu Yalma|311
+4835|Geselma (Geselema)|311
+4836|Paro|311
+4837|Iniye|311
+4838|Dal|311
+4839|Koroptak|311
+4840|Mbua (Mbuga)|311
+4841|Alama|311
+4842|Tiom|313
+4844|Kuyawage|313
+4845|Tiomneri|313
+4846|Yuneri|312
+4847|Biuk|312
+4848|Numba|312
+4849|Nelawi|312
+4850|Kondaga (Konda)|312
+4851|Goyage|312
+4852|Anawi|312
+4853|Karubaga|312
+4854|Wugi|312
+4855|Wunin (Wumin)|312
+4856|Geya|312
+4857|Wenam|312
+4858|Kai|312
+4859|Li Anogomma|312
+4860|Airgaram|312
+4861|Kuari|312
+4862|Kubu|312
+4863|Bewani|312
+4864|Tagineri|312
+4865|Bokoneri|312
+4866|Danime|312
+4867|Bokondini|312
+4868|Kamboneri|312
+4869|Tagime|312
+4870|Kobakma|315
+4871|Megabilis (Megambilis)|315
+4872|Tagime|314
+4873|Yalengga|314
+4874|Tagineri|314
+4875|Wollo (Wolo)|314
+4876|Ilugwa|315
+4877|Bolakme|314
+4878|Bpiri|314
+4879|Bugi|314
+4880|Molagalome|314
+4881|Koragi|314
+4882|Gamelia|313
+4883|Poga|313
+4884|Makki (Maki)|313
+4885|Musatfak|314
+4886|Piramid|314
+4887|Wame|314
+4888|Silo Karno Doga|314
+4889|Asologaima (Asalogaima)|314
+4890|Muliama|314
+4891|Kelila|315
+4892|Eragayam|315
+4893|Wadangku|314
+4894|Usilimo|314
+4895|Wita Waya|314
+4896|Kurulu|314
+4897|Pisugi|314
+4898|Libarek|314
+4899|Siepkosi|314
+4900|Napua|314
+4901|Popugoba|314
+4902|Itlay Hisage|314
+4903|Asolokobal|314
+4904|Walaik|314
+4905|Wesaput|314
+4906|Welesi|314
+4907|Wouma|314
+4908|Walelagama|314
+4909|Wamena|314
+4910|Trikora|314
+4911|Asotipo|314
+4912|Maima|314
+4913|Skamto (Skanto)|316
+4914|Arso Timur|316
+4915|Arso|316
+4916|Waris|316
+4917|Web|316
+4918|Towe|316
+4919|Senggi|316
+4920|Mamberamo Hulu/Ulu|317
+4921|Rofaer (Rufaer)|317
+4922|Mamberamo Tengah Timur|317
+4923|Mamberamo Tengah|317
+4924|Mamberamo Hilir/Ilir|317
+4925|Pantai Barat|318
+4926|Apawer Hulu|318
+4927|Sarmi Timur|318
+4928|Sarmi|318
+4929|Sarmi Selatan|318
+4930|Tor Atas|318
+4931|Pantai Timur|318
+4932|Pantai Timur Barat|318
+4933|Kaureh|319
+4934|Yapsi|319
+4935|Airu|319
+4936|Nimbokrang|319
+4937|Nimboran|319
+4938|Nambluong|319
+4939|Sentani Timur|319
+4940|Waibu|319
+4941|Sentani Barat|319
+4942|Kemtuk Gresi|319
+4943|Kemtuk|319
+4944|Gresi Selatan|319
+4945|Unurum Guay|319
+4946|Bonggo|318
+4947|Bonggo Timur|318
+4948|Yokari|319
+4949|Demta|319
+4950|Ravenirara|319
+4951|Depapre|319
+4952|Sentani|319
+4953|Ebungfau (Ebungfa)|319
+4954|Heram|499
+4955|Abepura|499
+4956|Muara Tami|499
+4957|Jayapura Selatan|499
+4958|Jayapura Utara|499
+4960|Pogoma|320
+4961|Sinak|320
+4963|Gome|320
+4964|Ilaga|320
+4965|Beoga|320
+4966|Wangbe|320
+4967|Mewoluk (Mewulok)|321
+4968|Fawi|321
+4969|Ilu|321
+4970|Jigonikme|321
+4971|Torere|321
+4972|Yamo|321
+4973|Tingginambut|321
+4974|Mulia|321
+4975|Kamu Utara (Ikrar/Ikrat)|322
+4976|Kamu Timur|322
+4977|Kamu Selatan|322
+4978|Kamu|322
+4979|Dogiyai|322
+4980|Wapoga|323
+4981|Napan|323
+4982|Makimi|323
+4983|Moora|323
+4984|Piyaiye (Sukikai)|322
+4985|Sukikai Selatan|322
+4986|Yaro (Yaro Kabisay)|323
+4987|Nabire Barat|323
+4988|Wanggar|323
+4989|Mapia Barat|322
+4990|Mapia Tengah|322
+4991|Siriwo|323
+4992|Mapia|322
+4993|Uwapa|323
+4994|Menou|323
+4995|Dipa|323
+4996|Yaur|323
+4997|Teluk Umar|323
+4998|Nabire|323
+4999|Teluk Kimi|323
+5000|Wandai|324
+5001|Biandoga|324
+5002|Agisiga|324
+5003|Dumadama|325
+5004|Bibida|325
+5005|Bowobado|326
+5006|Tigi Timur|326
+5007|Bogobaida|325
+5008|Sugapa|324
+5009|Homeo (Homeyo)|324
+5010|Hitadipa|324
+5011|Aradide|325
+5012|Ekadide|325
+5013|Tigi Barat|326
+5014|Tigi|326
+5015|Paniai Barat|325
+5016|Siriwo|325
+5017|Kapiraya|326
+5018|Yatamo|325
+5019|Paniai Timur|325
+5020|Kebo|325
+5021|Demba Masirei|327
+5022|Risei Sayati|327
+5023|Kirihi|327
+5024|Masirei|327
+5025|Benuki|317
+5026|Sawai|317
+5027|Oudate Waropen|327
+5028|Waropen Atas|317
+5029|Wapoga Inggerus|327
+5030|Waropen Bawah|327
+5031|Ureifasei|327
+5032|Inggerus|327
+5033|Angkaisera|328
+5034|Kepulauan Ambai|328
+5035|Poom|328
+5036|Windesi|328
+5037|Pulau Yerui|328
+5038|Yapen Barat|328
+5039|Wonawa|328
+5040|Yapen Utara|328
+5041|Yapen Timur|328
+5042|Raimbawi|328
+5043|Teluk Ampimoi|328
+5044|Pulau Kurudu|328
+5045|Kosiwo|328
+5046|Yapen Selatan|328
+5047|Orkeri|329
+5048|Numfor Barat|329
+5049|Numfor Timur|329
+5050|Bruyadori|329
+5051|Poiru|329
+5052|Supiori Barat|330
+5053|Supiori Utara|330
+5054|Kepulauan Aruri|330
+5055|Supiori Timur|330
+5056|Supiori Selatan|330
+5057|Aimando Padaido|329
+5058|Padaido|329
+5059|Yawosi|329
+5060|Warsa|329
+5061|Andey (Andei)|329
+5062|Bondifuar|329
+5063|Samofa|329
+5064|Yendidori|329
+5065|Biak Barat|329
+5066|Swandiwe|329
+5067|Biak Utara|329
+5068|Biak Timur|329
+5069|Oridek|329
+5070|Biak Kota|329
+5071|Sentajo Raya|331
+5072|Benai|331
+5073|Hulu Kuantan|331
+5074|Gunung Toar|331
+5075|Inuman|331
+5076|Kuantan Mudik|331
+5077|Pucuk Rantau|331
+5078|Singingi Hilir|331
+5079|Singingi|331
+5080|Kuantan Hilir Seberang|331
+5081|Kuantan Hilir|331
+5082|Logas Tanah Darat|331
+5083|Cerenti|331
+5084|Pangean|331
+5085|Kuantan Tengah|331
+5086|Seberida|332
+5087|Sungai Lala|332
+5088|Batang Gansal|332
+5089|Batang Cenaku|332
+5090|Batang Peranap|332
+5091|Peranap|332
+5092|Lirik|332
+5093|Lubuk Batu Jaya|332
+5094|Kelayang|332
+5095|Pasir Penyu|332
+5096|Rakit Kulim|332
+5097|Rengat Barat|332
+5098|Kuala Cenaku|332
+5099|Rengat|332
+5100|Gaung|333
+5101|Kuala Indragiri|333
+5102|Concong|333
+5103|Kemuning|333
+5104|Keritang|333
+5105|Reteh|333
+5106|Sungai Batang|333
+5107|Enok|333
+5108|Tanah Merah|333
+5109|Tempuling|333
+5110|Kempas|333
+5111|Pulau Burung|333
+5112|Pelangiran|333
+5113|Teluk Belengkong|333
+5114|Kateman|333
+5115|Mandah|333
+5116|Gaung Anak Serka|333
+5117|Batang Tuaka|333
+5118|Tembilahan Hulu|333
+5119|Tembilahan|333
+5120|Bangko Pusaka (Pusako)|334
+5121|Simpang Kanan|334
+5122|Bagan Sinembah|334
+5123|Pasir Limau Kapas|334
+5124|Kubu|334
+5125|Kubu Babussalam|334
+5126|Pujud|334
+5127|Tanah Putih|334
+5128|Rantau Kopar|334
+5129|Tanah Putih Tanjung Melawan|334
+5130|Rimba Melintang|334
+5131|Bangko|334
+5132|Pekaitan|334
+5133|Sinaboi (Senaboi)|334
+5134|Batu Hampar|334
+5135|Bukit Kapur|335
+5136|Sungai Sembilan|335
+5137|Dumai Selatan|335
+5138|Medang Kampai|335
+5139|Dumai Barat|335
+5140|Dumai Kota|335
+5141|Dumai Timur|335
+5142|Pinggir|336
+5143|Mandau|336
+5144|Rupat Utara|336
+5145|Rupat|336
+5146|Mempura|337
+5147|Tualang|337
+5148|Siak Kecil|336
+5149|Bunga Raya|337
+5150|Pusako|337
+5151|Bukit Batu|336
+5152|Rangsang|338
+5153|Rangsang Pesisir|338
+5154|Rangsang Barat|338
+5155|Bantan|336
+5156|Tebing Tinggi Barat|338
+5157|Tebing Tinggi Timur|338
+5158|Tebing Tinggi|338
+5159|Merbau|338
+5160|Pulaumerbau|338
+5161|Tasik Putri Puyu|338
+5162|Bengkalis|336
+5163|Kandis|337
+5164|Sabak Auh|337
+5165|Minas|337
+5166|Koto Gasib|337
+5167|Siak|337
+5168|Sungai Mandau|337
+5169|Dayun|337
+5170|Sungai Apit|337
+5171|Kerinci Kanan|337
+5172|Lubuk Dalam|337
+5173|Rambah Samo|339
+5174|Kepenuhan|339
+5175|Bonai Darussalam|339
+5176|Kepenuhan Hulu|339
+5177|Tambusai|339
+5178|Tambusai Utara|339
+5179|Bangun Purba|339
+5180|Rambah|339
+5181|Rambah Hilir|339
+5182|Kunto Darussalam|339
+5183|Pagaran Tapah Darussalam|339
+5184|Rokan IV Koto|339
+5185|Pendalian IV Koto|339
+5186|Ujung Batu|339
+5187|Tandun|339
+5188|Kabun|339
+5189|Kampar Kiri Hulu|340
+5190|Kampar Kiri Tengah|340
+5191|Kampar Kiri|340
+5192|Kampar Kiri Hilir|340
+5193|Gunung Sahilan|340
+5194|Tapung|340
+5195|Tapung Hilir|340
+5196|Tapung Hulu|340
+5197|Bangkinang Seberang|340
+5198|Kuok (Bangkinang Barat)|340
+5199|Tambang|340
+5200|Perhentian Raja|340
+5201|Kampar|340
+5202|Kampar Timur|340
+5203|Kampar Utara|340
+5204|Rumbio Jaya|340
+5205|XIII Koto Kampar|340
+5206|Koto Kampar Hulu|340
+5207|Siak Hulu|340
+5208|Salo|340
+5209|Bangkinang|340
+5210|Bandar Petalangan|341
+5211|Kuala Kampar|341
+5212|Bunut|341
+5213|Bandar Sei Kijang|341
+5214|Ukui|341
+5215|Pangkalan Kuras|341
+5216|Pangkalan Lesung|341
+5217|Langgam|341
+5218|Pangkalan Kerinci|341
+5219|Teluk Meranti|341
+5220|Pelalawan|341
+5221|Kerumutan|341
+5222|Tampan|342
+5223|Payung Sekaki|342
+5224|Bukit Raya|342
+5225|Tenayan Raya|342
+5226|Rumbai Pesisir|342
+5227|Marpoyan Damai|342
+5228|Rumbai|342
+5229|Senapelan|342
+5230|Lima Puluh|342
+5231|Sail|342
+5232|Sukajadi|342
+5233|Pekanbaru Kota|342
+5234|Alu (Allu)|343
+5235|Bambaira|344
+5236|Bambalamotu|344
+5237|Sarjo|344
+5238|Duripoku|344
+5239|Dapurang|344
+5240|Sarudu|344
+5241|Baras|344
+5242|Bulu Taba|344
+5243|Lariang|344
+5244|Tikke Raya|344
+5245|Pedongga|344
+5246|Pasangkayu|344
+5247|Topoyo|345
+5248|Tobadak|345
+5249|Papalang|345
+5250|Sampaga|345
+5251|Budong-Budong|345
+5252|Pangale|345
+5253|Kalumpang|345
+5254|Tommo|345
+5255|Bonehau|345
+5256|Kalukku|345
+5257|Mamuju|345
+5258|Simboro dan Kepulauan|345
+5259|Karossa|345
+5260|Kep. Bala Balakang|345
+5261|Ulumunda|346
+5262|Malunda|346
+5263|Tubo (Tubo Sendana)|346
+5264|Tammeredo Sendana|346
+5265|Sendana|346
+5266|Pamboang|346
+5267|Banggae|346
+5268|Banggae Timur|346
+5269|Limboro|343
+5270|Tinambung|343
+5271|Aralle (Arrale)|347
+5272|Buntumalangka|347
+5273|Tabulahan|347
+5274|Bambang|347
+5275|Mambi|347
+5276|Rantebulahan Timur|347
+5277|Mehalaan|347
+5278|Tanduk Kalua|347
+5279|Balla|347
+5280|Tawalian|347
+5281|Sesena Padang|347
+5282|Tabang|347
+5283|Pana|347
+5284|Nosu|347
+5285|Mamasa|347
+5286|Sumarorong|347
+5287|Messawa|347
+5288|Tubbi Taramanu (Tutar/Tutallu)|343
+5289|Balanipa|343
+5290|Mapilli|343
+5291|Luyo|343
+5292|Bulo|343
+5293|Campalagian|343
+5294|Tapango|343
+5295|Wonomulyo|343
+5296|Matakali|343
+5297|Matangnga|343
+5298|Tapalang|345
+5299|Tapalang Barat|345
+5300|Binuang|343
+5301|Polewali|343
+5302|Anreapi|343
+5303|Angkona|348
+5304|Wasuponda|348
+5305|Nuha|348
+5306|Towuti|348
+5307|Malili|348
+5308|Burau|348
+5309|Mangkutana|348
+5310|Kalaena|348
+5311|Tomoni|348
+5312|Tomoni Timur|348
+5313|Wotu|348
+5314|Baebunta|349
+5315|Rampi|349
+5316|Sukamaju|349
+5317|Masamba|349
+5318|Malangke Barat|349
+5319|Seko|349
+5320|Sabbang|349
+5321|Limbong|349
+5322|Malangke|349
+5323|Mappedeceng|349
+5324|Pasilambena|350
+5325|Pasimarannu|350
+5326|Pasimasunggu Timur|350
+5327|Pasimassunggu|350
+5328|Takabonerate|350
+5329|Bontosikuyu|350
+5330|Bontomatene|350
+5331|Buki|350
+5332|Bontomanai|350
+5333|Benteng|350
+5334|Bontoharu|350
+5335|Sibulue|351
+5336|Awangpone|351
+5337|Kajuara|351
+5338|Salomekko|351
+5339|Tonra|351
+5340|Mare|351
+5341|Cina|351
+5342|Barebbo|351
+5343|Bontocani|351
+5344|Patimpeng|351
+5345|Kahu|351
+5346|Libureng|351
+5347|Ponre|351
+5348|Lamuru|351
+5349|Bengo|351
+5350|Lappariaja|351
+5351|Ulaweng|351
+5352|Palakka|351
+5353|Amali|351
+5354|Ajangale|351
+5355|Cenrana|351
+5356|Cenrana|352
+5357|Dua Boccoe|351
+5358|Tellu Siattinge|351
+5359|Tanete Riattang Barat|351
+5360|Tanete Riattang|351
+5361|Tanete Riattang Timur|351
+5362|Sinjai Timur|353
+5363|Sinjai Borong|353
+5364|Ujung Loe|354
+5365|Sinjai Selatan|353
+5366|Bulupoddo|353
+5367|Sinjai Barat|353
+5368|Sinjai Tengah|353
+5369|Pulau Sembilan|353
+5370|Sinjai Utara|353
+5371|Kajang|354
+5372|Hero Lange-Lange (Herlang)|354
+5373|Bontotiro|354
+5374|Rumbia|355
+5375|Bonto Bahari|354
+5376|Gantorang/Gantarang (Gangking)|354
+5377|Rilau Ale|354
+5378|Bulukumba (Bulukumpa)|354
+5379|Ujung Bulu|354
+5380|Kindang|354
+5381|Gantarang Keke (Gantareng Keke)|356
+5382|Pajukukang|356
+5383|Tompobulu|356
+5384|Uluere|356
+5385|Sinoa|356
+5386|Bissappu|356
+5387|Eremerasa|356
+5388|Bantaeng|356
+5389|Kelara|355
+5390|Batang|355
+5391|Tarowang|355
+5392|Arungkeke|355
+5393|Bangkala|355
+5394|Bangkala Barat|355
+5395|Tamalatea|355
+5396|Bontoramba|355
+5397|Binamu|355
+5398|Turatea|355
+5399|Mangara Bombang|357
+5400|Galesong Utara|357
+5401|Galesong|357
+5402|Galesong Selatan|357
+5403|Polombangkeng Selatan (Polobangkeng)|357
+5404|Mappakasunggu|357
+5405|Sanrobone|357
+5406|Polombangkeng Utara (Polobangkeng)|357
+5407|Pattallassang|358
+5408|Patallassang|357
+5409|Bontolempangang|358
+5410|Bungaya|358
+5411|Tompobulu|358
+5412|Parigi|358
+5413|Tinggimoncong|358
+5414|Manuju|358
+5415|Parangloe|358
+5416|Tombolo Pao|358
+5417|Bontomarannu|358
+5418|Pallangga|358
+5419|Bontonompo Selatan|358
+5420|Bontonompo|358
+5421|Bajeng|358
+5422|Bajeng Barat|358
+5423|Sopai|359
+5424|Somba Opu (Upu)|358
+5425|Ponrang|360
+5426|Ponrang Selatan|360
+5427|Larompong Selatan|360
+5428|Larompong|360
+5429|Suli Barat|360
+5430|Suli|360
+5431|Bajo Barat|360
+5432|Bajo|360
+5433|Belopa|360
+5434|Kamanre|360
+5435|Belopa Utara|360
+5436|Bua Ponrang (Bupon)|360
+5437|Basse Sangtempe Utara|360
+5438|Bassesang Tempe (Bastem)|360
+5439|Bua|360
+5440|Bone-Bone|349
+5441|Tana Lili|349
+5442|Wara Selatan|361
+5443|Sendana|361
+5444|Telluwanua|361
+5445|Wara Barat|361
+5446|Lamasi|360
+5447|Walenrang Utara|360
+5448|Lamasi Timur|360
+5449|Walenrang Barat|360
+5450|Walenrang|360
+5451|Walenrang Timur|360
+5452|Wara|361
+5453|Mungkajang|361
+5454|Latimojong|360
+5455|Wara Timur|361
+5456|Bara|361
+5457|Wara Utara|361
+5458|Sangalla Utara|362
+5459|Sangalla (Sanggala)|362
+5460|Sangalla Selatan|362
+5461|Mappak|362
+5462|Simbuang|362
+5463|Bonggakaradeng|362
+5464|Rano|362
+5465|Mengkendek|362
+5466|Gandang Batu Sillanan|362
+5467|Rantetayo|362
+5468|Kurra|362
+5469|Dende Piongan Napo|359
+5470|Rembon|362
+5471|Saluputti|362
+5472|Malimbong Balepe|362
+5473|Bittuang|362
+5474|Tondon|359
+5475|Balusu|359
+5476|Nanggala|359
+5477|Kapalla Pitu (Kapala Pitu)|359
+5478|Buntu Pepasan|359
+5479|Masanda|362
+5480|Rindingallo|359
+5481|Awan Rante Karua|359
+5482|Baruppu|359
+5483|Bangkelekila|359
+5484|Buntao|359
+5485|Sesean Suloara|359
+5486|Sadan|359
+5487|Rantebua|359
+5488|Sesean|359
+5489|Sanggalangi|359
+5490|Kesu|359
+5491|Rantepao|359
+5492|Tikala|359
+5493|Tallunglipu|359
+5494|Makale|362
+5495|Makale Utara|362
+5496|Makale Selatan|362
+5497|Maiwa|363
+5498|Bungin|363
+5499|Masalle|363
+5500|Alla|363
+5501|Baroko|363
+5502|Curio|363
+5503|Baraka|363
+5504|Buntu Batu|363
+5505|Anggeraja|363
+5506|Malua|363
+5507|Enrekang|363
+5508|Cendana|363
+5509|Pitu Raise/Riase|364
+5510|Pitu Riawa|364
+5511|Wattang Sidenreng (Watang Sidenreng)|364
+5512|Dua Pitue|364
+5513|Panca Lautan (Lautang)|364
+5514|Tellu Limpoe|351
+5515|Tellu Limpoe|353
+5516|Tellu Limpoe|364
+5517|Watang Pulu|364
+5518|Baranti|364
+5519|Kulo|364
+5520|Panca Rijang|364
+5521|Maritengngae|364
+5522|Suppa|365
+5523|Lanrisang|365
+5524|Mattiro Bulu|365
+5525|Cempa|365
+5526|Mattiro Sompe|365
+5527|Tiroang|365
+5528|Lembang|365
+5529|Duampanua|365
+5530|Batulappa|365
+5531|Patampanua|365
+5532|Watang Sawitto|365
+5533|Paleteang|365
+5534|Soreang|366
+5535|Bacukiki Barat|366
+5536|Bacukiki|366
+5537|Ujung|366
+5538|Keera|367
+5539|Pitumpanua|367
+5540|Majauleng|367
+5541|Bola|367
+5542|Penrang|367
+5543|Sajoanging|367
+5544|Takkalalla|367
+5545|Pammana|367
+5546|Sabbang Paru|367
+5547|Gilireng|367
+5548|Belawa|367
+5549|Maniang Pajo|367
+5550|Tana Sitolo|367
+5551|Tempe|367
+5552|Lili Rilau|368
+5553|Mario Riwawo|368
+5554|Liliraja (Lili Riaja)|368
+5555|Citta|368
+5556|Ganra|368
+5557|Donri-Donri|368
+5558|Mario Riawa|368
+5559|Lalabata|368
+5560|Balusu|369
+5561|Tanete Riaja|369
+5562|Pujananting|369
+5563|Tanete Rilau|369
+5564|Mallusetasi|369
+5565|Soppeng Riaja|369
+5566|Barru|369
+5567|Liukang Tangaya|370
+5568|Liukang Kalmas (Kalukuang Masalima)|370
+5569|Liukang Tupabbiring Utara|370
+5570|Liukang Tupabbiring|370
+5571|Balocci|370
+5572|Mandalle|370
+5573|Segeri|370
+5574|Marang (Ma Rang)|370
+5575|Labakkang|370
+5576|Bungoro|370
+5577|Minasa Tene|370
+5578|Pangkajene|370
+5579|Mallawa|352
+5580|Camba|352
+5581|Moncongloe|352
+5582|Tondong Tallasa|370
+5583|Bantimurung|352
+5584|Simbang|352
+5585|Tompu Bulu|352
+5586|Bontoa (Maros Utara)|352
+5587|Tanralili|352
+5588|Mandai|352
+5589|Marusu|352
+5590|Turikale|352
+5591|Maros Baru|352
+5592|Lau|352
+5593|Tamalanrea|371
+5594|Biringbulu|358
+5595|Biring Kanaya|371
+5596|Manggala|371
+5597|Panakkukang|371
+5598|Tamalate|371
+5599|Barombong|358
+5600|Rappocini|371
+5601|Tallo|371
+5602|Wajo|371
+5603|Ujung Tanah|371
+5604|Bontoala|371
+5605|Makassar|371
+5606|Mamajang|371
+5607|Mariso|371
+5608|Ujung Pandang|371
+5609|Bungku Barat|372
+5610|Wita Ponda|372
+5611|Bumi Raya|372
+5612|Menui Kepulauan|372
+5613|Bungku Pesisir|372
+5614|Bungku Selatan|372
+5615|Bahodopi|372
+5616|Bungku Timur|372
+5617|Bungku Tengah|372
+5618|Bungku Utara|372
+5619|Mamosalato|372
+5620|Petasia Timur|372
+5621|Petasia Barat|372
+5622|Soyo Jaya|372
+5623|Petasia|372
+5624|Lembo|372
+5625|Lembo Raya|372
+5626|Mori Utara|372
+5627|Mori Atas|372
+5628|Bokan Kepulauan|373
+5629|Bangkurung|373
+5630|Labobo (Lobangkurung)|373
+5631|Banggai Selatan|373
+5632|Banggai Utara|373
+5633|Banggai Tengah|373
+5634|Banggai|373
+5635|Tinangkung|373
+5636|Tinangkung Selatan|373
+5637|Tinangkung Utara|373
+5638|Totikum (Totikung)|373
+5639|Totikum Selatan|373
+5640|Peling Tengah|373
+5641|Liang|373
+5642|Bulagi Selatan|373
+5643|Bulagi|373
+5644|Bulagi Utara|373
+5645|Buko|373
+5646|Buko Selatan|373
+5647|Balantak Selatan|374
+5648|Balantak Utara|374
+5649|Balantak|374
+5650|Masama|374
+5651|Lamala|374
+5652|Mantoh|374
+5653|Toili|374
+5654|Toili Barat|374
+5655|Moilong|374
+5656|Batui|374
+5657|Batui Selatan|374
+5658|Kintom|374
+5659|Nambo|374
+5660|Bunta|374
+5661|Nuhon|374
+5662|Simpang Raya|374
+5663|Pagimana|374
+5664|Lobu|374
+5665|Bualemo (Boalemo)|374
+5666|Luwuk Selatan|374
+5667|Luwuk|374
+5668|Luwuk Utara|374
+5669|Luwuk Timur|374
+5670|Walea Kepulauan|375
+5671|Walea Besar|375
+5672|Una - Una|375
+5673|Ampana Tete|375
+5674|Togean|375
+5675|Ampana Kota|375
+5676|Ulu Bongka|375
+5677|Tojo Barat|375
+5678|Tojo|375
+5679|Pamona Tenggara|376
+5680|Pamona Selatan|376
+5681|Pamona Timur|376
+5682|Pamona Barat|376
+5683|Pamona Utara|376
+5684|Pamona Puselemba|376
+5685|Lage|376
+5686|Lore Barat|376
+5687|Lore Selatan|376
+5688|Lore Tengah|376
+5689|Lore Utara|376
+5690|Lore Timur|376
+5691|Lore Piore|376
+5692|Poso Pesisir Utara|376
+5693|Poso Pesisir|376
+5694|Poso Pesisir Selatan|376
+5695|Poso Kota Selatan|376
+5696|Poso Kota|376
+5697|Poso Kota Utara|376
+5698|Paleleh|377
+5699|Paleleh Barat|377
+5700|Gadung|377
+5701|Bunobogu|377
+5702|Bokat|377
+5703|Momunu|377
+5704|Tiloan|377
+5705|Bukal|377
+5706|Lakea (Lipunoto)|377
+5707|Karamat|377
+5708|Biau|377
+5709|Tolitoli Utara|378
+5710|Dako Pamean|378
+5711|Galang|378
+5712|Dampal Selatan|378
+5713|Dampal Utara|378
+5714|Dondo|378
+5715|Basidondo|378
+5716|Lampasio|378
+5717|Baolan|378
+5718|Ogo Deide|378
+5719|Bolano|379
+5720|Bolano Lambunu/Lambulu|379
+5721|Taopa|379
+5722|Moutong|379
+5723|Ongka Malino|379
+5724|Mepanga|379
+5725|Palasa|379
+5726|Tomini|379
+5727|Tinombo|379
+5728|Tinombo Selatan|379
+5729|Siniu|379
+5730|Toribulu|379
+5731|Ampibabo|379
+5732|Kasimbar|379
+5733|Balinggi|379
+5734|Torue|379
+5735|Sausu|379
+5736|Parigi Utara|379
+5737|Parigi Selatan|379
+5738|Parigi|379
+5739|Parigi Tengah|379
+5740|Parigi Barat|379
+5741|Sigi Biromaru|380
+5742|Gumbasa|380
+5743|Palolo|380
+5744|Nokilalaki|380
+5745|Tanambulava|380
+5746|Kulawi Selatan|380
+5747|Kulawi|380
+5748|Lindu|380
+5749|Marawola Barat|380
+5750|Kinovaru|380
+5751|Rio Pakava (Riopakawa)|381
+5752|Marawola|380
+5753|Pinembani|381
+5754|Dolo Selatan|380
+5755|Dolo|380
+5756|Dolo Barat|380
+5757|Sojol|381
+5758|Damsol (Dampelas Sojol)|381
+5759|Sojol Utara|381
+5760|Balaesang Tanjung|381
+5761|Balaesang|381
+5762|Sirenja|381
+5763|Sindue|381
+5764|Sindue Tombusabora|381
+5765|Sindue Tobata|381
+5766|Tanantovea|381
+5767|Labuan|381
+5768|Banawa Tengah|381
+5769|Banawa Selatan|381
+5770|Banawa|381
+5771|Tatanga|382
+5772|Palu Selatan|382
+5773|Palu Timur|382
+5774|Mantikulore|382
+5775|Ulujadi|382
+5776|Palu Barat|382
+5777|Palu Utara|382
+5778|Tawaeli|382
+5779|Pipikoro|380
+5780|Watunohu|383
+5781|Ngapa|383
+5782|Tiwu|383
+5783|Kodeoha|383
+5784|Wawo|383
+5785|Lombai (Lambai)|383
+5786|Ranteangin|383
+5787|Porehu|383
+5788|Tolala|383
+5789|Batu Putih|383
+5790|Pakue Tengah|383
+5791|Pakue|383
+5792|Pakue Utara|383
+5793|Lasusua|383
+5794|Katoi|383
+5795|Samaturu|384
+5796|Laonti|385
+5797|Moramo|385
+5798|Moramo Utara|385
+5799|Tinanggea|385
+5800|Lalembuu / Lalumbuu|385
+5801|Andoolo|385
+5802|Baito|385
+5803|Palangga|385
+5804|Palangga Selatan|385
+5805|Lainea|385
+5806|Laeya|385
+5807|Benua|385
+5808|Angata|385
+5809|Basala|385
+5810|Konda|385
+5811|Wolasi|385
+5812|Mowila|385
+5813|Landono|385
+5814|Ranomeeto Barat|385
+5815|Ranomeeto|385
+5816|Buke|385
+5817|Wangi-Wangi Selatan|386
+5818|Togo Binongko|386
+5819|Binongko|386
+5820|Tomia Timur|386
+5821|Tomia|386
+5822|Kaledupa|386
+5823|Kaledupa Selatan|386
+5824|Wangi-Wangi|386
+5825|Kabaena Timur|387
+5826|Kabaena Tengah|387
+5827|Kabaena Utara|387
+5828|Talaga Raya (Telaga Raya)|508
+5829|Kabaena|387
+5830|Kabaena Barat|387
+5831|Kabaena Selatan|387
+5832|Rarowatu Utara|387
+5833|Lentarai Jaya S. (Lantari Jaya)|387
+5834|Mata Usu|387
+5835|Rarowatu|387
+5836|Poleang Utara|387
+5837|Poleang Selatan|387
+5838|Poleang Tenggara|387
+5839|Poleang Timur|387
+5840|Tontonunu (Tontonuwu)|387
+5841|Poleang Barat|387
+5842|Poleang|387
+5843|Poleang Tengah|387
+5844|Mata Oleo|387
+5845|Rumbia Tengah|387
+5846|Bondoala|389
+5847|Kepulauan Masaloka Raya|387
+5848|Rumbia|387
+5849|Lakudo|508
+5850|Mawasangka Tengah|508
+5851|Mawasangka|508
+5852|Mawasangka Timur|508
+5853|Gu|508
+5854|Sangia Mambulu|508
+5855|Bungi|390
+5856|Lea-Lea|390
+5857|Sora Walio (Sorowalio)|390
+5858|Lasalimu|388
+5859|Siontapia (Siontapina)|388
+5860|Lasalimu Selatan|388
+5861|Kapontori|388
+5862|Wolowa|388
+5863|Wabula|388
+5864|Pasar Wajo|388
+5865|Sampolawa|507
+5866|Batu Atas|507
+5867|Lapandewa|507
+5868|Siompu Barat|507
+5869|Siompu|507
+5870|Kadatua|507
+5871|Batauga|507
+5872|Murhum|390
+5873|Betoambari|390
+5874|Batupoaro|390
+5875|Kokalukuna|390
+5876|Wolio|390
+5877|Wakorumba Selatan|391
+5878|Maligano|391
+5879|Pasi Kolaga|391
+5880|Batukara|391
+5881|Pasir Putih|391
+5882|Bonegunu|392
+5883|Kambowa|392
+5884|Kulisusu Utara|392
+5885|Kulisusu (Kalingsusu/Kalisusu)|392
+5886|Kulisusu Barat|392
+5887|Wakorumba Utara|392
+5888|Kabangka|391
+5889|Maginti|391
+5890|Tiworo Selatan|391
+5891|Parigi|391
+5892|Marobo|391
+5893|Bone (Bone Tondo)|391
+5894|Tongkuno|391
+5895|Tongkuno Selatan|391
+5896|Kabawo|391
+5897|Kontu Kowuna|391
+5898|Duruka|391
+5899|Lohia|391
+5900|Kontunaga|391
+5901|Sawerigadi (Sawerigading/Sewergadi)|391
+5902|Watopute|391
+5903|Napano Kusambi|391
+5904|Kusambi|391
+5905|Towea|391
+5906|Napabalano|391
+5907|Lasalepa|391
+5908|Tiworo Kepulauan|391
+5909|Tiworo Tengah|391
+5910|Tiworo Utara|391
+5911|Barangka|391
+5912|Lawa|391
+5913|Wa Daga|391
+5914|Katobu|391
+5915|Batalaiwaru (Batalaiworu)|391
+5916|Uluiwoi|384
+5917|Ladongi|384
+5918|Lambandia (Lambadia)|384
+5919|Poli Polia|384
+5920|Tirawuta|384
+5921|Lalolae|384
+5922|Loea|384
+5923|Mowewe|384
+5924|Tinondo|384
+5925|Polinggona|384
+5926|Watumbangga (Watubanggo)|384
+5927|Toari|384
+5928|Tanggetada|384
+5929|Pomalaa|384
+5930|Wundulako|384
+5931|Baula|384
+5932|Wolo|384
+5933|Kolaka|384
+5934|Latambaga|384
+5935|Puriala|389
+5936|Lambuya|389
+5937|Onembute|389
+5938|Uepai (Uwepai)|389
+5939|Pondidaha|389
+5940|Wonggeduku|389
+5941|Amonggedo|389
+5942|Konawe|389
+5943|Wawotobi|389
+5944|Meluhu|389
+5945|Latoma|389
+5946|Tongauna|389
+5947|Abuki|389
+5948|Asinua|389
+5949|Anggaberi|389
+5950|Unaaha|389
+5951|Kolono|385
+5952|Wawonii Tenggara|389
+5953|Wawonii Selatan|389
+5954|Wawonii Utara|389
+5955|Wawonii Barat|389
+5956|Wawonii Timur Laut|389
+5957|Wawonii Timur|389
+5958|Wawonii Tengah|389
+5959|Sampara|389
+5960|Besulutu|389
+5961|Kapoiala (Kapoyala)|389
+5962|Asera|393
+5963|Oheo|393
+5964|Wiwirano|393
+5965|Routa|389
+5966|Andowia|393
+5967|Lasolo|393
+5968|Motui|393
+5969|Sawa|393
+5970|Lembo|393
+5971|Langgikima|393
+5972|Molawe|393
+5973|Lalonggasumeeto|389
+5974|Soropia|389
+5975|Abeli|394
+5976|Poasia|394
+5977|Kambu|394
+5978|Kendari|394
+5979|Kendari Barat|394
+5980|Wua-Wua|394
+5981|Kadia|394
+5982|Baruga|394
+5983|Puuwatu|394
+5984|Mandonga|394
+5985|Ranoyapo|395
+5986|Motoling Timur|395
+5987|Touluaan|396
+5988|Silian Raya|396
+5989|Touluaan Selatan|396
+5990|Belang|396
+5991|Pusomaen|396
+5992|Ratatotok|396
+5993|Tombatu Utara|396
+5994|Tombatu|396
+5995|Tombatu Timur|396
+5996|Ratahan Timur|396
+5997|Ratahan|396
+5998|Pasan|396
+5999|Sinonsayang|395
+6000|Modoinding|395
+6001|Motoling Barat|395
+6002|Motoling|395
+6003|Kumelembuai|395
+6004|Amurang Barat|395
+6005|Amurang|395
+6006|Amurang Timur|395
+6007|Tareran|395
+6008|Suluun Tareran|395
+6009|Melonguane Timur|397
+6010|Melonguane|397
+6011|Miangas|397
+6012|Nanusa|397
+6013|Gemeh|397
+6014|Essang Selatan|397
+6015|Essang|397
+6016|Damao (Damau)|397
+6017|Kabaruan|397
+6018|Lirung|397
+6019|Salibabu|397
+6020|Kalongan|397
+6021|Moronge|397
+6022|Tampan Amma|397
+6023|Rainis|397
+6024|Pulutan|397
+6025|Biaro|398
+6026|Tagulandang Utara|398
+6027|Tagulandang|398
+6028|Beo Selatan|397
+6029|Tagulandang Selatan|398
+6030|Beo Utara|397
+6031|Beo|397
+6032|Siau Barat Utara|398
+6033|Siau Barat Selatan|398
+6034|Siau Barat|398
+6035|Siau Timur|398
+6036|Siau Timur Selatan|398
+6037|Siau Tengah|398
+6038|Tabukan Selatan Tenggara|399
+6039|Tabukan Selatan Tengah|399
+6040|Tabukan Selatan|399
+6041|Tabukan Tengah|399
+6042|Tabukan Utara|399
+6043|Nusa Tabukan|399
+6044|Kepulauan Marore|399
+6045|Tamako|399
+6046|Tatoareng|399
+6047|Manganitu Selatan|399
+6048|Manganitu|399
+6049|Kendahe|399
+6050|Tahuna Barat|399
+6051|Tahuna Timur|399
+6052|Tahuna|399
+6053|Tutuyan|400
+6054|Kotabunan|400
+6055|Modayag|400
+6056|Modayag Barat|400
+6057|Pinolosian Tengah|401
+6058|Pinolosian|401
+6059|Pinolosian Timur|401
+6060|Nuangan|400
+6061|Posigadan|401
+6062|Bolaang Uki|401
+6063|Dumoga Tengah|402
+6064|Dumoga Barat|402
+6065|Dumoga Utara|402
+6066|Dumoga Timur|402
+6067|Dumoga|402
+6068|Dumoga Tenggara|402
+6069|Lolayan|402
+6070|Pinogaluman|403
+6071|Kaidipang|403
+6072|Bolang Itang Barat|403
+6073|Bolang Itang Timur|403
+6074|Bintauna|403
+6075|Sangkub|403
+6076|Sangtombolang|402
+6077|Lolak|402
+6078|Poigar|402
+6079|Bolaang Timur|402
+6080|Bolaang|402
+6081|Passi Barat|402
+6082|Bilalang|402
+6083|Passi Timur|402
+6084|Kotamobagu Timur|404
+6085|Kotamobagu Selatan|404
+6086|Kotamobagu Barat|404
+6087|Kotamobagu Utara|404
+6088|Langowan Timur|405
+6089|Langowan Selatan|405
+6090|Langowan Barat|405
+6091|Langowan Utara|405
+6092|Tompaso Barat|405
+6093|Tompaso|405
+6094|Kawangkoan Utara|405
+6095|Kawangkoan|405
+6096|Kawangkoan Barat|405
+6097|Sonder|405
+6098|Kombi|405
+6099|Eris|405
+6100|Lembean Timur|405
+6101|Kakas|405
+6102|Kakas Barat|405
+6103|Remboken|405
+6104|Pineleng|405
+6105|Tombulu|405
+6106|Mandolang|405
+6107|Tombariri|405
+6108|Tombariri Timur|405
+6109|Tondano Selatan|405
+6110|Tondano Barat|405
+6111|Tondano Utara|405
+6112|Tondano Timur|405
+6113|Lembeh Utara|406
+6114|Lembeh Selatan (Bitung Selatan)|406
+6115|Matuari (Bitung Barat)|406
+6116|Girian|406
+6117|Madidir (Bitung Tengah)|406
+6118|Ranowulu (Bitung Utara)|406
+6119|Aertembaga (Bitung Timur)|406
+6120|Maesa|406
+6121|Tomohon Timur|407
+6122|Tomohon Tengah|407
+6123|Tomohon Selatan|407
+6124|Tomohon Barat|407
+6125|Tomohon Utara|407
+6126|Kema|408
+6127|Kalawat|408
+6128|Likupang Barat|408
+6129|Wori|408
+6130|Likupang Timur|408
+6131|Likupang Selatan|408
+6132|Talawaan|408
+6133|Dimembe|408
+6134|Kauditan|408
+6135|Airmadidi|408
+6136|Maesaan|395
+6137|Tompaso Baru|395
+6138|Tenga|395
+6139|Tatapaan|395
+6140|Tumpaan|395
+6141|Mapanget|409
+6142|Bunaken Kepulauan|409
+6143|Bunaken|409
+6144|Tuminiting|409
+6145|Singkil|409
+6146|Malalayang|409
+6147|Tikala|409
+6148|Paal Dua|409
+6149|Wenang|409
+6150|Wanea|409
+6151|Sario|409
+6152|Sangir Batang Hari|410
+6153|Sangir|410
+6154|Sangir Balai Janggo|410
+6155|Sangir Jujuan|410
+6156|Sungai Pagu|410
+6157|Pauh Duo|410
+6158|Koto Parik Gadang Diateh|410
+6159|Asam Jujuhan|411
+6160|Sungai Rumbai|411
+6161|Koto Besar|411
+6162|Tiumang|411
+6163|Koto Salak|411
+6164|Padang Laweh|411
+6165|Koto Baru|411
+6166|Sembilan Koto (IX Koto)|411
+6167|Timpeh|411
+6168|Sitiung|411
+6169|Pulau Punjung|411
+6170|Kamang Baru|412
+6171|Tanjung Gadang|412
+6172|Kupitan|412
+6173|Sumpur Kudus|412
+6174|Koto VII|412
+6175|IV Nagari|412
+6176|Sijunjung|412
+6177|Lubuak Tarok|412
+6178|Talawi|413
+6179|Silungkang|413
+6180|Barangin|413
+6181|Lembah Segar|413
+6182|IX Koto Sei Lasi|414
+6183|Junjung Sirih|414
+6184|Payung Sekaki|414
+6185|Danau Kembar|414
+6186|Lembang Jaya|414
+6187|Bukit Sundi|414
+6188|Pantai Cermin|414
+6189|Tigo Lurah|414
+6190|Hiliran Gumanti|414
+6191|Lembah Gumanti|414
+6192|Gunung Talang|414
+6193|Kubung|414
+6194|X Koto Singkarak|414
+6195|X Koto Diatas|414
+6196|Tanjung Harapan|497
+6197|Lubuk Sikarah|497
+6198|Sungayang|415
+6199|Lintau Buo Utara|415
+6200|Lintau Buo|415
+6201|Padang Ganting|415
+6202|Tanjung Emas|415
+6203|Tanjung Baru|415
+6204|Rambatan|415
+6205|Batipuh Selatan|415
+6206|Batipuh|415
+6207|Pariangan|415
+6208|Salimpaung|415
+6209|Sungai Tarab|415
+6210|Lima Kaum|415
+6211|Sepuluh Koto (X Koto)|415
+6212|Padang Panjang Timur|416
+6213|Padang Panjang Barat|416
+6214|Sei Beremas|417
+6215|Sungai Aur|417
+6216|Koto Balingka|417
+6217|Lembah Melintang|417
+6218|Gunung Tuleh|417
+6219|Luhak Nan Duo|417
+6220|Kinali|417
+6221|Pasaman|417
+6222|Talamau|417
+6223|Tanjung Mutiara|418
+6224|Tanjung Raya|418
+6225|Lubuk Basung|418
+6226|Bonjol|419
+6227|Simpang Alahan Mati|419
+6228|Sasak Ranah Pasisir/Pesisie|417
+6229|Ranah Batahan|417
+6230|Rao|419
+6231|Rao Selatan|419
+6232|Mapat Tunggul|419
+6233|Mapat Tunggul Selatan|419
+6234|Tigo Nagari (III Nagari)|419
+6235|Rao Utara|419
+6236|Panti|419
+6237|Lubuk Sikaping|419
+6238|Padang Gelugur|419
+6239|Duo Koto (II Koto)|419
+6240|Kapur IX/Sembilan|420
+6241|Pangkalan Koto Baru|420
+6242|Harau|420
+6243|Lareh Sago Halaban|420
+6244|Luak (Luhak)|420
+6245|Bukik Barisan|420
+6246|Gunuang Omeh (Gunung Mas)|420
+6247|Suliki|420
+6248|Mungka|420
+6249|Guguak (Gugu)|420
+6250|Situjuah Limo/Lima Nagari|420
+6251|Akabiluru|420
+6252|Payakumbuh|420
+6253|Payakumbuh Timur|421
+6254|Payakumbuh Barat|421
+6255|Payakumbuh Selatan|421
+6256|Lamposi Tigo Nagari|421
+6257|Payakumbuh Utara|421
+6258|Baso|418
+6259|IV Angkat Candung (Ampek Angkek)|418
+6260|Candung|418
+6261|Banuhampu|418
+6262|Sungai Pua (Puar)|418
+6263|Palembayan|418
+6264|Matur|418
+6265|IV Koto (Ampek Koto)|418
+6266|Ampek Nagari (IV Nagari )|418
+6267|Malakak|418
+6268|Tilatang Kamang|418
+6269|Kamang Magek|418
+6270|Palupuh|418
+6271|Aur Birugo Tigo Baleh|422
+6272|Mandiangin Koto Selayan|422
+6273|Guguk Panjang (Guguak Panjang)|422
+6274|Silaut|423
+6275|Lunang|423
+6276|Airpura|423
+6277|Pancung Soal|423
+6278|Ranah Ampek Hulu Tapan|423
+6279|Basa Ampek Balai Tapan|423
+6280|Linggo Sari Baganti|423
+6281|Ranah Pesisir|423
+6282|Lengayang|423
+6283|Sutera|423
+6284|Batang Kapas|423
+6285|Koto XI Tarusan|423
+6286|Bayang|423
+6287|IV Nagari Bayang Utara|423
+6288|IV Jurai|423
+6289|Batang Anai|424
+6290|Enam Lingkung|424
+6291|2 X 11 Enam Lingkung|424
+6292|2 X 11 Kayu Tanam|424
+6293|Sintuk/Sintuak Toboh Gadang|424
+6294|Lubuk Alung|424
+6295|VII Koto Sungai Sarik|424
+6296|Patamuan|424
+6297|V Koto Timur|424
+6298|Padang Sago|424
+6299|Ulakan Tapakih/Tapakis|424
+6300|Nan Sabaris|424
+6301|IV Koto Aur Malintang|424
+6302|Sungai Geringging/Garingging|424
+6303|Batang Gasan|424
+6304|Sungai Limau|424
+6305|V Koto Kampung Dalam|424
+6306|Pariaman Selatan|425
+6307|Pariaman Timur|425
+6308|Pariaman Utara|425
+6309|Pariaman Tengah|425
+6310|Siberut Utara|426
+6311|Siberut Barat|426
+6312|Siberut Tengah|426
+6313|Siberut Barat Daya|426
+6314|Siberut Selatan|426
+6315|Sipora Utara|426
+6316|Sipora Selatan|426
+6317|Sikakap|426
+6318|Pagai Utara|426
+6319|Pagai Selatan|426
+6320|Bungus Teluk Kabung|427
+6321|Lubuk Kilangan|427
+6322|Lubuk Begalung|427
+6323|Padang Selatan|427
+6324|Koto Tangah|427
+6325|Pauh|427
+6326|Kuranji|427
+6327|Nanggalo|427
+6328|Padang Utara|427
+6329|Padang Timur|427
+6330|Padang Barat|427
+6331|Bunga Mayang|428
+6332|Belitang Mulya|428
+6333|Semendawai Suku III|428
+6334|Belitang Madang Raya|428
+6335|Belitang Jaya|428
+6336|Belitang III|428
+6337|Cempaka|428
+6338|Belitang II|428
+6339|Belitang|428
+6340|Jayapura|428
+6341|Martapura|428
+6342|Buay Pemuka Beliung / Peliung|428
+6343|Madang Suku III|428
+6344|Madang Suku II|428
+6345|Madang Suku I|428
+6346|Buay Madang|428
+6347|Buay Madang Timur|428
+6348|Buay Pemuka Bangsa Raja|428
+6349|Kisam Tinggi|429
+6350|Runjung Agung|429
+6351|Buay Runjung|429
+6352|Buay Sandang Aji|429
+6353|Tiga Dihaji|429
+6354|Mekakau Ilir|429
+6355|Warkuk Ranau Selatan|429
+6356|Banding Agung|429
+6357|Buay Pematang Ribu Ranau Tengah|429
+6358|Sindang Danau|429
+6359|Sungai Are|429
+6360|Pulau Beringin|429
+6361|Muaradua Kisam|429
+6362|Kisam Ilir|429
+6363|Buay Pemaca|429
+6364|Buana Pemaca|429
+6365|Simpang|429
+6366|Muaradua|429
+6367|Buay Rawan|429
+6368|Lubuk Batang|430
+6369|Peninjauan|430
+6370|Semendawai Timur|428
+6371|Semendawai Barat|428
+6372|Sinar Peninjauan|430
+6373|Lengkiti|430
+6374|Ulu Ogan|430
+6375|Semidang Aji|430
+6376|Pengandonan|430
+6377|Muara Jaya|430
+6378|Lubuk Raja|430
+6379|Sosoh Buay Rayap|430
+6380|Baturaja Barat|430
+6381|Baturaja Timur|430
+6382|Lawang Kidul|431
+6383|Ulu Rawas|505
+6384|Purwodadi|432
+6385|Nibung|505
+6386|Muara Lakitan|432
+6387|Sukakarya|432
+6388|Jaya Loka|432
+6389|Muara Kelingi|432
+6390|Tuah Negeri|432
+6391|Tugumulyo|432
+6392|Muara Beliti|432
+6393|Tiang Pumpung Kepungut|432
+6394|Karang Dapo|505
+6395|Megang Sakti|432
+6396|Rawas Ulu|505
+6397|Rawas Ilir|505
+6398|Karang Jaya|505
+6399|Rupit|505
+6400|Batukuning Lakitan Ulu (BTS)/Cecar|432
+6401|Lubuk Linggau Timur Dua (II)|433
+6402|Lubuk Linggau Timur Satu (I)|433
+6403|Lubuk Linggau Utara Dua (II)|433
+6404|Lubuk Linggau Selatan Dua (II)|433
+6405|Lubuk Linggau Selatan Satu (I)|433
+6406|Benakat|431
+6407|Selangit|432
+6408|Lubuk Linggau Utara Satu (I)|433
+6409|Lubuk Linggau Barat Dua (II)|433
+6410|Lubuk Linggau Barat Satu (I)|433
+6411|Talang Padang|434
+6412|Pasemah Air Keruh|434
+6413|Ulu Musi|434
+6414|Sikap Dalam|434
+6415|Lintang Kanan|434
+6416|Pendopo Barat|434
+6417|Pendopo|434
+6418|Muara Pinang|434
+6419|Jarai|435
+6420|Muarapayang|435
+6421|Tanjung Sakti Pumi|435
+6422|Tanjung Sakti Pumu|435
+6423|Pagar Alam Utara|436
+6424|Pagar Alam Selatan|436
+6425|Dempo Utara|436
+6426|Dempo Selatan|436
+6427|Dempo Tengah|436
+6428|Merapi Barat|435
+6429|Merapi Selatan|435
+6430|Merapi Timur|435
+6431|Kota Agung|435
+6432|Tanjung Tebat|435
+6433|Gumay Ulu|435
+6434|Pulau Pinang|435
+6435|Pagar Gunung|435
+6436|Tebing Tinggi|434
+6437|Mulak Ulu|435
+6438|Saling|434
+6439|Kikim Barat|435
+6440|Kikim Timur|435
+6441|Kikim Selatan|435
+6442|Kikim Tengah|435
+6443|Lahat|435
+6444|Gumay Talang|435
+6445|Pseksu|435
+6446|Sungai Rotan|431
+6447|Pajar Bulan|435
+6448|Semendo Darat Tengah|431
+6449|Sukamerindu|435
+6450|Semendo Darat Laut|431
+6451|Semendo Darat Ulu|431
+6452|Tanjung Agung|431
+6453|Gunung Megang|431
+6454|Ujan Mas|431
+6455|Penukal Utara|503
+6456|Abab|503
+6457|Penukal (Penukal Abab)|503
+6458|Muara Enim|431
+6459|Tanah Abang|503
+6460|Talang Ubi|503
+6461|Rambang|431
+6462|Lubai|431
+6463|Rambang Dangku|431
+6464|Gelumbang|431
+6465|Lembak|431
+6466|Kelekar|431
+6467|Muara Belida|431
+6468|Prabumulih Barat|437
+6469|Cambai|437
+6470|Rambang Kapak Tengah|437
+6471|Prabumulih Selatan|437
+6472|Prabumulih Utara|437
+6473|Prabumulih Timur|437
+6474|Air Salek|438
+6475|Muara Padang|438
+6476|Muara Sugihan|438
+6477|Muara Telang|438
+6478|Sumber Marga Telang|438
+6479|Tanjung Lago|438
+6480|Makarti Jaya|438
+6481|Banyuasin II|438
+6482|Rantau Bayur|438
+6483|Rambutan|438
+6484|Banyuasin I|438
+6485|Air Kumbang|438
+6486|Talang Kelapa|438
+6487|Pulau Rimau|438
+6488|Tungkal Ilir|438
+6489|Suak Tapeh|438
+6490|Betung|438
+6491|Banyuasin III|438
+6492|Sembawa|438
+6493|Rambang Kuang|439
+6494|Lubuk Keliat|439
+6495|Kandis|439
+6496|Rantau Alai|439
+6497|Muara Kuang|439
+6498|Indralaya|439
+6499|Indralaya Utara|439
+6500|Indralaya Selatan|439
+6501|Sumber Harta|432
+6502|STL Ulu Terawas|432
+6503|Sanga Desa|440
+6504|Plakat Tinggi (Pelakat Tinggi)|440
+6505|Lalan (Sungai Lalan)|440
+6506|Lais|440
+6507|Sungai Keruh|440
+6508|Bayung Lencir|440
+6509|Tungkal Jaya|440
+6510|Batanghari Leko|440
+6511|Babat Supat|440
+6512|Sungai Lilin|440
+6513|Keluang|440
+6514|Lawang Wetan|440
+6515|Babat Toman|440
+6516|Sekayu|440
+6517|Mesuji Makmur|441
+6518|Sungai Menang|441
+6519|Mesuji|441
+6520|Mesuji Raya|441
+6521|Teluk Gelam|441
+6522|Pedamaran Timur|441
+6523|Pedamaran|441
+6524|Tanjung Lubuk|441
+6525|Payaraman|439
+6526|Tanjung Batu|439
+6527|Tulung Selapan|441
+6528|Tanjung Raja|439
+6529|Sungai Pinang|439
+6530|Rantau Panjang|439
+6531|Pangkalan Lampam|441
+6532|Cengal|441
+6533|Lempuing|441
+6534|Lempuing Jaya|441
+6535|Air Sugihan|441
+6536|Pampangan|441
+6537|Pemulutan Barat|439
+6538|Pemulutan Selatan|439
+6539|Pemulutan|439
+6540|Jejawi|441
+6541|Sirah Pulau Padang|441
+6542|Kayu Agung|441
+6543|Plaju|442
+6544|Seberang Ulu II|442
+6545|Kertapati|442
+6546|Seberang Ulu I|442
+6547|Sematang Borang|442
+6548|Sako|442
+6549|Sukarami|442
+6550|Alang-Alang Lebar|442
+6551|Gandus|442
+6552|Ilir Barat II|442
+6553|Ilir Barat I|442
+6554|Bukit Kecil|442
+6555|Kemuning|442
+6556|Ilir Timur I|442
+6557|Kalidoni|442
+6558|Ilir Timur II|442
+6559|Muara Sipongi|443
+6560|Ulu Pungkut|443
+6561|Pakantan|443
+6562|Kotanopan|443
+6563|Tambangan|443
+6564|Puncak Sorik Marapi/Merapi|443
+6565|Lembah Sorik Merapi|443
+6566|Muara Batang Gadis|443
+6567|Sinunukan|443
+6568|Batahan|443
+6569|Natal|443
+6570|Batang Natal|443
+6571|Langga Bayu (Lingga Bayu)|443
+6572|Ranto Baek/Baik|443
+6573|Panyabungan Utara|443
+6574|Huta Bargot|443
+6575|Naga Juang|443
+6576|Bukit Malintang|443
+6577|Siabu|443
+6578|Panyabungan Selatan|443
+6579|Panyabungan Kota|443
+6580|Panyabungan Timur|443
+6581|Panyabungan Barat|443
+6582|Pulau-Pulau Batu Utara|444
+6583|Hibala|444
+6584|Pulau-Pulau Batu|444
+6585|Simuk|444
+6586|Pulau-Pulau Batu Barat|444
+6587|Tanah Masa|444
+6588|Pulau-Pulau Batu Timur|444
+6589|Bawolato|445
+6590|Lolofitu Moi|446
+6591|Siduaori|444
+6592|Lahusa|444
+6593|Somambawa|444
+6594|Umbunasi|444
+6595|Gomo|444
+6596|Mazo|444
+6597|Boronadu|444
+6598|Susua|444
+6599|Idano Gawo|445
+6600|Gido|445
+6601|Sogae Adu (Sogaeadu)|445
+6602|Gunungsitoli Idanoi|447
+6603|Somolo-Molo (Samolo)|445
+6604|Huruna|444
+6605|Lolomatua|444
+6606|Ulunoyo|444
+6607|Mandrehe|446
+6608|Amandraya|444
+6609|Ulususua|444
+6610|Aramo|444
+6611|Maniamolo|444
+6612|Fanayama|444
+6613|Teluk Dalam|444
+6614|Mazino|444
+6615|Toma|444
+6616|Hilimegai|444
+6617|Hilisalawaahe|444
+6618|Onohazumba|444
+6619|Lahomi (Gahori)|446
+6620|Oou|444
+6621|Lolowau|444
+6622|Sirombu|446
+6623|Moroo|446
+6624|Ulu Moroo (Ulu Narwo)|446
+6625|Tugala Oyo|448
+6626|Alasa|448
+6627|Ulugawo|445
+6628|Afulu|448
+6629|Hiliduho|445
+6630|Lahewa|448
+6631|Sitolu Ori|448
+6632|Mau|445
+6633|Sawo|448
+6634|Tuhemberua|448
+6635|Lahewa Timur|448
+6636|Gunungsitoli Selatan|447
+6637|Gunungsitoli Utara|447
+6638|Gunungsitoli Alooa|447
+6639|Hili Serangkai (Hilisaranggu)|445
+6640|Lotu|448
+6641|Namohalu Esiwa|448
+6642|Botomuzoi|445
+6643|Mandrehe Utara|446
+6644|Gunungsitoli|447
+6645|Alasa Talumuzoi|448
+6646|Mandrehe Barat|446
+6647|Gunungsitoli Barat|447
+6648|Huta Raja Tinggi|449
+6649|Sayur Matinggi|450
+6650|Tano Tombangan Angkola|450
+6651|Batang Angkola|450
+6652|Sosa|449
+6653|Barumun|449
+6654|Ulu Barumun|449
+6655|Barumun Selatan|449
+6656|Lubuk Barumun|449
+6657|Sosopan|449
+6658|Batang Onang|451
+6659|Saipar Dolok Hole|450
+6660|Aek Bilah|450
+6661|Dolok Sigompulon|451
+6662|Dolok|451
+6663|Barumun Tengah|449
+6664|Sihapas Barumun|449
+6665|Aek Nabara Barumun|449
+6666|Padang Bolak Julu|451
+6667|Halongonan|451
+6668|Padang Sidempuan Hutaimbaru|452
+6669|Padang Bolak|451
+6670|Simangambat|451
+6671|Arse|450
+6672|Huristak|449
+6673|Batang Lubu Sutam|449
+6674|Sipirok|450
+6675|Portibi|451
+6676|Batang Toru|450
+6677|Muara Batang Toru|450
+6678|Marancar|450
+6679|Angkola Sangkunur|450
+6680|Angkola Barat (Padang Sidempuan)|450
+6681|Padang Sidempuan Batunadua|452
+6682|Angkola Timur (Padang Sidempuan)|450
+6683|Padang Sidempuan Tenggara|452
+6684|Hulu Sihapas|451
+6685|Padang Sidempuan Angkola Julu|452
+6686|Angkola Selatan (Siais)|450
+6687|Padang Sidempuan Selatan|452
+6688|Padang Sidempuan Utara (Padangsidimpuan)|452
+6689|Pinangsori|453
+6690|Suka Bangun|453
+6691|Badiri|453
+6692|Sibabangun|453
+6693|Lumut|453
+6694|Andam Dewi|453
+6695|Tapian Nauli|453
+6696|Tukka|453
+6697|Sarudik|453
+6698|Pandan|453
+6699|Sitahuis|453
+6700|Manduamas|453
+6701|Sirandorung|453
+6702|Sosor Gadong|453
+6703|Barus|453
+6704|Barus Utara|453
+6705|Sorkam|453
+6706|Pasaribu Tobing|453
+6707|Sorkam Barat|453
+6708|Kolang|453
+6709|Sibolga Selatan|454
+6710|Sibolga Sambas|454
+6711|Sibolga Kota|454
+6712|Sibolga Utara|454
+6713|Muara|455
+6714|Lintong Nihuta|456
+6715|Paranginan|456
+6716|Siborong-Borong|455
+6717|Garoga|455
+6718|Pangaribuan|455
+6719|Sipahutar|455
+6720|Simangumban|455
+6721|Pahae Jae|455
+6722|Purbatua|455
+6723|Pahae Julu|455
+6724|Adian Koting|455
+6725|Pagaran|455
+6726|Bakti Raja|456
+6727|Dolok Sanggul|456
+6728|Sijama Polang|456
+6729|Pollung|456
+6730|Tara Bintang|456
+6731|Parlilitan|456
+6732|Pakkat|456
+6733|Onan Ganjang|456
+6734|Parmonangan|455
+6735|Sipoholon|455
+6736|Tarutung|455
+6737|Siatas Barita|455
+6738|Sianjur Mula-Mula|457
+6739|Pangururan|457
+6740|Simanindo|457
+6741|Sitio-Tio|457
+6742|Nainggolan|457
+6743|Onan Runggu|457
+6744|Palipi|457
+6745|Ronggur Nihuta|457
+6746|Harian|457
+6747|Lumban Julu|458
+6748|Ajibata|458
+6749|Bonatua Lunasi|458
+6750|Uluan|458
+6751|Parmaksian|458
+6752|Porsea|458
+6753|Siantar Narumonda|458
+6754|Pintu Pohan Meranti|458
+6755|Habinsaran|458
+6756|Nassau|458
+6757|Bor-Bor|458
+6758|Silaen|458
+6759|Laguboti|458
+6760|Sigumpar|458
+6761|Balige|458
+6762|Tampahan|458
+6763|Pegagan Hilir|459
+6764|Parbuluan|459
+6765|Sumbul|459
+6766|Lae Parira|459
+6767|Silahi Sabungan|459
+6768|Sitellu Tali Urang Julu|460
+6769|Siempat Rube|460
+6770|Tinada|460
+6771|Sitellu Tali Urang Jehe|460
+6772|Salak|460
+6773|Kerajaan|460
+6774|Pergetteng Getteng Sengkut|460
+6775|Pagindar|460
+6776|Siempat Nempu Hilir|459
+6777|Silima Pungga-Pungga|459
+6778|Siempat Nempu|459
+6779|Siempat Nempu Hulu|459
+6780|Tanah Pinem|459
+6781|Tiga Lingga|459
+6782|Gunung Sitember|459
+6783|Berampu (Brampu)|459
+6784|Sitinjo|459
+6785|Sidikalang|459
+6786|Merek|461
+6787|Barus Jahe|461
+6788|Dolat Rayat|461
+6789|Tiga Panah|461
+6790|Mardinding|461
+6791|Laubaleng|461
+6792|Juhar|461
+6793|Tiga Binanga|461
+6794|Munte|461
+6795|Kuta Buluh|461
+6796|Payung|461
+6797|Tiganderket|461
+6798|Simpang Empat|461
+6799|Merdeka|461
+6800|Nama Teran|461
+6801|Brastagi (Berastagi)|461
+6802|Kabanjahe|461
+6803|Kuala Ledong (Kualuh Leidong)|462
+6804|Kualuh Hilir|462
+6805|Panai Hilir|463
+6806|Panai Tengah|463
+6807|Panai Hulu|463
+6808|Bilah Hilir|463
+6809|Sei/Sungai Kanan|464
+6810|Torgamba|464
+6811|Kota Pinang|464
+6812|Kampung Rakyat|464
+6813|Pangkatan|463
+6814|Silangkitang|464
+6815|Kualuh Selatan|462
+6816|Kualuh Hulu|462
+6817|Aek Natas|462
+6818|Aek Kuo|462
+6819|Na IX-X|462
+6820|Marbau|462
+6821|Bilah Hulu|463
+6822|Rantau Selatan|463
+6823|Rantau Utara|463
+6824|Bilah Barat|463
+6825|Sei Kepayang Timur|465
+6826|Sei Kepayang Barat|465
+6827|Sei Kepayang|465
+6828|Datuk Bandar|466
+6829|Datuk Bandar Timur|466
+6830|Tanjung Balai|465
+6831|Sei Tualang Raso|466
+6832|Teluk Nibung|466
+6833|Tanjung Balai Utara|466
+6834|Tanjung Balai Selatan|466
+6835|Aek Songsongan|465
+6836|Rahuning|465
+6837|Bandar Pulau|465
+6838|Pulau Rakyat|465
+6839|Aek Kuasan|465
+6840|Aek Ledong|465
+6841|Sei Dadap|465
+6842|Air Batu|465
+6843|Teluk Dalam|465
+6844|Simpang Empat|465
+6845|Pulo Bandring|465
+6846|Meranti|465
+6847|Rawang Panca Arga|465
+6848|Silau Laut|465
+6849|Air Joman|465
+6850|Bandar Pasir Mandoge|465
+6851|Tinggi Raja|465
+6852|Setia Janji|465
+6853|Buntu Pane|465
+6854|Medang Deras|467
+6855|Sei Suka|467
+6856|Air Putih|467
+6857|Limapuluh|467
+6858|Talawi|467
+6859|Tanjung Tiram|467
+6860|Sei Balai|467
+6861|Kisaran Timur Kota|465
+6862|Kisaran Barat Kota|465
+6863|Ujung Padang|468
+6864|Pematang Bandar|468
+6865|Pematang Sidamanik|468
+6866|Bandar|468
+6867|Bandar Huluan|468
+6868|Bandar Masilam|468
+6869|Bosar Maligas|468
+6870|Huta Bayu Raja|468
+6871|Tanah Jawa|468
+6872|Gunung Maligas|468
+6873|Hatonduhan|468
+6874|Girsang Sipangan Bolon|468
+6875|Gunung Malela|468
+6876|Haranggaol Horison|468
+6877|Dolok Panribuan|468
+6878|Jorlang Hataran|468
+6879|Sidamanik|468
+6880|Dolok Silau|468
+6881|Pematang Silima Huta|468
+6882|Silimakuta|468
+6883|Purba|468
+6884|Panombeian Panei|468
+6885|Dolok Pardamean|468
+6886|Raya|468
+6887|Panei|468
+6888|Silou Kahean|468
+6889|Raya Kahean|468
+6890|Dolok Batu Nanggar|468
+6891|Tapian Dolok|468
+6892|Jawa Maraja Bah Jambi|468
+6893|Siantar|468
+6894|Siantar Utara|469
+6895|Siantar Timur|469
+6896|Siantar Sitalasari|469
+6897|Siantar Martoba|469
+6898|Siantar Marimbun|469
+6899|Siantar Marihat|469
+6900|Siantar Selatan|469
+6901|Siantar Barat|469
+6902|Tebing Syahbandar|470
+6903|Tebing Tinggi|470
+6904|Teluk Mengkudu|470
+6905|Tanjung Beringin|470
+6906|Sei Bamban|470
+6907|Sei Rampah|470
+6908|Bandar Khalifah|470
+6909|Dolok Merawan|470
+6910|Sipispis|470
+6911|Dolok Masihul|470
+6912|Serba Jadi|470
+6913|Pantai Cermin|470
+6914|Perbaungan|470
+6915|Pegajahan|470
+6916|Bintang Bayu|470
+6917|Silinda|470
+6918|Kotarih|470
+6919|Brandan Barat|471
+6920|Besitang|471
+6921|Pematang Jaya|471
+6922|Pangkalan Susu|471
+6923|Babalan|471
+6924|Gebang|471
+6925|Secanggang|471
+6926|Hinai|471
+6927|Tanjungpura|471
+6928|Padang Tualang|471
+6929|Batang Serangan|471
+6930|Wampu|471
+6931|Stabat|471
+6932|Sawit Seberang|471
+6933|Bahorok|471
+6934|Sirapit (Serapit)|471
+6935|Salapian|471
+6936|Sei Lepan|471
+6937|Kutambaru|471
+6938|Kuala|471
+6939|Sei Binge (Bingai)|471
+6940|Selesai|471
+6941|Binjai|471
+6942|Binjai Utara|472
+6943|Binjai Timur|472
+6944|Binjai Selatan|472
+6945|Binjai Barat|472
+6946|Binjai Kota|472
+6947|Padang Hilir|473
+6948|Tebing Tinggi Kota|473
+6949|Padang Hulu|473
+6950|Bajenis|473
+6951|Rambutan|473
+6952|Galang|474
+6953|Gunung Meriah|474
+6954|Sinembah Tanjung Muda Hulu|474
+6955|Bangun Purba|474
+6956|Pantai Labu|474
+6957|Beringin|474
+6958|Pagar Merbau|474
+6959|Medan Labuhan|475
+6960|Lubuk Pakam|474
+6961|Medan Belawan Kota|475
+6962|Hamparan Perak|474
+6963|Labuhan Deli|474
+6964|Batang Kuis|474
+6965|Percut Sei Tuan|474
+6966|Sinembah Tanjung Muda Hilir|474
+6967|Tanjung Morawa|474
+6968|Patumbak|474
+6969|Biru-Biru|474
+6970|Sibolangit|474
+6971|Namo Rambe|474
+6972|Deli Tua|474
+6973|Kutalimbaru|474
+6974|Pancur Batu|474
+6975|Sunggal|474
+6976|Medan Marelan|475
+6977|Medan Deli|475
+6978|Medan Timur|475
+6979|Medan Perjuangan|475
+6980|Medan Amplas|475
+6981|Medan Denai|475
+6982|Medan Tembung|475
+6983|Medan Kota|475
+6984|Medan Area|475
+6985|Medan Maimun|475
+6986|Medan Polonia|475
+6987|Medan Baru|475
+6988|Medan Johor|475
+6989|Medan Tuntungan|475
+6990|Medan Selayang|475
+6991|Medan Sunggal|475
+6992|Medan Helvetia|475
+6993|Medan Petisah|475
+6994|Medan Barat|475
+7003|Maladum Mes|296
+7004|Muruk Rian|194
+7008|Embau|152
+7016|Tabona|506
+7017|Belimbing|431
+7018|Suro Baru|239
+7019|Padang Bano|24
+7020|Belida Darat|431
+7021|Bagansiapiapi|334
+7022|Bathin Solapan|336
+7024|Panyabungan|443
+7025|Alam Barajo|59
+7027|Bangkinang Kota|340

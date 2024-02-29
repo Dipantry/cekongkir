@@ -42,7 +42,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Dipantry\\CekOngkir\\CekOngkirServiceProvider"
+        "Dipantry\\CekOngkir\\ServiceProvider"
       ],
       "aliases": {
         "CekOngkir": "Dipantry\\CekOngkir\\Facade"

@@ -1,92 +1,12 @@
-available_for_cash_on_delivery,courier_name,courier_code,courier_service_name,courier_service_code,tier,description,service_type,shipping_type,shipment_duration_range,shipment_duration_unit
-false,Gojek,gojek,Instant,instant,premium,On Demand Instant (bike),same_day,parcel,1 - 3,hours
-false,Gojek,gojek,Same Day,same_day,premium,On Demand within 8 hours (bike),same_day,parcel,6 - 8,hours
-false,Grab,grab,Instant,instant,premium,On Demand Instant (bike),same_day,parcel,1 - 3,hours
-false,Grab,grab,Same Day,same_day,premium,On Demand within 8 hours (bike),same_day,parcel,6 - 8,hours
-false,Grab,grab,Instant Car,instant_car,premium,Grab Car Express,same_day,parcel,1 - 3,hours
-true,Deliveree,deliveree,Tronton Wing Box,tronton_wing_box,premium,Tronton Wing Box,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,Tronton Box,tronton_box,premium,Tronton Box,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,Fuso Heavy,fuso_heavy,premium,Fuso Heavy,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,Fuso Lite,fuso_light,premium,Fuso Lite,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,CDD Box,cdd_box,premium,CDD Box,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,CDD Pickup,cdd_pickup,premium,CDD Pickup,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,CDE - Frozen,cde_frozen,premium,CDE - Frozen,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,CDE - Flammable,cde_flammable,premium,CDE - Flammable,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,CDE - Chemical,cde_chemical,premium,CDE - Chemical,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,Engkel Box,engkel_box,premium,Engkel Box,same_day,freight,6 - 8,hours
-true,Deliveree,deliveree,Engkel Pickup,engkel_pickup,premium,Engkel Pickup,same_day,freight,2 - 4,hours
-true,Deliveree,deliveree,Small Box,small_box,premium,Small Box,same_day,freight,2 - 4,hours
-true,Deliveree,deliveree,Pickup,pickup,standard,Pickup,same_day,parcel,2 - 4,hours
-true,Deliveree,deliveree,Van,van,standard,Van,same_day,parcel,2 - 4,hours
-true,Deliveree,deliveree,Economy,economy,standard,Economy,same_day,parcel,2 - 4,hours
-false,JNE,jne,Reguler,reg,free,Regular service,standard,parcel,2 - 3,days
-false,JNE,jne,YES,yes,essentials,"Express, next day",overnight,parcel,1,days
-false,JNE,jne,OKE,oke,free,Economy servive,standard,parcel,3 - 4,days
-false,JNE,jne,JTR,jtr,premium,Trucking with minimum weight of 10 kg,standard,freight,3 - 4,days
-false,JNE,jne,JTR 150 250,jtr_150_250,premium,Trucking for motorbike with 150cc to 250cc,standard,freight,3 - 4,days
-false,JNE,jne,JTR 150,jtr_150,premium,Trucking for motorbike below 150cc,standard,freight,3 - 4,days
-false,JNE,jne,JTR 250,jtr_250,premium,Trucking for motorbike above 250cc,standard,freight,3 - 4,days
-true,TIKI,tiki,EKO,eko,free,Economic service,standard,parcel,3 - 4,days
-true,TIKI,tiki,SDS,sds,premium,same day service,same_day,parcel,1,days
-true,TIKI,tiki,REG,reg,free,Layanan reguler,standard,parcel,2 - 3,days
-true,TIKI,tiki,ONS,ons,essentials,One night service,overnight,parcel,1,days
-true,TIKI,tiki,T15,t15,premium,Motor di bawah 150CC,standard,freight,3 - 4,days
-true,TIKI,tiki,T25,t25,premium,Motor di bawah 250CC,standard,freight,3 - 4,days
-true,TIKI,tiki,T60,t60,premium,Motor di bawah 600CC,standard,freight,3 - 4,days
-true,TIKI,tiki,Trucking,trc,premium,TIKI Trucking,standard,freight,3 - 4,days
-false,Ninja,ninja,Standard,standard,free,Layanan standard,standard,parcel,2 - 3,days
-false,Lion,lion,Reg Pack,reg_pack,free,Layanan standard,standard,parcel,2 - 3,days
-false,Lion,lion,Land Pack,land_pack,free,Pengiriman menggunakan kereta api,standard,parcel,3 - 4,days
-false,Lion,lion,One Pack,one_pack,essentials,Layanan besok sampai,overnight,parcel,1,days
-false,Lion,lion,Jago Pack,jago_pack,free,Pengiriman standard,standard,parcel,1,days
-false,Lion,lion,Docu Pack,docu_pack,free,Pengiriman dokumen,standard,parcel,1,days
-false,Lion,lion,Big Pack,big_pack,premium,Layanan trucking Lion Parcel,standard,freight,3 - 4,days
-true,Rara Delivery,rara,Instant,instant,premium,Instant delivery service,same_day,parcel,1 - 3,hours
-false,SiCepat,sicepat,Reguler,reg,free,Layanan reguler,standard,parcel,2 - 3,days
-false,SiCepat,sicepat,SiUntung,siunt,essentials,Layanan SiUntung,standard,parcel,2 - 3,days
-false,SiCepat,sicepat,Best,best,essentials,Besok sampai tujuan,overnight,parcel,1,days
-false,SiCepat,sicepat,SDS,sds,standard,Same day service,same_day,parcel,1,days
-false,SiCepat,sicepat,GOKIL,gokil,premium,Layanan kargo,standard,freight,3 - 4,days
-false,Sentral Cargo,sentralcargo,Land Electronic,land_electronic,free,Layanan Elektronik via Darat,standard,freight,3 - 4,days
-false,Sentral Cargo,sentralcargo,Lan Non Electronic,land_non_electronic,premium,Layanan Non-Elektronik via Darat,same_day,freight,3 - 4,days
-false,Sentral Cargo,sentralcargo,Air Electronic,air_electronic,premium,Layanan Elektronik via Udara,standard,freight,1 - 2,days
-false,Sentral Cargo,sentralcargo,Air Non Electronic,air_non_electronic,premium,Layanan Non-Elektronik via Udara,standard,freight,1 - 2,days
-false,J&T,jnt,EZ,ez,free,Layanan reguler,standard,parcel,2 - 3,days
-false,IDexpress,idexpress,Reguler Half Kilo,reg_half_kilo,free,Layanan reguler half kilo,standard,parcel,2 - 3,days
-false,IDexpress,idexpress,Reguler,reg,free,Layanan reguler,standard,parcel,2 - 3,days
-false,IDexpress,idexpress,Same Day,smd,premium,Layanan Same Day,same_day,parcel,12,hours
-false,IDexpress,idexpress,ID Truck,idtruck,premium,Layanan Trucking,standard,freight,3 - 4,days
-false,RPX,rpx,Same Day Package,sdp,standard,Layanan sampai di hari yang sama.,same_day,parcel,12,hours
-false,RPX,rpx,Mid Day Package,mdp,premium,Layanan tiba sebelum jam 12 siang esoknya,overnight,parcel,1,days
-false,RPX,rpx,Next Day Package,ndp,essentials,Layanan sampai 1 hari kerja. ,overnight,parcel,1,days
-false,RPX,rpx,Reguler Package,rgp,free,Pengiriman standard,standard,parcel,2 - 4,days
-false,RPX,rpx,Paket Ambil Suka-suka,pas,free,Pengambilan barang mandiri di lokasi mitra RPX,standard,parcel,2 - 4,days
-false,RPX,rpx,Economy Delivery,ecp,free,Kirim paket >10 kg dengan biaya hemat,standard,parcel,2 - 4,days
-false,RPX,rpx,Heavy Weight Delivery,hwp,free,Kirim paket >20 kg dengan biaya hemat,standard,parcel,3 - 4,days
-false,JDL,jdl,Reguler,reg,free,Regular shipment,standard,parcel,2 - 4,days
-false,Wahana,wahana,Deno,deno,free,Layanan standard,standard,parcel,2 - 3,days
-false,Wahana,wahana,Normal,normal,free,Layanan standard,standard,parcel,2 - 3,days
-false,Pos Indonesia,pos,Reguler,reguler,free,Layanan pengiriman reguler,standard,parcel,2 - 3,days
-false,Pos Indonesia,pos,Same Day,same_day,standard,Layanan sampai di hari yang sama,same_day,parcel,0,days
-false,Pos Indonesia,pos,Next Day,next_day,essentials,Layanan paket besok sampai,overnight,parcel,1,days
-false,Pos Indonesia,pos,Kargo,kargo,standard,Layanan dengan tarif tingkat berat pertama mulai dari 3kg - 30kg,standard,freight,3 - 4,days
-false,Anteraja,anteraja,Reguler,reg,free,Regular shipment,standard,parcel,2 - 3,days
-false,Anteraja,anteraja,Same Day,same_day,standard,Same day service for Jakarta Area,same_day,parcel,6 - 8,days
-false,Anteraja,anteraja,Next Day,next_day,essentials,Next day service delivery,overnight,parcel,1,days
-false,SAP,sap,REG,reg,free,Regular service,standard,parcel,3 - 4,days
-false,SAP,sap,Reguler Half Kilo,reg_half_kilo,free,Layanan reguler half kilo,standard,parcel,2 - 3,days
-false,SAP,sap,ODS,ods,essentials,One Day Service,overnight,parcel,1,days
-false,SAP,sap,SDS,sds,standard,Same Day Service,same_day,parcel,2 - 3,days
-false,SAP,sap,Cargo,cargo,premium,Cargo Land Service,standard,freight,1,days
-false,Paxel,paxel,Small Package,small,standard,Layanan paket small,standard,parcel,8 - 12,hours
-false,Paxel,paxel,Medium Package,medium,standard,Layanan paket medium,standard,parcel,8 - 12,hours
-false,Paxel,paxel,Large Package,large,premium,Layanan paket large,standard,parcel,8 - 12,hours
-false,Paxel,paxel,Paxel Big,paxel_big,premium,Layanan kargo paxel big,standard,freight,8 - 12,hours
-false,Mr Speedy,mrspeedy,Instant Bike,instant_bike,standard,Delivery using bike,same_day,parcel,1 - 3,hours
-false,Mr Speedy,mrspeedy,Instant Car,instant_car,standard,Delivery using car,same_day,parcel,1 - 4,hours
-false,Borzo,borzo,Instant Bike,instant_bike,standard,Delivery using bike,instant,parcel,1 - 3,hours
-false,Borzo,borzo,Instant Car,instant_car,standard,Delivery using car,instant,parcel,1 - 4,hours
-false,Lalamove,lalamove,Motorcycle,motorcycle,premium,Delivery using bike,same_day,parcel,1 - 3,hours
-false,Lalamove,lalamove,MPV,mpv,premium,Delivery using car,same_day,freight,1 - 3,hours
-false,Lalamove,lalamove,Van,van,premium,Delivery using van,same_day,freight,2 - 4,hours
-false,Lalamove,lalamove,Truck,truck,premium,Delivery using truck,same_day,freight,3 - 6,hours
+id|name|code|image_url|company_name
+1|JNE|JNE|https://global-cdn.shipper.id/images/png/logistic/jne.240x90.png|PT Tiki Jalur Nugraha Ekakurir
+5|SiCepat|SCP|https://global-cdn.shipper.id/images/png/logistic/sicepat.240x90.png|PT SiCepat Ekspres Indonesia
+6|Tiki|TIK|https://global-cdn.shipper.id/images/png/logistic/tiki.240x90.png|PT Citra Van Titipan Kilat
+9|J&T|JNT|https://global-cdn.shipper.id/images/png/logistic/jnt.240x90.png|PT Global Jet Express
+15|Ninja Xpress|NIN|https://global-cdn.shipper.id/images/png/logistic/ninja.240x90.png|PT Andiarta Muzizat
+26|Paxel|PXL|https://global-cdn.shipper.id/images/png/logistic/paxel.240x90.png|Paxel Indonesia
+33|SAP|SAP|https://global-cdn.shipper.id/images/png/logistic/sap-express.240x90.png|SAP Logistic
+38|Indah Cargo|IND|https://global-cdn.shipper.id/images/png/logistic/indah-cargo.240x90.png|PT Indah Logistic Cargo
+39|Anteraja|ANT|https://global-cdn.shipper.id/images/png/logistic/anteraja.240x90.png|PT Anteraja
+46|J&T Cargo|JTCargo|https://global-cdn.shipper.id/images/png/logistic/jnt_cargo.240x90.png|PT Global Jet Cargo
+48|Ondelivery|ONDEL|https://global-cdn.shipper.id/images/png/logistic/ondelivery.240x90.png|Ondelivery
