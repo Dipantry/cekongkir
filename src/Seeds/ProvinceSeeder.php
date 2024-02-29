@@ -2,33 +2,22 @@
 
 namespace Dipantry\CekOngkir\Seeds;
 
-use Flynsarmy\CsvSeeder\CsvSeeder;
+use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 
-class ProvinceSeeder extends CsvSeeder
+class ProvinceSeeder extends Seeder
 {
-    public function __construct()
-    {
-        $this->table = config('cekongkir.table_prefix').'provinces';
-        $this->filename = dirname(__FILE__, 3).'/resources/csv/provinces.csv';
-        $this->csv_delimiter = '|';
-        $this->offset_rows = 1;
-        $this->mapping = [
-            0 => 'id',
-            1 => 'name',
-        ];
-    }
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
     public function run(): void
     {
-        DB::disableQueryLog();
-        DB::table($this->table);
+        $csv = new CsvToArray();
+        $file = dirname(__FILE__, 3).'/resources/csv/provinces.csv';
+        $header = ['id', 'name'];
+        $data = $csv->toArray($file, $header);
 
-        parent::run();
+        $collection = collect($data);
+        foreach ($collection->chunk(50) as $chunk) {
+            DB::table(config('cekongkir.table_prefix').'provinces')
+                ->insertOrIgnore($chunk->toArray());
+        }
     }
 }

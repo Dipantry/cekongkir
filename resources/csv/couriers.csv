@@ -1,12 +1,11 @@
-id|name|code|image_url|company_name
 1|JNE|JNE|https://global-cdn.shipper.id/images/png/logistic/jne.240x90.png|PT Tiki Jalur Nugraha Ekakurir
-5|SiCepat|SCP|https://global-cdn.shipper.id/images/png/logistic/sicepat.240x90.png|PT SiCepat Ekspres Indonesia
-6|Tiki|TIK|https://global-cdn.shipper.id/images/png/logistic/tiki.240x90.png|PT Citra Van Titipan Kilat
-9|J&T|JNT|https://global-cdn.shipper.id/images/png/logistic/jnt.240x90.png|PT Global Jet Express
-15|Ninja Xpress|NIN|https://global-cdn.shipper.id/images/png/logistic/ninja.240x90.png|PT Andiarta Muzizat
-26|Paxel|PXL|https://global-cdn.shipper.id/images/png/logistic/paxel.240x90.png|Paxel Indonesia
-33|SAP|SAP|https://global-cdn.shipper.id/images/png/logistic/sap-express.240x90.png|SAP Logistic
-38|Indah Cargo|IND|https://global-cdn.shipper.id/images/png/logistic/indah-cargo.240x90.png|PT Indah Logistic Cargo
-39|Anteraja|ANT|https://global-cdn.shipper.id/images/png/logistic/anteraja.240x90.png|PT Anteraja
-46|J&T Cargo|JTCargo|https://global-cdn.shipper.id/images/png/logistic/jnt_cargo.240x90.png|PT Global Jet Cargo
-48|Ondelivery|ONDEL|https://global-cdn.shipper.id/images/png/logistic/ondelivery.240x90.png|Ondelivery
+2|SiCepat|SCP|https://global-cdn.shipper.id/images/png/logistic/sicepat.240x90.png|PT SiCepat Ekspres Indonesia
+3|Tiki|TIK|https://global-cdn.shipper.id/images/png/logistic/tiki.240x90.png|PT Citra Van Titipan Kilat
+4|J&T|JNT|https://global-cdn.shipper.id/images/png/logistic/jnt.240x90.png|PT Global Jet Express
+5|Ninja Xpress|NIN|https://global-cdn.shipper.id/images/png/logistic/ninja.240x90.png|PT Andiarta Muzizat
+6|Paxel|PXL|https://global-cdn.shipper.id/images/png/logistic/paxel.240x90.png|Paxel Indonesia
+7|SAP|SAP|https://global-cdn.shipper.id/images/png/logistic/sap-express.240x90.png|SAP Logistic
+8|Indah Cargo|IND|https://global-cdn.shipper.id/images/png/logistic/indah-cargo.240x90.png|PT Indah Logistic Cargo
+9|Anteraja|ANT|https://global-cdn.shipper.id/images/png/logistic/anteraja.240x90.png|PT Anteraja
+10|J&T Cargo|JTCargo|https://global-cdn.shipper.id/images/png/logistic/jnt_cargo.240x90.png|PT Global Jet Cargo
+11|Ondelivery|ONDEL|https://global-cdn.shipper.id/images/png/logistic/ondelivery.240x90.png|Ondelivery

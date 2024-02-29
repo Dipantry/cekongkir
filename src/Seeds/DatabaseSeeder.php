@@ -31,6 +31,11 @@ class DatabaseSeeder extends Seeder
 
     private function reset(): void
     {
-        DB::table(config('rajaongkir.table_prefix').'couriers')->truncate();
+        DB::table(config('cekongkir.table_prefix').'couriers')->truncate();
+        DB::table(config('cekongkir.table_prefix').'rates')->truncate();
+        DB::table(config('cekongkir.table_prefix').'provinces')->truncate();
+        DB::table(config('cekongkir.table_prefix').'cities')->truncate();
+        DB::table(config('cekongkir.table_prefix').'districts')->truncate();
+        DB::table(config('cekongkir.table_prefix').'villages')->truncate();
     }
 }

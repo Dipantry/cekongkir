@@ -1,21 +1,20 @@
-id|name|type|courier_id
-11|Express|Regular|9
-12|Standard|Regular|15
-13|Reguler|Regular|33
-14|OKE|Regular|1
-15|REG|Regular|5
-16|REG|Regular|1
-17|YES|Express|1
-18|GOKIL|Trucking|5
-19|Next Day|Express|26
-20|JTR|Trucking|1
-21|Darat|Trucking|38
-22|REGULER|Regular|48
-23|REG|Regular|6
-24|CTC|Regular|1
-25|Regular|Regular|39
-26|NEXT DAY|Express|48
-27|BEST|Express|5
-28|Next Day|Express|39
-29|CTCYES|Express|1
-30|FastTrack|Trucking|46
+1|Express|Regular|9
+2|Standard|Regular|15
+3|Reguler|Regular|33
+4|OKE|Regular|1
+5|REG|Regular|5
+6|REG|Regular|1
+7|YES|Express|1
+8|GOKIL|Trucking|5
+9|Next Day|Express|26
+10|JTR|Trucking|1
+11|Darat|Trucking|38
+12|REGULER|Regular|48
+13|REG|Regular|6
+14|CTC|Regular|1
+15|Regular|Regular|39
+16|NEXT DAY|Express|48
+17|BEST|Express|5
+18|Next Day|Express|39
+19|CTCYES|Express|1
+20|FastTrack|Trucking|46
