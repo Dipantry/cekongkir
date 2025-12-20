@@ -11,7 +11,9 @@ use Illuminate\Database\Eloquent\Model;
  * @property string $code
  * @property string $image_url
  * @property string $company_name
+ * @property bool $is_active
  * @property-read Collection<int, CKRate> $rates
+ * @mixin Model
  */
 class CKCourier extends Model
 {
