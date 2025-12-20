@@ -1,11 +1,48 @@
-1|JNE|JNE|https://global-cdn.shipper.id/images/png/logistic/jne.240x90.png|PT Tiki Jalur Nugraha Ekakurir
-2|SiCepat|SCP|https://global-cdn.shipper.id/images/png/logistic/sicepat.240x90.png|PT SiCepat Ekspres Indonesia
-3|Tiki|TIK|https://global-cdn.shipper.id/images/png/logistic/tiki.240x90.png|PT Citra Van Titipan Kilat
-4|J&T|JNT|https://global-cdn.shipper.id/images/png/logistic/jnt.240x90.png|PT Global Jet Express
-5|Ninja Xpress|NIN|https://global-cdn.shipper.id/images/png/logistic/ninja.240x90.png|PT Andiarta Muzizat
-6|Paxel|PXL|https://global-cdn.shipper.id/images/png/logistic/paxel.240x90.png|Paxel Indonesia
-7|SAP|SAP|https://global-cdn.shipper.id/images/png/logistic/sap-express.240x90.png|SAP Logistic
-8|Indah Cargo|IND|https://global-cdn.shipper.id/images/png/logistic/indah-cargo.240x90.png|PT Indah Logistic Cargo
-9|Anteraja|ANT|https://global-cdn.shipper.id/images/png/logistic/anteraja.240x90.png|PT Anteraja
-10|J&T Cargo|JTCargo|https://global-cdn.shipper.id/images/png/logistic/jnt_cargo.240x90.png|PT Global Jet Cargo
-11|Ondelivery|ONDEL|https://global-cdn.shipper.id/images/png/logistic/ondelivery.240x90.png|Ondelivery
+1|JNE|JNE|https://global-cdn.shipper.id/images/png/logistic/jne.240x90.png|PT Tiki Jalur Nugraha Ekakurir|1
+2|ARK Xpress|ARK|http://cdn.shipper.cloud/logistic/small/ARK.png|PT ARK Ekspres Internasional|0
+3|RPX|RPX|https://global-cdn.shipper.id/images/png/logistic/rpx.240x90.png|PT Repex Perdana International|1
+4|POS Indonesia|POS|https://global-cdn.shipper.id/images/png/logistic/pos-indonesia.240x90.png|PT POS Indonesia|1
+5|SiCepat|SCP|https://global-cdn.shipper.id/images/png/logistic/sicepat.240x90.png|PT SiCepat Ekspres Indonesia|1
+6|Tiki|TIK|https://global-cdn.shipper.id/images/png/logistic/tiki.240x90.png|PT Citra Van Titipan Kilat|0
+7|Alfatrex|ATX|https://global-cdn.shipper.id/images/png/logistic/alfatrex.240x90.png|PT Sumber Wahana Sejahtera|0
+8|Fedex|FED|http://cdn.shipper.cloud/logistic/small/FED.png||0
+9|J&T|JNT|https://global-cdn.shipper.id/images/png/logistic/jnt.240x90.png|PT Global Jet Express|1
+10|Aramex (old)|ARX|http://cdn.shipper.cloud/logistic/small/ARX.png||0
+11|NCS|NCS|http://cdn.shipper.cloud/logistic/small/NCS.png|PT Nusantara Card Semesta|0
+12|aCommerce|ACM|http://cdn.shipper.cloud/logistic/small/ACM.png|PT aCommerce Lestari Logistik|0
+13|Wahana|WHN|https://global-cdn.shipper.id/images/png/logistic/wahana.240x90.png|PT Wahana Prestasi Logistik|0
+14|REX|REX|http://cdn.shipper.cloud/logistic/small/REX.png|PT Royal Express Indonesia|0
+15|Ninja Xpress|NIN|https://global-cdn.shipper.id/images/png/logistic/ninja.240x90.png|PT Andiarta Muzizat|1
+16|Lion Parcel|LPA|https://global-cdn.shipper.id/images/png/logistic/lion-parcel.240x90.png|PT Lion Express|0
+17|SML Express|SML|http://cdn.shipper.cloud/logistic/small/SML.png|PT Surya Ekspresindo Investama|0
+18|Grab Parcel|GRB_INACTIVE|https://global-cdn.shipper.id/images/png/logistic/grab.240x90.png||0
+19|SIGO|SMP|http://cdn.shipper.cloud/logistic/small/SMP.png||0
+21|Popbox|POP|http://cdn.shipper.cloud/logistic/small/POP.png||0
+22|Westbike|WSB|http://cdn.shipper.cloud/logistic/small/WSB.png||0
+24|DPEX|DPX|https://global-cdn.shipper.id/images/png/logistic/dpex.240x90.png|DPEX Internasional|0
+25|GO-SEND|GSN|https://global-cdn.shipper.id/images/png/logistic/gosend.240x90.png|Go-Jek Indonesia|1
+26|Paxel|PXL|https://global-cdn.shipper.id/images/png/logistic/paxel.240x90.png|Paxel Indonesia|0
+27|Lalamove|LAL|https://global-cdn.shipper.id/images/png/logistic/lal.240x90.png|Lalamove|1
+28|PopExpress|POX|http://cdn.shipper.cloud/logistic/small/POX.png|PopExpress|0
+29|Porter|POR|http://cdn.shipper.cloud/logistic/small/POR.png|Porter|0
+30|Union Logistics|UNL|http://cdn.shipper.cloud/logistic/small/UNL.png|Union Logistics|0
+31|Grab Express|GRB|https://global-cdn.shipper.id/images/png/logistic/grab.240x90.png|Grab|1
+32|Janio Domestic|JNO|http://cdn.shipper.cloud/logistic/small/JNO.png|Janio Domestic|0
+33|SAP|SAP|https://global-cdn.shipper.id/images/png/logistic/sap-express.240x90.png|SAP Logistic|1
+34|Zoom|ZOM|http://cdn.shipper.cloud/logistic/small/ZOM.png|Zoom Logistic|0
+36|Recommended by Shipper|RBS|https://global-cdn.shipper.id/images/png/logistic/shipper.240x90.png|PT SHIPPINDO TEKNOLOGI LOGISTIK|1
+37|Shipper|SHP|https://global-cdn.shipper.id/images/png/logistic/shipper.240x90.png|PT SHIPPINDO TEKNOLOGI LOGISTIK|1
+38|Indah Cargo|IND|https://global-cdn.shipper.id/images/png/logistic/indah-cargo.240x90.png|PT Indah Logistic Cargo|1
+39|Anteraja|ANT|https://global-cdn.shipper.id/images/png/logistic/anteraja.240x90.png|PT Anteraja|1
+40|Shopee Express|SHOPEX|https://global-cdn.shipper.id/images/png/logistic/shopee-express.240x90.png|PT Shopee Indonesia|1
+41|Dakota Cargo|DAKOTA|https://global-cdn.shipper.id/images/png/logistic/dakota.240x90.png|PT Dakota Logistik|0
+42|Lazada Express|LEX|https://global-cdn.shipper.id/images/png/logistic/lazada.240x90.png|PT Lazada Indonesia|1
+43|Janio|Janio|https://global-cdn.shipper.id/images/png/logistic/janio.240x120.png|Janio Asia |0
+44|Premium Express|PEX|https://global-cdn.shipper.id/images/png/logistic/premium-express.240x90.png|PT Premium Express|0
+45|Aramex|Aramex|https://global-cdn.shipper.id/images/png/logistic/aramex-white.240x90.png|Aramex|0
+46|J&T Cargo|JTCargo|https://global-cdn.shipper.id/images/png/logistic/jnt_cargo.240x90.png|PT Global Jet Cargo|1
+48|Ondelivery|ONDEL|https://global-cdn.shipper.id/images/png/logistic/ondelivery.240x90.png|Ondelivery|1
+49|Teleport|Teleport|https://media.shipper.id/112202/logistic/LOGO_919091e4-4c45-4ebb-a8cb-81c69732e547.png|Air Asia|0
+50|Client Own Logistic|CLO||Client Own Logistic|0
+51|ID Express|IDE||ID Express|0
+52|SENTRAL CARGO|SC|https://global-cdn.shipper.id/images/png/logistic/sc.240x90.png|SENTRAL CARGO|1

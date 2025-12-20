@@ -11,7 +11,7 @@ class CourierSeeder extends Seeder
     {
         $csv = new CsvToArray();
         $file = dirname(__FILE__, 3).'/resources/csv/couriers.csv';
-        $header = ['id', 'name', 'code', 'image_url', 'company_name'];
+        $header = ['id', 'name', 'code', 'image_url', 'company_name', 'is_active'];
         $data = $csv->toArray($file, $header);
 
         $collection = collect($data);
