@@ -18,13 +18,12 @@ query pricingDomestic(\$payload: ParamPricingDomesticInput!) {
           code
           status
           companyName
-          __typename
         }
 
         rate {
+          id
           name
           type
-          __typename
         }
 
         totalPrice
@@ -35,11 +34,8 @@ query pricingDomestic(\$payload: ParamPricingDomesticInput!) {
         insuranceFee
         surchargeFee
         discountValue
-        __typename
       }
-      __typename
     }
-    __typename
   }
 }
 EOT;
@@ -50,31 +46,33 @@ query locationProjection(\$payload: ParamLocationProjectionInput!) {
         edges {
             node {
                 id
-                admLevel2 {
+                admLevel1 {
+                    id
+                    shortName
                     longName
-                    __typename
+                }
+                admLevel2 {
+                    id
+                    shortName
+                    longName
                 }
                 admLevel3 {
+                    id
+                    shortName
                     longName
-                    __typename
                 }
                 admLevel4 {
+                    id
+                    shortName
                     longName
-                    __typename
                 }
                 admLevel5 {
-                    longName
-                    __typename
-                }
-                currentAdmLevel {
                     id
-                    __typename
+                    shortName
+                    longName
                 }
-                __typename
             }
-            __typename
         }
-        __typename
     }
 }
 EOT;
@@ -90,11 +88,8 @@ query logistics(\$payload: ParamLogisticInput) {
                 logoURL 
                 companyName 
                 status
-                __typename
             }
-            __typename    
-        } 
-        __typename
+        }
     }
 }
 EOT;
@@ -111,34 +106,23 @@ query trackingDirect(\$input: TrackingDirectInput!) {
     referenceNo
     logistic {
       id
-      __typename
     }
     shipmentDate
     details {
       datetime
-      shipperStatus {
-        name
-        description
-        __typename
-      }
       logisticStatus {
         name
         description
-        __typename
       }
-      __typename
     }
     consigner {
       name
       address
-      __typename
     }
     consignee {
       name
       address
-      __typename
     }
-    __typename
   }
 }
 EOT;

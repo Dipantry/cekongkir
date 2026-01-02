@@ -1,26 +1,15 @@
-11|Express|Regular|9
-12|Standard|Regular|15
-13|Reguler|Regular|33
-14|OKE|Regular|1
-15|REG|Regular|5
-16|REG|Regular|1
-17|YES|Express|1
-18|GOKIL|Trucking|5
-19|Next Day|Express|26
-20|JTR|Trucking|1
-21|Darat|Trucking|38
-22|REGULER|Regular|48
-23|REG|Regular|6
-24|CTC|Regular|1
-25|Regular|Regular|39
-26|NEXT DAY|Express|48
-27|BEST|Express|5
-28|Next Day|Express|39
-29|CTCYES|Express|1
-30|FastTrack|Trucking|46
-31|ONS|Express|6
-32|Cargo|Trucking|61
-33|Darat (Non Elektronik)|Trucking|52
-34|Darat (Elektronik)|Trucking|52
-35|Udara (Non Elektronik)|Trucking|52
-36|Udara (Elektronik)|Trucking|52
+1|REG|Regular|1
+2|YES|Express|1
+57|Express|Regular|9
+58|REG|Regular|5
+228|Standard|Regular|15
+312|JTR|Trucking|1
+349|Reguler|Regular|33
+562|Regular|Regular|39
+565|GOKIL|Trucking|5
+581|FastTrack|Trucking|46
+625|Darat (Elektronik)|Trucking|52
+626|Udara (Elektronik)|Trucking|52
+627|Darat (Non Elektronik)|Trucking|52
+628|Udara (Non Elektronik)|Trucking|52
+629|Cargo|Trucking|61

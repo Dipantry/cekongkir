@@ -1,6 +1,6 @@
 <?php
 
-namespace Dipantry\CekOngkir\Service\external;
+namespace Dipantry\CekOngkir\Service\External;
 
 use Dipantry\CekOngkir\Exception\ApiResponseException;
 use Exception;
@@ -20,10 +20,10 @@ class HttpService
     /**
      * @throws ApiResponseException
      */
-    public function post(string $url, array $params, string $key)
+    public function post(string $url, array $params, string $key, string $token = ""): array
     {
         try {
-            $response = Http::withHeaders($this->getHeaders())
+            $response = Http::withHeaders($this->getHeaders($token))
                 ->connectTimeout($this->timeout)->post($this->baseUrl.$url, $params);
         } catch (Exception) {
             throw new ApiResponseException('Connection Timed Out');
@@ -45,15 +45,16 @@ class HttpService
         return $result;
     }
 
-    private function getHeaders(): array
+    private function getHeaders(string $token): array
     {
         return [
             'Content-Type' => 'application/json',
             'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0',
             'Origin' => 'https://shipper.id',
             'Accept-Language' => 'en-US,en;q=0.5',
-            'x-app-name' => 'shp-homepage-v5',
-            'x-app-version' => '1.0.0',
+            'X-App-Name' => 'shp-homepage-v5',
+            'X-App-Version' => '1.0.0',
+            'X-HCaptcha-Token' => $token,
             'Referer' => 'https://shipper.id/',
         ];
     }

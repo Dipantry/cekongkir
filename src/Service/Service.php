@@ -4,7 +4,7 @@ namespace Dipantry\CekOngkir\Service;
 
 use Dipantry\CekOngkir\Constants\URLs;
 use Dipantry\CekOngkir\Exception\ApiResponseException;
-use Dipantry\CekOngkir\Service\external\HttpService;
+use Dipantry\CekOngkir\Service\External\HttpService;
 
 class Service
 {

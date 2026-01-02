@@ -6,7 +6,7 @@ use Dipantry\CekOngkir\Models\CKCourier;
 use Dipantry\CekOngkir\Models\CKRate;
 
 /**
- * @property-read string $logisticId
+ * @property-read string $courierId
  * @property-read string $rateId
  * @property-read int $totalPrice
  * @property-read int $minDay
@@ -20,7 +20,7 @@ use Dipantry\CekOngkir\Models\CKRate;
 class PricingDto
 {
     public function __construct(
-        public readonly string $logisticId,
+        public readonly string $courierId,
         public readonly string $rateId,
         public readonly int $totalPrice,
         public readonly int $minDay,
@@ -32,9 +32,9 @@ class PricingDto
         public readonly float $discountValue
     ){}
 
-    public function logistic(): CKCourier
+    public function courier(): CKCourier
     {
-        return CKCourier::find($this->logisticId);
+        return CKCourier::find($this->courierId);
     }
 
     public function rate(): CKRate
